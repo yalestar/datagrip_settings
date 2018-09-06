@@ -1,0 +1,105 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1536264590402">
+        <mark key="[" line="0" column="0" />
+        <mark key="m" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.claims_ana_output [REPORTING_TUNNEL]" timestamp="1536189443643">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_products [REPORTING_TUNNEL]" timestamp="1536102312886">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8edad788-1680-4ad4-9759-2e786d979ebf/console.sql" timestamp="1536256548480">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="38" column="41" />
+        <mark key="." line="38" column="41" />
+        <mark key="^" line="38" column="41" />
+      </file>
+      <file name="/campaign_products [REPORTING_TUNNEL]" timestamp="1536165056043">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1536190551794">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8edad788-1680-4ad4-9759-2e786d979ebf/console_3.sql" timestamp="1536266073390">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8edad788-1680-4ad4-9759-2e786d979ebf/console_1.sql" timestamp="1536271300291">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/event_logs [REPORTING_TUNNEL]" timestamp="1536258564629">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.event_logs_full [REPORTING_TUNNEL]" timestamp="1536269978484">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/event_logs_full [REPORTING_TUNNEL]" timestamp="1536276951365">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1536269979982">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.event_logs [REPORTING_TUNNEL]" timestamp="1536191249411">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>c</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">TElNSVQgMTA7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">U0VMRUNUICogRlJPTSB1c2Vycwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">U0VMRUNUIGNvdW50KCopCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">V0hFUkUgYWxpYXMuOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">RlJPTSAgYWxpYXMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">c2VsZWN0ICoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBmZnJ1eWpncGFhZG9vbGNvZHJmbS51c2VyczsK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">SEFWSU5HIFNVTShDQVNFCiAgICBXSEVOCiAgICBEQQogICAgICAgIERBVEVBREQoZGF0ZV9maWxsZWQsCiAgICAgICAgICAgIElOVEVSVkFMIEFCUyhkYXlzX3N1cHBseV9wYWlkKSBEQVkpID49IE5PVygpCiAgICBUSEVOCiAgICAgICAgU0lHTihkYXlzX3N1cHBseV9wYWlkKSAqIERBVEVESUZGKE5PVygpLCBkYXRlX2ZpbGxlZCkKICAgIEVMU0UgZGF5c19zdXBwbHlfcGFpZApFTkQpID4gMA==</text>
+      </register>
+      <register name="-" type="4">
+        <text>c</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

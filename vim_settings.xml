@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1536875964962">
+      <file name="/Dummy.txt" timestamp="1536876638010">
         <mark key="[" line="0" column="0" />
         <mark key="m" line="0" column="0" />
       </file>
@@ -26,7 +26,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.awsdms_apply_exceptions [REPORTING_TUNNEL]" timestamp="1536277335868">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1536861376446">
+      <file name="/a.sql" timestamp="1536877439271">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.awsdms_history [REPORTING_TUNNEL]" timestamp="1536277329499">
@@ -54,7 +54,7 @@
       <file name="/event_logs_full [REPORTING_TUNNEL]" timestamp="1536276951365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1536861093418">
+      <file name="/dummy.sql" timestamp="1536876735614">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.event_logs [REPORTING_TUNNEL]" timestamp="1536191249411">
@@ -70,7 +70,7 @@
         <text encoding="base64">RlJPTSBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jb25kaXRpb25fdHJlYXRtZW50czsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>created_at</text>
+        <text>`#{@</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">U0VMRUNUICoK</text>
@@ -101,7 +101,7 @@ FROM event_logs;</text>
         <text encoding="base64">RlJPTSAgYWxpYXMK</text>
       </register>
       <register name="-" type="4">
-        <text>created_at</text>
+        <text>`#{@</text>
       </register>
     </registers>
     <search>

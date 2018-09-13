@@ -35,9 +35,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8edad788-1680-4ad4-9759-2e786d979ebf/console_3.sql" timestamp="1536266073390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8edad788-1680-4ad4-9759-2e786d979ebf/console_1.sql" timestamp="1536860955612">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8edad788-1680-4ad4-9759-2e786d979ebf/console_1.sql" timestamp="1536869852828">
         <mark key="'" line="0" column="58" />
-        <mark key="^" line="0" column="58" />
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="36" />
+        <mark key="." line="11" column="24" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.awsdms_status [REPORTING_TUNNEL]" timestamp="1536277326634">
         <mark key="[" line="0" column="0" />
@@ -67,7 +70,7 @@
         <text encoding="base64">RlJPTSBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jb25kaXRpb25fdHJlYXRtZW50czsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>created_at</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">U0VMRUNUICoK</text>
@@ -98,7 +101,7 @@ FROM event_logs;</text>
         <text encoding="base64">RlJPTSAgYWxpYXMK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>created_at</text>
       </register>
     </registers>
     <search>

@@ -13,9 +13,9 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_products [REPORTING_TUNNEL]" timestamp="1536102312886">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8edad788-1680-4ad4-9759-2e786d979ebf/console.sql" timestamp="1536278217018">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8edad788-1680-4ad4-9759-2e786d979ebf/console.sql" timestamp="1536861125842">
         <mark key="'" line="13" column="20" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="35" column="75" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="13" column="20" />
         <mark key="." line="0" column="0" />
@@ -26,7 +26,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.awsdms_apply_exceptions [REPORTING_TUNNEL]" timestamp="1536277335868">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1536190551794">
+      <file name="/a.sql" timestamp="1536861376446">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.awsdms_history [REPORTING_TUNNEL]" timestamp="1536277329499">
@@ -35,12 +35,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8edad788-1680-4ad4-9759-2e786d979ebf/console_3.sql" timestamp="1536266073390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8edad788-1680-4ad4-9759-2e786d979ebf/console_1.sql" timestamp="1536277363994">
-        <mark key="'" line="13" column="58" />
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="13" column="58" />
-        <mark key="^" line="13" column="58" />
-        <mark key="." line="13" column="58" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8edad788-1680-4ad4-9759-2e786d979ebf/console_1.sql" timestamp="1536860955612">
+        <mark key="'" line="0" column="58" />
+        <mark key="^" line="0" column="58" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.awsdms_status [REPORTING_TUNNEL]" timestamp="1536277326634">
         <mark key="[" line="0" column="0" />
@@ -54,7 +51,7 @@
       <file name="/event_logs_full [REPORTING_TUNNEL]" timestamp="1536276951365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1536277339371">
+      <file name="/dummy.sql" timestamp="1536861093418">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.event_logs [REPORTING_TUNNEL]" timestamp="1536191249411">
@@ -69,8 +66,8 @@
       <register name="1" type="2">
         <text encoding="base64">RlJPTSBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jb25kaXRpb25fdHJlYXRtZW50czsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RlJPTSBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jb25kaXRpb25fdHJlYXRtZW50czsK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">U0VMRUNUICoK</text>
@@ -101,7 +98,7 @@ FROM event_logs;</text>
         <text encoding="base64">RlJPTSAgYWxpYXMK</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>;</text>
       </register>
     </registers>
     <search>

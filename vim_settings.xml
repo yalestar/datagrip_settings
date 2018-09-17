@@ -32,6 +32,9 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.awsdms_apply_exceptions [REPORTING_TUNNEL]" timestamp="1536277335868">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/836a59bf-2c32-44de-8c88-f8402f91a3b3/console_1.sql" timestamp="1537226697106">
+        <mark key="[" line="10" column="38" />
+      </file>
       <file name="/a.sql" timestamp="1536877439271">
         <mark key="[" line="0" column="0" />
       </file>
@@ -63,7 +66,10 @@
       <file name="/event_logs_full [REPORTING_TUNNEL]" timestamp="1536276951365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1536876735614">
+      <file name="/reporting_prd.ffruyjgpaadoolcodrfm.treatment_counts_costs [postgres@localhost]" timestamp="1537226868746">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1537227417560">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.event_logs [REPORTING_TUNNEL]" timestamp="1536191249411">

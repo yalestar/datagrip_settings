@@ -1,5 +1,7 @@
 <code_scheme name="Default" version="173">
   <SqlCodeStyleSettings version="1">
     <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="SELECT_ALIGN_AS" value="false" />
   </SqlCodeStyleSettings>
 </code_scheme>

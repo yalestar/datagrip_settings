@@ -72,7 +72,13 @@
       <file name="/reporting_prd.ffruyjgpaadoolcodrfm.treatment_counts_costs [postgres@localhost]" timestamp="1537303501073">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1537303501845">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/836a59bf-2c32-44de-8c88-f8402f91a3b3/console_2.sql" timestamp="1537304259626">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+      </file>
+      <file name="/dummy.sql" timestamp="1537304130667">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.event_logs [REPORTING_TUNNEL]" timestamp="1536191249411">

@@ -32,8 +32,11 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.awsdms_apply_exceptions [REPORTING_TUNNEL]" timestamp="1536277335868">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/836a59bf-2c32-44de-8c88-f8402f91a3b3/console_1.sql" timestamp="1537226697106">
-        <mark key="[" line="10" column="38" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/836a59bf-2c32-44de-8c88-f8402f91a3b3/console_1.sql" timestamp="1537230546361">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+        <mark key="^" line="16" column="27" />
       </file>
       <file name="/a.sql" timestamp="1536877439271">
         <mark key="[" line="0" column="0" />
@@ -82,38 +85,38 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBmZnJ1eWpncGFhZG9vbGNvZHJmbS50cmVhdG1lbnRfY291bnRzX2Nvc3RzIGxpbWl0IDEwIDsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBlbGlnaWJpbGl0aWVzIGxpbWl0IDEwIDsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBmZnJ1eWpncGFhZG9vbGNvZHJmbS50cmVhdG1lbnRfY291bnRzX2Nvc3RzIGxpbWl0IDEwIDsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBlbGlnaWJpbGl0aWVzIGxpbWl0IDEwIDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RlJPTSBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jb25kaXRpb25fdHJlYXRtZW50czsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBmZnJ1eWpncGFhZG9vbGNvZHJmbS50cmVhdG1lbnRfY291bnRzX2Nvc3RzIGxpbWl0IDEwIDsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">RlJPTSBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jb25kaXRpb25fdHJlYXRtZW50czsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">U0VMRUNUICoK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>SELECT count(*)
 FROM ffruyjgpaadoolcodrfm.claims;
 
 SELECT count(*)
 FROM event_logs;</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">TElNSVQgMTA7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">U0VMRUNUICogRlJPTSB1c2Vycwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUIGNvdW50KCopCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">V0hFUkUgYWxpYXMuOwo=</text>
+        <text encoding="base64">U0VMRUNUIGNvdW50KCopCg==</text>
       </register>
       <register name="-" type="4">
         <text>`#{@</text>

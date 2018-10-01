@@ -26,8 +26,10 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97dfefc9-c365-44f6-bc46-3ee89d5dac69/console.sql" timestamp="1538432905947">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97dfefc9-c365-44f6-bc46-3ee89d5dac69/console.sql" timestamp="1538436878028">
+        <mark key="[" line="9" column="71" />
+        <mark key="]" line="9" column="71" />
+        <mark key="." line="9" column="71" />
       </file>
       <file name="/campaign_products [REPORTING_TUNNEL]" timestamp="1536165056043">
         <mark key="[" line="0" column="0" />
@@ -57,7 +59,7 @@
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="/treatment_counts_costs [postgres@localhost]" timestamp="1538432864150">
+      <file name="/treatment_counts_costs [postgres@localhost]" timestamp="1538436790047">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.awsdms_status [REPORTING_TUNNEL]" timestamp="1536277326634">
@@ -93,8 +95,8 @@
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBlbGlnaWJpbGl0aWVzIGxpbWl0IDEwIDsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBlbGlnaWJpbGl0aWVzIGxpbWl0IDEwIDsK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBmZnJ1eWpncGFhZG9vbGNvZHJmbS50cmVhdG1lbnRfY291bnRzX2Nvc3RzIGxpbWl0IDEwIDsK</text>
@@ -125,7 +127,7 @@ FROM event_logs;</text>
         <text encoding="base64">U0VMRUNUIGNvdW50KCopCg==</text>
       </register>
       <register name="-" type="4">
-        <text>`#{@</text>
+        <text>'</text>
       </register>
     </registers>
     <search>

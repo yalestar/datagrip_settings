@@ -52,14 +52,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8edad788-1680-4ad4-9759-2e786d979ebf/console_3.sql" timestamp="1536266073390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8edad788-1680-4ad4-9759-2e786d979ebf/console_1.sql" timestamp="1537482216131">
-        <mark key="'" line="0" column="58" />
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="24" />
-        <mark key="^" line="11" column="36" />
-        <mark key="." line="11" column="24" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8edad788-1680-4ad4-9759-2e786d979ebf/console_1.sql" timestamp="1539195479764">
+        <mark key="[" line="396" column="2" />
       </file>
-      <file name="/treatment_counts_costs [postgres@localhost]" timestamp="1538436790047">
+      <file name="/treatment_counts_costs [postgres@localhost]" timestamp="1539193830707">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.awsdms_status [REPORTING_TUNNEL]" timestamp="1536277326634">

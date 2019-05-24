@@ -7,4 +7,10 @@
     <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="sall" value="select * from $table$$END$;" description="select all rows from a table" toReformat="false" toShortenFQNames="false">
+    <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>

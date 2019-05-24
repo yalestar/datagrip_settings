@@ -60,8 +60,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBPTiBjY2wuY2FtcGFpZ25faWQgPSBjYW1wYWlnbnMuaWQK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBPTiBjY2wuY2FtcGFpZ25faWQgPSBjYW1wYWlnbnMuaWQK</text>
+      <register name="&quot;" type="4">
+        <text>t.id, t.brand_name, cll.clinical_list_id, cll.rxnconso_str</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgSk9JTiBjYW1wYWlnbl9jbGluaWNhbF9saXN0cyBjY2wK</text>
@@ -76,7 +76,7 @@
         <text encoding="base64">U0VMRUNUCiAgICBpZCwKICAgIGJyYW5kX25hbWUKRlJPTQogICAgdHJlYXRtZW50cyB0CldIRVJFCiAgICBpZCBOT1QgSU4oCg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>t.id, t.brand_name, cll.clinical_list_id, cll.rxnconso_str</text>
       </register>
     </registers>
     <search>

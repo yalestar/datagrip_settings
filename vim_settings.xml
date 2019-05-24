@@ -12,12 +12,11 @@
       <file name="/a.sql" timestamp="1558726821712">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_4.sql" timestamp="1558728205765">
-        <mark key="'" line="0" column="8" />
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-        <mark key="^" line="0" column="15" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_4.sql" timestamp="1558729883702">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_3.sql" timestamp="1558726218360">
         <mark key="[" line="4" column="4" />
@@ -36,15 +35,17 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="/dummy.sql" timestamp="1558726861514">
+      <file name="/dummy.sql" timestamp="1558729701442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/THE_RAD.sql" timestamp="1558727545742">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/THE_RAD.sql" timestamp="1558730163498">
         <mark key="'" line="13" column="48" />
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_clinical_lists [REPORTING_TUNNEL]" timestamp="1558729700946">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -57,10 +58,22 @@
         <text encoding="base64">ICAgICAgICBKT0lOIHRyZWF0bWVudHMgdCBvbiBjdC50cmVhdG1lbnRfaWQgPSB0LmlkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUCiAgICBpZCwKICAgIGJyYW5kX25hbWUKRlJPTQogICAgdHJlYXRtZW50cyB0CldIRVJFCiAgICBpZCBOT1QgSU4oCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBPTiBjY2wuY2FtcGFpZ25faWQgPSBjYW1wYWlnbnMuaWQK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBPTiBjY2wuY2FtcGFpZ25faWQgPSBjYW1wYWlnbnMuaWQK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgSk9JTiBjYW1wYWlnbl9jbGluaWNhbF9saXN0cyBjY2wK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgbGVmdCBKT0lOIHRyZWF0bWVudHMgdDIgT04gdC5jbGluaWNhbF9saXN0X2lkID0gY2wuaWQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgSk9JTiBjbGluaWNhbF9saXN0cyBjbCBPTiBjY2wuY2xpbmljYWxfbGlzdF9pZCA9IGNsLmlkCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">U0VMRUNUCiAgICBpZCwKICAgIGJyYW5kX25hbWUKRlJPTQogICAgdHJlYXRtZW50cyB0CldIRVJFCiAgICBpZCBOT1QgSU4oCg==</text>
       </register>
       <register name="-" type="4">
         <text>c</text>

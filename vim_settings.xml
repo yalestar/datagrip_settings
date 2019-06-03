@@ -34,11 +34,11 @@
         <mark key="." line="3" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_5.sql" timestamp="1559590752844">
-        <mark key="'" line="19" column="31" />
+        <mark key="'" line="20" column="31" />
         <mark key="[" line="3" column="49" />
-        <mark key="]" line="19" column="322" />
-        <mark key="." line="19" column="30" />
-        <mark key="^" line="19" column="30" />
+        <mark key="]" line="20" column="322" />
+        <mark key="." line="20" column="30" />
+        <mark key="^" line="20" column="30" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1558726832708">
         <mark key="[" line="0" column="0" />

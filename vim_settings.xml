@@ -6,7 +6,13 @@
       <file name="/Dummy.txt" timestamp="1558726821724">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_campaign_eff [REPORTING_TUNNEL]" timestamp="1559681055382">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.clinical_list_lines [REPORTING_TUNNEL]" timestamp="1558726860602">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_campaign_conv_trend [REPORTING_TUNNEL]" timestamp="1559681036074">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_4.sql" timestamp="1558735503832">
@@ -20,6 +26,9 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console.sql" timestamp="1558037793725">
         <mark key="[" line="36" column="7" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_mbr_conv [REPORTING_TUNNEL]" timestamp="1559681110018">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.opportunities [REPORTING_TUNNEL]" timestamp="1558037357025">
         <mark key="[" line="0" column="0" />
@@ -45,7 +54,7 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="/dummy.sql" timestamp="1558736940768">
+      <file name="/dummy.sql" timestamp="1559681112124">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/THE_RAD.sql" timestamp="1558730163498">

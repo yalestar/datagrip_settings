@@ -15,6 +15,12 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_campaign_conv_trend [REPORTING_TUNNEL]" timestamp="1559682519113">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_7.sql" timestamp="1559684743912">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_4.sql" timestamp="1558735503832">
         <mark key="[" line="15" column="59" />
         <mark key="]" line="15" column="59" />
@@ -82,10 +88,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>IN(26, 48, 49, 50)</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>IN(26, 48, 49, 50)</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -93,7 +99,10 @@
       <register name="0" type="4">
         <text>&quot;9203883700&quot;, &quot;1401104751&quot;, &quot;1701560280&quot;, &quot;1500785290&quot;, &quot;1401844020&quot;, &quot;1402322530&quot;, &quot;1402317281&quot;, &quot;1601506901&quot;, &quot;1600950270&quot;, &quot;1202082910&quot;, &quot;9848988010&quot;, &quot;1601010500&quot;, &quot;1601905050&quot;, &quot;1501917000&quot;, &quot;1402325560&quot;, &quot;1402325560&quot;, &quot;9827048320&quot;, &quot;1601860940&quot;, &quot;1801127280&quot;, &quot;1801127280&quot;, &quot;1700478960&quot;</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG8ub3JnYW5pemF0aW9uX2lkIElOKDI2LCA0OCwgNDksIDUwKQo=</text>
+      </register>
+      <register name="2" type="4">
         <text>AND c.visible_state = 2
   AND o.organization_id = 25
   AND o.user_id IS NULL
@@ -103,29 +112,26 @@
   AND e.product_category_code = 'R'
   AND e.is_latest = 1</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">V0hFUkUgVFJVRQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aWQsCiAgICAgICBwcmltYXJ5X25hbWUsCiAgICAgICBzZWNvbmRhcnlfbmFtZSwKICAgICAgIGNvc3QsCiAgICAgICBtYWludGVuYW5jZV9tZWRpY2F0aQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">U0VMRUNUCiAgICBpZCwKICAgIGJyYW5kX25hbWUKRlJPTQogICAgdHJlYXRtZW50cyB0CldIRVJFCiAgICBpZCBOT1QgSU4oCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgSk9JTiB0cmVhdG1lbnRfY2F0ZWdvcmllcyB0Y2F0IE9OIHQudHJlYXRtZW50X2NhdGVnb3J5X2lkID0gdGNhdC5pZAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdC50cmVhdG1lbnRfaWQgPSBjYW1wYWlnbl90cmVhdG1lbnRzLnRyZWF0bWVudF9pZCkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIE9OIChjdC5jb25kaXRpb25faWQgPSBjYW1wYWlnbl90cmVhdG1lbnRzLmNvbmRpdGlvbl9pZCBBTkQK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgTEVGVCBPVVRFUiBKT0lOIGNvbmRpdGlvbl90cmVhdG1lbnRzIGN0Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHQudmlzaWJsZV9zdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgTEVGVCBPVVRFUiBKT0lOIGNvbmRpdGlvbl90cmVhdG1lbnRzIGN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559766157389">
+      <file name="/Dummy.txt" timestamp="1559769715045">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_campaign_eff [REPORTING_TUNNEL]" timestamp="1559682519200">
@@ -48,20 +48,20 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.hv_treatments_costs [REPORTING_TUNNEL]" timestamp="1559766594584">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1559766144395">
+      <file name="/a.sql" timestamp="1559769715039">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_8.sql" timestamp="1559768265970">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_8.sql" timestamp="1559769569078">
         <mark key="[" line="25" column="1" />
         <mark key="]" line="48" column="3" />
         <mark key="^" line="48" column="3" />
         <mark key="." line="48" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_6.sql" timestamp="1559764181770">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="1" column="23" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_6.sql" timestamp="1559769734385">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_3.sql" timestamp="1559584694505">
         <mark key="[" line="14" column="45" />
@@ -106,10 +106,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'#{lookback_date}'</text>
+        <text>count(c.id)</text>
       </register>
       <register name="-" type="4">
-        <text>'#{lookback_date}'</text>
+        <text>count(c.id)</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -117,39 +117,32 @@
       <register name="0" type="4">
         <text>&quot;9203883700&quot;, &quot;1401104751&quot;, &quot;1701560280&quot;, &quot;1500785290&quot;, &quot;1401844020&quot;, &quot;1402322530&quot;, &quot;1402317281&quot;, &quot;1601506901&quot;, &quot;1600950270&quot;, &quot;1202082910&quot;, &quot;9848988010&quot;, &quot;1601010500&quot;, &quot;1601905050&quot;, &quot;1501917000&quot;, &quot;1402325560&quot;, &quot;1402325560&quot;, &quot;9827048320&quot;, &quot;1601860940&quot;, &quot;1801127280&quot;, &quot;1801127280&quot;, &quot;1700478960&quot;</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgSU5ERVggbWVtYmVyX2lkIChtZW1iZXJfaWQpLAogICAgICBJTkRFWCB0cmVhdG1lbnRfaWQgKHRyZWF0bWVudF9pZCk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">V0hFUkUgdC5pZCBOT1QgSU4gKAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbmQgYy52aXNpYmxlX3N0YXRlID4gMDsK</text>
+        <text encoding="base64">ICAgIFNFTEVDVCB0cmVhdG1lbnRfaWQKICAgIEZST00gY2FtcGFpZ25fdHJlYXRtZW50cyBjdAogICAgICAgICAgICAgSk9JTgogICAgICAgICBjYW1wYWlnbnMgT04gY2FtcGFpZ25zLmlkID0gY3QuY2FtcGFpZ25faWQKICAgIFdIRVJFIHRyZWF0bWVudF90eXBlID0gMAogICAgICBBTkQgY2FtcGFpZ25zLnZpc2libGVfc3RhdGUgSU4gKDEsIDIpKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBXSEVSRSBjLmNhbXBhaWduX3R5cGUgPSAwCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgSU5ERVggbWVtYmVyX2lkIChtZW1iZXJfaWQpLAogICAgICBJTkRFWCB0cmVhdG1lbnRfaWQgKHRyZWF0bWVudF9pZCk=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjYW1wYWlnbnMgYyBPTiBjLmlkID0gby5jYW1wYWlnbl9pZAo=</text>
+        <text encoding="base64">ICBhbmQgYy52aXNpYmxlX3N0YXRlID4gMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvLmlkIGFzIG9wcF9pZCwKICAgIG8ubWVtYmVyX2lkLAogICAgYy5pZCBhcyBjYW1wYWlnbl9pZCwKICAgIGMubmFtZSwKICAgIGMuY2FtcGFpZ25fdHlwZSwKICAgIGMudGl0bGUsCiAgICBvLnVzZXJfaWQK</text>
+        <text encoding="base64">ICBXSEVSRSBjLmNhbXBhaWduX3R5cGUgPSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG8ub3JnYW5pemF0aW9uX2lkIGFzIG9yZ19pZCwK</text>
+        <text encoding="base64">ICBjYW1wYWlnbnMgYyBPTiBjLmlkID0gby5jYW1wYWlnbl9pZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG8ub3JnYW5pemF0aW9uX2lkIElOKDI2LCA0OCwgNDksIDUwKQo=</text>
+        <text encoding="base64">ICBvLmlkIGFzIG9wcF9pZCwKICAgIG8ubWVtYmVyX2lkLAogICAgYy5pZCBhcyBjYW1wYWlnbl9pZCwKICAgIGMubmFtZSwKICAgIGMuY2FtcGFpZ25fdHlwZSwKICAgIGMudGl0bGUsCiAgICBvLnVzZXJfaWQK</text>
       </register>
-      <register name="8" type="4">
-        <text>AND c.visible_state = 2
-  AND o.organization_id = 25
-  AND o.user_id IS NULL
-  AND o.created_at BETWEEN '2019-01-01'
-    AND '2019-03-31'
-  AND e.member_suffix_identifier = '0'
-  AND e.product_category_code = 'R'
-  AND e.is_latest = 1</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG8ub3JnYW5pemF0aW9uX2lkIGFzIG9yZ19pZCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">V0hFUkUgVFJVRQo=</text>
+        <text encoding="base64">ICAgIG8ub3JnYW5pemF0aW9uX2lkIElOKDI2LCA0OCwgNDksIDUwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

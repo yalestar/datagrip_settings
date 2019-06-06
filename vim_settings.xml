@@ -39,7 +39,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.claims [REPORTING_TUNNEL]" timestamp="1559682519288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1559857224960">
+      <file name="/dummy.sql" timestamp="1559858005769">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_clinical_lists [REPORTING_TUNNEL]" timestamp="1558729700946">
@@ -87,6 +87,9 @@
         <mark key="^" line="11" column="74" />
         <mark key="." line="11" column="74" />
       </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.claims_vp_analysis_final [REPORTING_TUNNEL]" timestamp="1559857969526">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1558726832708">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
@@ -95,12 +98,6 @@
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.hv_campaign_eligibilities [REPORTING_TUNNEL]" timestamp="1559857208594">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/THE_RAD.sql" timestamp="1558730163498">
-        <mark key="'" line="13" column="48" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
     </filemarks>
     <jumps>

@@ -21,7 +21,7 @@
       <file name="/frodo_tailfeathers.public.claims_1 [PostgreSQL - postgres@localhost]" timestamp="1559682519333">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1559937452539">
+      <file name="/a.sql" timestamp="1559946726681">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_6.sql" timestamp="1559931139294">
@@ -42,7 +42,7 @@
       <file name="/main.reviews [amazon_reviews]" timestamp="1559937457292">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1559937549987">
+      <file name="/dummy.sql" timestamp="1559945706535">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_clinical_lists [REPORTING_TUNNEL]" timestamp="1558729700946">
@@ -72,7 +72,7 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="15" column="59" />
       </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.hv_campaign_claims [REPORTING_TUNNEL]" timestamp="1559855655992">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.hv_campaign_claims [REPORTING_TUNNEL]" timestamp="1559945704939">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_mbr_conv [REPORTING_TUNNEL]" timestamp="1559682519239">
@@ -99,6 +99,12 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.claims_vp_analysis_final [REPORTING_TUNNEL]" timestamp="1559857969526">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_9.sql" timestamp="1559946891401">
+        <mark key="[" line="37" column="41" />
+        <mark key="]" line="22" column="21" />
+        <mark key="^" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1558726832708">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
@@ -119,10 +125,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS0gICAgICAgIHN0YXJfcmF0aW5nIEFTIFNUQVIK</text>
+        <text encoding="base64">Z3JvdXAgYnkgdC5wcmltYXJ5X25hbWUsIGNsYWltcy5yeG5jdWksIGNsbC5jb2Rpbmdfc3RyaW5nOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>DATE</text>
+        <text>member_pay_difference_amt</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -131,31 +137,31 @@
         <text encoding="base64">U0VMRUNUIHN0cmZ0aW1lKCclWS0lbScsIHJldmlld19kYXRlKSBEQVRFLAogICAgICAgc3Rhcl9yYXRpbmcgQVMgU1RBUiwKICAgICAgIGNvdW50KHN0YXJfcmF0aW5nKSBBUyBDT1VOVApGUk9NIHJldmlld3MKV0hFUkUgcHJvZHVjdF9pZCA9ICdCMDBMOUI3SUtFJwpHUk9VUCBCWSBEQVRFLCBTVEFSOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0gICAgICAgIHN0YXJfcmF0aW5nIEFTIFNUQVIK</text>
+        <text encoding="base64">Z3JvdXAgYnkgdC5wcmltYXJ5X25hbWUsIGNsYWltcy5yeG5jdWksIGNsbC5jb2Rpbmdfc3RyaW5nOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">LS0gU0VMRUNUIHN0cmZ0aW1lKCclWS0lbScsIHJldmlld19kYXRlKSBEQVRFLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgIGF3cF9hbXQsCiAgICAgICBjb2luc3VyYW5jZV9hbXQsCiAgICAgICBjb3BheV9pbnN1cmFuY2VfYW10LAogICAgICAgY29wYXlfaW5zdXJhbmNlX2FtdCw=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gCg==</text>
+        <text encoding="base64">LS0gICAgICAgIHN0YXJfcmF0aW5nIEFTIFNUQVIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gU0VMRUNUIHN0cmZ0aW1lKCclWS0lbScsIHJldmlld19kYXRlKSBEQVRFLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">R1JPVVAgQlkgREFURSwgU1RBUjsK</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSByZXBvcnRpbmcuaHZfdHJlYXRtZW50c19jb3N0cyB3aGVyZSB0cmVhdG1lbnRfaWQgPSA0OwoKc2VsZWN0IGlkLCBwcmltYXJ5X25hbWUsIGNvc3QgZnJvbSB0cmVhdG1lbnRzIHdoZXJlIGlkID0gNDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CW8uZmlyc3RfbmFtZSBvcGVuZmllbGQxLAoJby5tZW1iZXJfaWQgZW5yb2xsZWVpZCw=</text>
+      <register name="7" type="2">
+        <text encoding="base64">R1JPVVAgQlkgREFURSwgU1RBUjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBTRUxFQ1QKICBlLmlkIEFTIGVsaWdfaWQsCiAgICBlLnN1YnNjcmliZXJfaWRlbnRpZmllciwKICAgIGUucGVyc29uX2lkZW50aWZpZXIsCiAgICBlLnByb2R1Y3RfaWRlbnRpZmllciwKICAgIGUubWVtYmVyX3N1ZmZpeF9pZGVudGlmaWVyLAogICAgZS5wZXJzb25fdHlwZV9jb2RlLAogICAgZS5wcm9kdWN0X2NhdGVnb3J5X2NvZGUsCiAgICBlLnVwZGF0ZWRfYXQKICBGUk9NCiAgcmVwb3J0aW5nLmh2X2NhbXBhaWduX2VsaWdpYmlsaXRpZXMgZQogIFdIRVJFCiAgZS5zdWJzY3JpYmVyX2lkZW50aWZpZXIgPSAnMTYwMTAxMDUwJwogIGFuZCBwcm9kdWN0X2NhdGVnb3J5X2NvZGUgPSAnUicKICBvcmRlciBieSB1cGRhdGVkX2F0IGRlc2MgbGltaXQgMTsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSByZXBvcnRpbmcuaHZfdHJlYXRtZW50c19jb3N0cyB3aGVyZSB0cmVhdG1lbnRfaWQgPSA0OwoKc2VsZWN0IGlkLCBwcmltYXJ5X25hbWUsIGNvc3QgZnJvbSB0cmVhdG1lbnRzIHdoZXJlIGlkID0gNDsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">V0hFUkUgdC5pZCBOT1QgSU4gKAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CW8uZmlyc3RfbmFtZSBvcGVuZmllbGQxLAoJby5tZW1iZXJfaWQgZW5yb2xsZWVpZCw=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

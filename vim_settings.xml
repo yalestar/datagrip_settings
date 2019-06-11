@@ -50,7 +50,7 @@
       <file name="/main.reviews [amazon_reviews]" timestamp="1559937457292">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1560204188799">
+      <file name="/dummy.sql" timestamp="1560210519633">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_clinical_lists [REPORTING_TUNNEL]" timestamp="1558729700946">
@@ -107,11 +107,11 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.claims_vp_analysis_final [REPORTING_TUNNEL]" timestamp="1560203550961">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_9.sql" timestamp="1559948041680">
-        <mark key="[" line="37" column="41" />
-        <mark key="]" line="22" column="21" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_9.sql" timestamp="1560211256650">
+        <mark key="[" line="58" column="21" />
+        <mark key="]" line="58" column="21" />
         <mark key="^" line="22" column="21" />
-        <mark key="." line="22" column="21" />
+        <mark key="." line="58" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1558726832708">
         <mark key="[" line="0" column="0" />
@@ -136,10 +136,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>member_id</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>member_id</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -148,33 +148,33 @@
         <text encoding="base64">ICAgIHN1bV9jb3BheV9pbnNfYW10ICAgICAgVkFSQ0hBUigyNTUpIERFRkFVTFQgTlVMTCwK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">RlJPTSByZXBvcnRpbmcuaHZfY2FtcGFpZ25fY2xhaW1zOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">U0VMRUNUIG1heChjb2luc3VyYW5jZV9hbXQpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Igo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>DELETE
 FROM reporting.hv_campaign_claims
 WHERE adjustment_delete_code = 'D';</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">TElNSVQgMTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBBTkQgZGF0ZV9maWxsZWQgPiAnMjAxNy0xMi0wMScK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Z3JvdXAgYnkgdC5wcmltYXJ5X25hbWUsIGNsYWltcy5yeG5jdWksIGNsbC5jb2Rpbmdfc3RyaW5nOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgIGF3cF9hbXQsCiAgICAgICBjb2luc3VyYW5jZV9hbXQsCiAgICAgICBjb3BheV9pbnN1cmFuY2VfYW10LAogICAgICAgY29wYXlfaW5zdXJhbmNlX2FtdCw=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LS0gICAgICAgIHN0YXJfcmF0aW5nIEFTIFNUQVIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">LS0gU0VMRUNUIHN0cmZ0aW1lKCclWS0lbScsIHJldmlld19kYXRlKSBEQVRFLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gCg==</text>
+        <text encoding="base64">LS0gICAgICAgIHN0YXJfcmF0aW5nIEFTIFNUQVIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

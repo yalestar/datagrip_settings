@@ -22,12 +22,12 @@
       <file name="/frodo_tailfeathers.public.claims_1 [PostgreSQL - postgres@localhost]" timestamp="1559682519333">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/one_patient.sql" timestamp="1560295001145">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/one_patient.sql" timestamp="1560446208896">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="43" column="2" />
-        <mark key="]" line="43" column="2" />
-        <mark key="^" line="69" column="32" />
-        <mark key="." line="43" column="2" />
+        <mark key="[" line="76" column="44" />
+        <mark key="]" line="76" column="43" />
+        <mark key="." line="76" column="43" />
+        <mark key="^" line="76" column="43" />
       </file>
       <file name="/a.sql" timestamp="1560443987340">
         <mark key="[" line="0" column="0" />
@@ -50,7 +50,7 @@
       <file name="/main.reviews [amazon_reviews]" timestamp="1559937457292">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1560444107073">
+      <file name="/dummy.sql" timestamp="1560446103532">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_clinical_lists [REPORTING_TUNNEL]" timestamp="1558729700946">
@@ -107,7 +107,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.claims_vp_analysis_final [REPORTING_TUNNEL]" timestamp="1560296007278">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_9.sql" timestamp="1560373178204">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_9.sql" timestamp="1560445833861">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
@@ -139,7 +139,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBjYW1wYWlnbl90cmVhdG1lbnRzIHdoZXJlIGNhbXBhaWduX2lkID0gMTg7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -151,35 +151,35 @@
         <text encoding="base64">ICAgIHN1bV9jb3BheV9pbnNfYW10ICAgICAgVkFSQ0hBUigyNTUpIERFRkFVTFQgTlVMTCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBjYW1wYWlnbl90cmVhdG1lbnRzIHdoZXJlIGNhbXBhaWduX2lkID0gMTg7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVwb3J0aW5nLmNsYWltc192cF9hbmFseXNpc19maW5hbCA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVwb3J0aW5nLmNsYWltc192cF9hbmFseXNpc19maW5hbCA7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIFdIRVJFICI1U19jYXQiIGluICgnU3dpdGNoJywgJ1N0b3AnKSk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>SELECT DISTINCT should_notify
 FROM users;</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBBTkQgdC5pZCA9IDExMTI4MjsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CkZST00gY2xhaW1zIGpvaW4gY2xpbmljYWxfbGlzdF9saW5lcyBjbGwgb24gY2xhaW1zLnJ4bmN1aSA9IGNsbC5jb2Rpbmdfc3RyaW5nCmpvaW4gdHJlYXRtZW50cyB0IG9uIHQuY29kCiAgICAgY2xpbmljYWxfbGlzdF9saW5lcyBjbGwgT04gY2xsLmNsaW5pY2FsX2xpc3RfaWQgPSB0LmNsaW5pY2FsX2xpc3RfaWQKICAgICAgICAgSk9JTg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">V0hFUkUgbWVtYmVyX2lkID0gJzk4MjcwNDgzMicK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>s
 WHERE treatment_id IN
       (182, 434, 110467, 110759, 110865, 111206, 112159, 138992, 141710, 141711, 141712, 141763, 180, 181, 183, 110381,
        110409, 111521, 141714, 178);</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">RlJPTSByZXBvcnRpbmcuaHZfY2FtcGFpZ25fY2xhaW1zOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

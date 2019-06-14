@@ -22,12 +22,12 @@
       <file name="/frodo_tailfeathers.public.claims_1 [PostgreSQL - postgres@localhost]" timestamp="1559682519333">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/one_patient.sql" timestamp="1560543586142">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="98" column="43" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/one_patient.sql" timestamp="1560548035461">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="123" column="0" />
       </file>
       <file name="$USER_HOME$/dev/sqls/working/uintah_mailer.sql" timestamp="1560530722787">
         <mark key="[" line="33" column="49" />
@@ -151,10 +151,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>select * from campaigns where id = 642;</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>select * from campaigns where id = 642;</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>

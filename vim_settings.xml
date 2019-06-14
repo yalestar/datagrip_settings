@@ -22,12 +22,12 @@
       <file name="/frodo_tailfeathers.public.claims_1 [PostgreSQL - postgres@localhost]" timestamp="1559682519333">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/one_patient.sql" timestamp="1560456682347">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="88" column="13" />
-        <mark key="]" line="88" column="13" />
-        <mark key="." line="88" column="13" />
-        <mark key="^" line="76" column="43" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/one_patient.sql" timestamp="1560543586142">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="98" column="43" />
       </file>
       <file name="$USER_HOME$/dev/sqls/working/uintah_mailer.sql" timestamp="1560530722787">
         <mark key="[" line="33" column="49" />
@@ -151,10 +151,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TRUE</text>
+        <text>select * from campaigns where id = 642;</text>
       </register>
       <register name="-" type="4">
-        <text>TRUE</text>
+        <text>select * from campaigns where id = 642;</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -162,33 +162,36 @@
       <register name="0" type="4">
         <text>where id = 58;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CUFORCBvLnVzZXJfaWQgSVMgTlVMTAo=</text>
+      <register name="1" type="4">
+        <text>'140184402',
+                           '140232253', '160095027', '982704832', '150078529', '160190505', '140232556',
+                           '150191700', '160186094', '160150690', '170156028', '140110475', '920388370',
+                           '170047896'</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CUFORCBvLnVzZXJfaWQgSVMgTlVMTAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CUFORCBvLmNyZWF0ZWRfYXQgQkVUV0VFTiAnMjAxOS0wMS0wMScKCUFORCAnMjAxOS0wMy0zMSc=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBjYW1wYWlnbl90cmVhdG1lbnRzIHdoZXJlIGNhbXBhaWduX2lkID0gMTg7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVwb3J0aW5nLmNsYWltc192cF9hbmFseXNpc19maW5hbCA7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIFdIRVJFICI1U19jYXQiIGluICgnU3dpdGNoJywgJ1N0b3AnKSk7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>SELECT DISTINCT should_notify
 FROM users;</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBBTkQgdC5pZCA9IDExMTI4MjsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

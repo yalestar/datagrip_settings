@@ -16,6 +16,12 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_pharmacies [REPORTING_TUNNEL]" timestamp="1558736940231">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_2.sql" timestamp="1560791753628">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console.sql" timestamp="1558037793725">
         <mark key="[" line="36" column="7" />
       </file>
@@ -110,6 +116,12 @@
         <mark key="^" line="48" column="3" />
         <mark key="." line="48" column="3" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_12.sql" timestamp="1560792661357">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="48" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="48" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_5.sql" timestamp="1559683396053">
         <mark key="[" line="19" column="40" />
         <mark key="]" line="11" column="74" />
@@ -132,7 +144,7 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.hv_campaign_eligibilities [REPORTING_TUNNEL]" timestamp="1560554223045">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.hv_campaign_eligibilities [REPORTING_TUNNEL]" timestamp="1560791621174">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -150,11 +162,11 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_9.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIHN0cmluZ19hZ2coKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -162,36 +174,35 @@
       <register name="0" type="4">
         <text>where id = 58;</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgIHN0cmluZ19hZ2coKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">UkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyByZXBvcnRpbmcudHJlYXRtZW50X2NvdW50c19jb3N0cyAoCiAgICBpZCBTRVJJQUwgUFJJTUFSWSBLRVksCiAgICBtZW1iZXJfaWQgIHZhcmNoYXIoMjU1KSwKICAgIHRyZWF0bWVudF9pZCBpbnQsCiAgICByeG5jdWkgdmFyY2hhciwKICAgIHN1bV9hbGxvd2VkX2Nvc3QgdmFyY2hhciwKICAgIGJlbmVmaXRfY29kZSBWQVJDSEFSLAogICAgdHJlYXRtZW50X2Nvc3QgdmFyY2hhciwKICAgIGRheXNfc3VwcGx5X2NvdW50IGludCwKICAgIHByZXNjcmlwdGlvbl9xdWFudGl0eSB2YXJjaGFyLAogICAgcnhfY291bnQgaW50LAogICAgdG90YWxfYXZnX2Nvc3QgdmFyY2hhcgopOwoKQ1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgaWR4X21lbWJlcl9pZCBPTiByZXBvcnRpbmcudHJlYXRtZW50X2NvdW50c19jb3N0cyAobWVtYmVyX2lkKTsKQ1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgaWR4X3RyZWF0bWVudF9pZCBPTiByZXBvcnRpbmcudHJlYXRtZW50X2NvdW50c19jb3N0cyAodHJlYXRtZW50X2lkKTsK</text>
+      </register>
+      <register name="3" type="4">
         <text>'140184402',
                            '140232253', '160095027', '982704832', '150078529', '160190505', '140232556',
                            '150191700', '160186094', '160150690', '170156028', '140110475', '920388370',
                            '170047896'</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CUFORCBvLnVzZXJfaWQgSVMgTlVMTAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CUFORCBvLmNyZWF0ZWRfYXQgQkVUV0VFTiAnMjAxOS0wMS0wMScKCUFORCAnMjAxOS0wMy0zMSc=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBjYW1wYWlnbl90cmVhdG1lbnRzIHdoZXJlIGNhbXBhaWduX2lkID0gMTg7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVwb3J0aW5nLmNsYWltc192cF9hbmFseXNpc19maW5hbCA7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFdIRVJFICI1U19jYXQiIGluICgnU3dpdGNoJywgJ1N0b3AnKSk7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>SELECT DISTINCT should_notify
-FROM users;</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

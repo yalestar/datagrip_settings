@@ -35,11 +35,11 @@
         <mark key="." line="111" column="0" />
         <mark key="^" line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/sqls/working/uintah_mailer.sql" timestamp="1560794578928">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="30" column="46" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/dev/sqls/working/uintah_mailer.sql" timestamp="1560800462708">
+        <mark key="[" line="40" column="43" />
+        <mark key="]" line="40" column="61" />
+        <mark key="^" line="40" column="61" />
+        <mark key="." line="40" column="61" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_10.sql" timestamp="1560458296492">
         <mark key="[" line="34" column="24" />
@@ -47,8 +47,10 @@
         <mark key="^" line="31" column="29" />
         <mark key="." line="34" column="24" />
       </file>
-      <file name="/a.sql" timestamp="1560443987340">
-        <mark key="[" line="0" column="0" />
+      <file name="/a.sql" timestamp="1560800348707">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="28" />
+        <mark key="." line="12" column="28" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_6.sql" timestamp="1560444018629">
         <mark key="[" line="73" column="0" />
@@ -80,8 +82,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559937452546">
+      <file name="/Dummy.txt" timestamp="1560800336692">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.claims [PostgreSQL - postgres@localhost]" timestamp="1560296007418">
         <mark key="[" line="0" column="0" />
@@ -163,10 +167,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>person_</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>person_</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -175,34 +179,66 @@
         <text>where id = 58;</text>
       </register>
       <register name="1" type="4">
+        <text>ELECT *
+FROM opportunities
+WHERE member_id IN
+      ('950183048', '140001494', '130185231', '120015860', '170115047', '950339895', '950117961', '950117961',
+       '160011931', '130082720', '170156527', '950182975', '950182975', '950293578', '950146560', '170089584',
+       '950308136', '120116111', '110157450', '950381758', '950146528', '110160114', '110160114', '110160114',
+       '950315452', '950315452', '950182918', '950182918', '950182991', '950182991', '140165950', '140165950',
+       '140151861', '180111458', '950232131', '950232131', '950146558', '950245568', '950316005', '950146525',
+       '950146525', '950182961', '140264082', '950326522', '950326522', '130089457', '150227305', '150227305',
+       '180078985', '170196323', '170196323', '120096854', '950146544', '950372357', '950344770', '950147251',
+       '140140897', '140140897', '950183077', '150062965', '950321501', '950321501', '950321501', '950203569',
+       '150016262', '150040843', '170005793', '950182888', '160111898', '950182947', '170198366', '130006630',
+       '150058824', '950182923', '950182923', '950234283', '130188832', '140225845', '950228250', '140278966',
+       '110232533', '950406848', '950406848', '950406848', '950182948', '140139557', '160170037', '170137402',
+       '180110820', '950182977', '950270494', '950309317', '170040442', '170040442', '170195100', '950183049',
+       '140062815', '950094094', '950183053', '950146564', '950183047', '190016191', '120116111', '140140957',
+       '140140957', '950192791', '950292805', '950322518', '140037524', '170014779', '950182875', '950182875',
+       '950146541', '180174292', '950013832', '950013832', '950146961', '950146961', '120154508', '180171489',
+       '180171489', '950321474', '950321474', '150148827', '950183023', '950183023', '110230894', '170159061',
+       '950182974', '950182974', '170064781', '950200710', '150149132', '950146527', '950146527', '170156527',
+       '950182908', '950182908', '950256386', '950256386', '180039268', '110054637', '950182937', '140161076',
+       '140161076', '950212256', '950183067', '950377508', '950339985', '950182902', '140027801', '950182917',
+       '950392364', '950392364', '950392364', '170144226', '950146514', '950146551', '950183033', '150014822',
+       '160113112', '160113112', '160113112', '950317321', '950317321', '140114855', '950182879', '950182879',
+       '120001233', '950146541', '150027869', '160052979', '950304889', '950304889', '950182920', '950182920',
+       '950391432', '130149391', '950146524', '950183010', '950183010', '950183063', '950183063', '950302783',
+       '950183074', '950146558', '170229299', '950307957', '950307957', '150094857', '950293462', '950293462',
+       '110240183', '950182929', '950188178', '950188178', '950146536', '950146536', '950182887', '950182887',
+       '950183055', '950183055', '150011685', '110220061', '130149391', '160062933', '160062933', '950183028',
+       '950146545', '130137528', '170124537', '170124537', '170124537', '170124537', '170124537', '950228285',
+       '180078984', '180078984', '160039789', '160039789', '950183044', '140118914', '140118914', '950182988',
+       '69504634', '150096531', '950182980', '950239896', '150148804', '150148804', '492681', '492681', '170010338',
+       '950307661', '950307661', '110170059') and organization_id = 58;</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CgltZW1iZXJfc3VmZml4X2lkZW50aWZpZXIgdmFyY2hhcigyNTUpLA==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">Ci0tIHNlbGVjdCAqIGZyb20gb3JnYW5pemF0aW9ucyB3aGVyZSBpZCA9IDU4IG9yZGVyIGJ5IG5hbWUgZGVzYwpzZWxlY3QgY291bnQoKikgZnJvbSBvcmdhbml6YXRpb25fdXNlcnMgd2hlcmUgb3JnYW5pemF0aW9uX2lkID0gNTg7</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgIHN0cmluZ19hZ2coKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">UkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyByZXBvcnRpbmcudHJlYXRtZW50X2NvdW50c19jb3N0cyAoCiAgICBpZCBTRVJJQUwgUFJJTUFSWSBLRVksCiAgICBtZW1iZXJfaWQgIHZhcmNoYXIoMjU1KSwKICAgIHRyZWF0bWVudF9pZCBpbnQsCiAgICByeG5jdWkgdmFyY2hhciwKICAgIHN1bV9hbGxvd2VkX2Nvc3QgdmFyY2hhciwKICAgIGJlbmVmaXRfY29kZSBWQVJDSEFSLAogICAgdHJlYXRtZW50X2Nvc3QgdmFyY2hhciwKICAgIGRheXNfc3VwcGx5X2NvdW50IGludCwKICAgIHByZXNjcmlwdGlvbl9xdWFudGl0eSB2YXJjaGFyLAogICAgcnhfY291bnQgaW50LAogICAgdG90YWxfYXZnX2Nvc3QgdmFyY2hhcgopOwoKQ1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgaWR4X21lbWJlcl9pZCBPTiByZXBvcnRpbmcudHJlYXRtZW50X2NvdW50c19jb3N0cyAobWVtYmVyX2lkKTsKQ1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgaWR4X3RyZWF0bWVudF9pZCBPTiByZXBvcnRpbmcudHJlYXRtZW50X2NvdW50c19jb3N0cyAodHJlYXRtZW50X2lkKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>'140184402',
                            '140232253', '160095027', '982704832', '150078529', '160190505', '140232556',
                            '150191700', '160186094', '160150690', '170156028', '140110475', '920388370',
                            '170047896'</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CUFORCBvLnVzZXJfaWQgSVMgTlVMTAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CUFORCBvLmNyZWF0ZWRfYXQgQkVUV0VFTiAnMjAxOS0wMS0wMScKCUFORCAnMjAxOS0wMy0zMSc=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjYW1wYWlnbl90cmVhdG1lbnRzIHdoZXJlIGNhbXBhaWduX2lkID0gMTg7Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CUFORCBvLmNyZWF0ZWRfYXQgQkVUV0VFTiAnMjAxOS0wMS0wMScKCUFORCAnMjAxOS0wMy0zMSc=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

@@ -16,6 +16,9 @@
       <file name="/frodo_tailfeathers.reporting.uintah_claims [PostgreSQL - postgres@localhost]" timestamp="1560895772762">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.clinical_lists [REPORTING_TUNNEL]" timestamp="1560897763350">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_pharmacies [REPORTING_TUNNEL]" timestamp="1558736940231">
         <mark key="[" line="0" column="0" />
       </file>
@@ -49,7 +52,7 @@
         <mark key="^" line="31" column="29" />
         <mark key="." line="34" column="24" />
       </file>
-      <file name="/a.sql" timestamp="1560895716116">
+      <file name="/a.sql" timestamp="1560897766841">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="28" />
         <mark key="." line="12" column="28" />
@@ -75,13 +78,13 @@
       <file name="/main.reviews [amazon_reviews]" timestamp="1559937457292">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1560895778672">
+      <file name="/dummy.sql" timestamp="1560897780919">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_clinical_lists [REPORTING_TUNNEL]" timestamp="1558729700946">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560895716109">
+      <file name="/Dummy.txt" timestamp="1560897766837">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -89,7 +92,7 @@
       <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.claims [PostgreSQL - postgres@localhost]" timestamp="1560296007418">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.clinical_list_lines [REPORTING_TUNNEL]" timestamp="1558726860602">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.clinical_list_lines [REPORTING_TUNNEL]" timestamp="1560897727983">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_campaign_conv_trend [REPORTING_TUNNEL]" timestamp="1559682519113">
@@ -125,6 +128,9 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.opportunities [REPORTING_TUNNEL]" timestamp="1558037357025">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.treatments [REPORTING_TUNNEL]" timestamp="1560897684608">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.hv_treatments_costs [REPORTING_TUNNEL]" timestamp="1560444106413">
         <mark key="[" line="0" column="0" />
       </file>
@@ -134,11 +140,11 @@
         <mark key="^" line="48" column="3" />
         <mark key="." line="48" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_5.sql" timestamp="1560896499952">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-        <mark key="^" line="0" column="14" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_5.sql" timestamp="1560897881155">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="10" column="35" />
+        <mark key="^" line="3" column="78" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_13.sql" timestamp="1560803026359">
         <mark key="[" line="11" column="6" />
@@ -161,6 +167,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.claims_vp_analysis_final [REPORTING_TUNNEL]" timestamp="1560296007278">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.clinical_list_ndcs [REPORTING_TUNNEL]" timestamp="1560897741401">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_9.sql" timestamp="1560445833861">
@@ -200,8 +209,8 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_9.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZmcnV5amdwYWFkb29sY29kcmZtLnRyZWF0bWVudHMgdCBvbiB0LmNsaW5pY2FsX2xpc3RfaWQK</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -213,18 +222,21 @@
         <text>where id = 58;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZmcnV5amdwYWFkb29sY29kcmZtLnRyZWF0bWVudHMgdCBvbiB0LmNsaW5pY2FsX2xpc3RfaWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V0hFUkUgZmlyc3RfbmFtZSA9ICdSSUNIQVJEJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSByZXBvcnRpbmcuaHZfdHJlYXRtZW50c19jb3N0cwo=</text>
+        <text encoding="base64">V0hFUkUgZmlyc3RfbmFtZSA9ICdSSUNIQVJEJwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">U0VMRUNUICogRlJPTSByZXBvcnRpbmcuaHZfdHJlYXRtZW50c19jb3N0cwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICBXSEVSRSBtZW1iZXJfaWQgPSAnMTYwMTg2MDlzZWxlY3QgKiBmcm9tIDsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>SELECT *
 FROM opportunities
 WHERE first_name = 'MARYANN'
@@ -244,7 +256,7 @@ WHERE recipientname NOT IN (
     SELECT o.first_name || ' ' || o.last_name AS recip
     FROM opportunities o);</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>SELECT *
 FROM treatments t
          JOIN clinical_lists cl ON t.clinical_list_id = cl.id
@@ -258,49 +270,14 @@ where t.clinical_list_id = 49
 GROUP BY t.id
 order by 2 desc;</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgSk9JTiBjbGluaWNhbF9saXN0X2xpbmVzIGNsbCBPTiBjbGwuY2xpbmljYWxfbGlzdF9pZCA9IHQuY2xpbmljYWxfbGlzdF9pZAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>SELECT *
 FROM reporting.hv_treatments_costs
 WHERE member_id = '160186094'
 --   AND treatment_id = 80404;</text>
-      </register>
-      <register name="9" type="4">
-        <text>ELECT *
-FROM opportunities
-WHERE member_id IN
-      ('950183048', '140001494', '130185231', '120015860', '170115047', '950339895', '950117961', '950117961',
-       '160011931', '130082720', '170156527', '950182975', '950182975', '950293578', '950146560', '170089584',
-       '950308136', '120116111', '110157450', '950381758', '950146528', '110160114', '110160114', '110160114',
-       '950315452', '950315452', '950182918', '950182918', '950182991', '950182991', '140165950', '140165950',
-       '140151861', '180111458', '950232131', '950232131', '950146558', '950245568', '950316005', '950146525',
-       '950146525', '950182961', '140264082', '950326522', '950326522', '130089457', '150227305', '150227305',
-       '180078985', '170196323', '170196323', '120096854', '950146544', '950372357', '950344770', '950147251',
-       '140140897', '140140897', '950183077', '150062965', '950321501', '950321501', '950321501', '950203569',
-       '150016262', '150040843', '170005793', '950182888', '160111898', '950182947', '170198366', '130006630',
-       '150058824', '950182923', '950182923', '950234283', '130188832', '140225845', '950228250', '140278966',
-       '110232533', '950406848', '950406848', '950406848', '950182948', '140139557', '160170037', '170137402',
-       '180110820', '950182977', '950270494', '950309317', '170040442', '170040442', '170195100', '950183049',
-       '140062815', '950094094', '950183053', '950146564', '950183047', '190016191', '120116111', '140140957',
-       '140140957', '950192791', '950292805', '950322518', '140037524', '170014779', '950182875', '950182875',
-       '950146541', '180174292', '950013832', '950013832', '950146961', '950146961', '120154508', '180171489',
-       '180171489', '950321474', '950321474', '150148827', '950183023', '950183023', '110230894', '170159061',
-       '950182974', '950182974', '170064781', '950200710', '150149132', '950146527', '950146527', '170156527',
-       '950182908', '950182908', '950256386', '950256386', '180039268', '110054637', '950182937', '140161076',
-       '140161076', '950212256', '950183067', '950377508', '950339985', '950182902', '140027801', '950182917',
-       '950392364', '950392364', '950392364', '170144226', '950146514', '950146551', '950183033', '150014822',
-       '160113112', '160113112', '160113112', '950317321', '950317321', '140114855', '950182879', '950182879',
-       '120001233', '950146541', '150027869', '160052979', '950304889', '950304889', '950182920', '950182920',
-       '950391432', '130149391', '950146524', '950183010', '950183010', '950183063', '950183063', '950302783',
-       '950183074', '950146558', '170229299', '950307957', '950307957', '150094857', '950293462', '950293462',
-       '110240183', '950182929', '950188178', '950188178', '950146536', '950146536', '950182887', '950182887',
-       '950183055', '950183055', '150011685', '110220061', '130149391', '160062933', '160062933', '950183028',
-       '950146545', '130137528', '170124537', '170124537', '170124537', '170124537', '170124537', '950228285',
-       '180078984', '180078984', '160039789', '160039789', '950183044', '140118914', '140118914', '950182988',
-       '69504634', '150096531', '950182980', '950239896', '150148804', '150148804', '492681', '492681', '170010338',
-       '950307661', '950307661', '110170059') and organization_id = 58;</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

@@ -162,6 +162,12 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.hv_campaign_eligibilities [REPORTING_TUNNEL]" timestamp="1560878309938">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/skylario.sql" timestamp="1560879593533">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_4.sql" />
@@ -179,12 +185,20 @@
     <registers>
       <register name="&quot;" type="4">
         <text>SELECT *
-FROM reporting.hv_treatments_costs
-WHERE member_id = '160186094'
---   AND treatment_id = 80404;</text>
+FROM treatments t
+         JOIN clinical_lists cl ON t.clinical_list_id = cl.id
+         JOIN clinical_list_lines cll ON cll.id = cl.cl;
+
+SELECT t.id, count(ndcs.ndc)
+FROM treatments t
+         JOIN clinical_list_ndcs ndcs ON t.clinical_list_id =
+                                         ndcs.clinical_list_id
+where t.clinical_list_id = 49
+GROUP BY t.id
+order by 2 desc;</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>cts.treatment_type</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -194,11 +208,28 @@ WHERE member_id = '160186094'
       </register>
       <register name="1" type="4">
         <text>SELECT *
+FROM treatments t
+         JOIN clinical_lists cl ON t.clinical_list_id = cl.id
+         JOIN clinical_list_lines cll ON cll.id = cl.cl;
+
+SELECT t.id, count(ndcs.ndc)
+FROM treatments t
+         JOIN clinical_list_ndcs ndcs ON t.clinical_list_id =
+                                         ndcs.clinical_list_id
+where t.clinical_list_id = 49
+GROUP BY t.id
+order by 2 desc;</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgSk9JTiBjbGluaWNhbF9saXN0X2xpbmVzIGNsbCBPTiBjbGwuY2xpbmljYWxfbGlzdF9pZCA9IHQuY2xpbmljYWxfbGlzdF9pZAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>SELECT *
 FROM reporting.hv_treatments_costs
 WHERE member_id = '160186094'
 --   AND treatment_id = 80404;</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>ELECT *
 FROM opportunities
 WHERE member_id IN
@@ -233,29 +264,23 @@ WHERE member_id IN
        '69504634', '150096531', '950182980', '950239896', '150148804', '150148804', '492681', '492681', '170010338',
        '950307661', '950307661', '110170059') and organization_id = 58;</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CgltZW1iZXJfc3VmZml4X2lkZW50aWZpZXIgdmFyY2hhcigyNTUpLA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Ci0tIHNlbGVjdCAqIGZyb20gb3JnYW5pemF0aW9ucyB3aGVyZSBpZCA9IDU4IG9yZGVyIGJ5IG5hbWUgZGVzYwpzZWxlY3QgY291bnQoKikgZnJvbSBvcmdhbml6YXRpb25fdXNlcnMgd2hlcmUgb3JnYW5pemF0aW9uX2lkID0gNTg7</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgIHN0cmluZ19hZ2coKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">UkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyByZXBvcnRpbmcudHJlYXRtZW50X2NvdW50c19jb3N0cyAoCiAgICBpZCBTRVJJQUwgUFJJTUFSWSBLRVksCiAgICBtZW1iZXJfaWQgIHZhcmNoYXIoMjU1KSwKICAgIHRyZWF0bWVudF9pZCBpbnQsCiAgICByeG5jdWkgdmFyY2hhciwKICAgIHN1bV9hbGxvd2VkX2Nvc3QgdmFyY2hhciwKICAgIGJlbmVmaXRfY29kZSBWQVJDSEFSLAogICAgdHJlYXRtZW50X2Nvc3QgdmFyY2hhciwKICAgIGRheXNfc3VwcGx5X2NvdW50IGludCwKICAgIHByZXNjcmlwdGlvbl9xdWFudGl0eSB2YXJjaGFyLAogICAgcnhfY291bnQgaW50LAogICAgdG90YWxfYXZnX2Nvc3QgdmFyY2hhcgopOwoKQ1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgaWR4X21lbWJlcl9pZCBPTiByZXBvcnRpbmcudHJlYXRtZW50X2NvdW50c19jb3N0cyAobWVtYmVyX2lkKTsKQ1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgaWR4X3RyZWF0bWVudF9pZCBPTiByZXBvcnRpbmcudHJlYXRtZW50X2NvdW50c19jb3N0cyAodHJlYXRtZW50X2lkKTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>'140184402',
                            '140232253', '160095027', '982704832', '150078529', '160190505', '140232556',
                            '150191700', '160186094', '160150690', '170156028', '140110475', '920388370',
                            '170047896'</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CUFORCBvLnVzZXJfaWQgSVMgTlVMTAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

@@ -99,11 +99,11 @@
         <mark key="^" line="25" column="17" />
         <mark key="." line="25" column="50" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_4.sql" timestamp="1560977341135">
-        <mark key="[" line="17" column="106" />
-        <mark key="]" line="16" column="37" />
-        <mark key="^" line="16" column="37" />
-        <mark key="." line="16" column="37" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_4.sql" timestamp="1560983281373">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="28" />
+        <mark key="^" line="24" column="39" />
+        <mark key="." line="23" column="28" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_4.sql" timestamp="1558735503832">
         <mark key="[" line="15" column="59" />
@@ -213,13 +213,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SELECT subscriber_identifier, patient_first_name, patient_last_name
-FROM reporting.uintah_claims
-WHERE ndc_code IN (
-    SELECT cln.ndc</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>tc</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -227,42 +224,42 @@ WHERE ndc_code IN (
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICBlbGlnLmFkZHJlc3NfY2l0eSwK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">YW5kIHN1YnNjcmliZXJfaWRlbnRpZmllciA9ICcxMTAxNzAwNTknIDsK</text>
+      </register>
+      <register name="2" type="4">
         <text>SELECT subscriber_identifier, patient_first_name, patient_last_name
 FROM reporting.uintah_claims
 WHERE ndc_code IN (
     SELECT cln.ndc</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIEpPSU4gZmZydXlqZ3BhYWRvb2xjb2RyZm0udHJlYXRtZW50X2NhdGVnb3JpZXMgdGMgT04gdC50cmVhdG1lbnRfY2F0ZWdvcnlfaWQgPSB0Yy5pZAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAgIEpPSU4gZmZydXlqZ3BhYWRvb2xjb2RyZm0udHJlYXRtZW50X2NhdGVnb3JpZXMgdGMgT04gdC50cmVhdG1lbnRfY2F0ZWdvcnlfaWQgPSB0Yy5pZAogICAgICAgICAgICAgSk9JTiBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jYW1wYWlnbl90cmVhdG1lbnRfY2F0ZWdvcmllcyBjdGMgT04gdGMuaWQgPSBjdGMudHJlYXRtZW50X2NhdGVnb3J5X2lk</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>SELECT t.id, cln.ndc
 FROM treatments t
          JOIN clinical_list_ndcs cln
               ON t.clinical_list_id = cln.clinical_list_id
 WHERE t.id = 183;</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>SELECT t.id treatment_id, t.primary_name, cln.ndc
 FROM treatments t
          JOIN clinical_list_ndcs cln
               ON t.clinical_list_id = cln.clinical_list_id;</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">O3NhCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBjbGFpbXMgd2hlcmUgb3JnYW5pemF0aW9uX2lkID0gNTg7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZmcnV5amdwYWFkb29sY29kcmZtLnRyZWF0bWVudHMgdCBvbiB0LmNsaW5pY2FsX2xpc3RfaWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

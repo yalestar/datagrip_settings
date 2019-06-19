@@ -41,14 +41,19 @@
         <mark key="^" line="31" column="29" />
         <mark key="." line="34" column="24" />
       </file>
-      <file name="/a.sql" timestamp="1560902426444">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.treatment_categories [REPORTING_TUNNEL]" timestamp="1560976403282">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1560976408843">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/uintah_investigation.sql" timestamp="1560974633994">
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/uintah_investigation.sql" timestamp="1560976328171">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="57" column="12" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_6.sql" timestamp="1560444018629">
         <mark key="[" line="73" column="0" />
@@ -68,13 +73,13 @@
       <file name="/main.reviews [amazon_reviews]" timestamp="1559937457292">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1560903477254">
+      <file name="/dummy.sql" timestamp="1560976403879">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_clinical_lists [REPORTING_TUNNEL]" timestamp="1558729700946">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560902426440">
+      <file name="/Dummy.txt" timestamp="1560976408835">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -94,8 +99,11 @@
         <mark key="^" line="25" column="17" />
         <mark key="." line="25" column="50" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_4.sql" timestamp="1560893508108">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_4.sql" timestamp="1560977157364">
+        <mark key="[" line="17" column="106" />
+        <mark key="]" line="16" column="37" />
+        <mark key="^" line="16" column="37" />
+        <mark key="." line="16" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_4.sql" timestamp="1558735503832">
         <mark key="[" line="15" column="59" />
@@ -180,7 +188,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.hv_campaign_eligibilities [REPORTING_TUNNEL]" timestamp="1560892403681">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/skylario.sql" timestamp="1560886824391">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/skylario.sql" timestamp="1560975552935">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="9" column="44" />
         <mark key="." line="9" column="44" />
@@ -204,11 +212,14 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_9.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">O3NhCg==</text>
+      <register name="&quot;" type="4">
+        <text>SELECT subscriber_identifier, patient_first_name, patient_last_name
+FROM reporting.uintah_claims
+WHERE ndc_code IN (
+    SELECT cln.ndc</text>
       </register>
       <register name="-" type="4">
-        <text>combined_member_id</text>
+        <text>tc</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -216,49 +227,42 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICBlbGlnLmFkZHJlc3NfY2l0eSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">O3NhCg==</text>
+      <register name="1" type="4">
+        <text>SELECT subscriber_identifier, patient_first_name, patient_last_name
+FROM reporting.uintah_claims
+WHERE ndc_code IN (
+    SELECT cln.ndc</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjbGFpbXMgd2hlcmUgb3JnYW5pemF0aW9uX2lkID0gNTg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIEpPSU4gZmZydXlqZ3BhYWRvb2xjb2RyZm0udHJlYXRtZW50X2NhdGVnb3JpZXMgdGMgT04gdC50cmVhdG1lbnRfY2F0ZWdvcnlfaWQgPSB0Yy5pZAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgIEpPSU4gZmZydXlqZ3BhYWRvb2xjb2RyZm0udHJlYXRtZW50X2NhdGVnb3JpZXMgdGMgT04gdC50cmVhdG1lbnRfY2F0ZWdvcnlfaWQgPSB0Yy5pZAogICAgICAgICAgICAgSk9JTiBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jYW1wYWlnbl90cmVhdG1lbnRfY2F0ZWdvcmllcyBjdGMgT04gdGMuaWQgPSBjdGMudHJlYXRtZW50X2NhdGVnb3J5X2lk</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZmcnV5amdwYWFkb29sY29kcmZtLnRyZWF0bWVudHMgdCBvbiB0LmNsaW5pY2FsX2xpc3RfaWQK</text>
+      <register name="4" type="4">
+        <text>SELECT t.id, cln.ndc
+FROM treatments t
+         JOIN clinical_list_ndcs cln
+              ON t.clinical_list_id = cln.clinical_list_id
+WHERE t.id = 183;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>SELECT t.id treatment_id, t.primary_name, cln.ndc
+FROM treatments t
+         JOIN clinical_list_ndcs cln
+              ON t.clinical_list_id = cln.clinical_list_id;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">V0hFUkUgZmlyc3RfbmFtZSA9ICdSSUNIQVJEJwo=</text>
+        <text encoding="base64">O3NhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSByZXBvcnRpbmcuaHZfdHJlYXRtZW50c19jb3N0cwo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBjbGFpbXMgd2hlcmUgb3JnYW5pemF0aW9uX2lkID0gNTg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBXSEVSRSBtZW1iZXJfaWQgPSAnMTYwMTg2MDlzZWxlY3QgKiBmcm9tIDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>SELECT *
-FROM opportunities
-WHERE first_name = 'MARYANN'
-  AND last_name = 'BAIRD';
-
-
-SELECT *
-FROM eligibilities
-WHERE subscriber_identifier = '170064781';
-SELECT *
-FROM claims
-WHERE plan_member_identifier = '170064781';
-
-SELECT *
-FROM reporting.who_in
-WHERE recipientname NOT IN (
-    SELECT o.first_name || ' ' || o.last_name AS recip
-    FROM opportunities o);</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGZmcnV5amdwYWFkb29sY29kcmZtLnRyZWF0bWVudHMgdCBvbiB0LmNsaW5pY2FsX2xpc3RfaWQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

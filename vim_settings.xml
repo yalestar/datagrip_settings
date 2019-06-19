@@ -6,13 +6,6 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_campaign_eff [REPORTING_TUNNEL]" timestamp="1559682519200">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_7.sql" timestamp="1560294225870">
-        <mark key="'" line="48" column="38" />
-        <mark key="[" line="16" column="42" />
-        <mark key="]" line="16" column="42" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="16" column="42" />
-      </file>
       <file name="/frodo_tailfeathers.reporting.uintah_claims [PostgreSQL - postgres@localhost]" timestamp="1560895772762">
         <mark key="[" line="0" column="0" />
       </file>
@@ -31,15 +24,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console.sql" timestamp="1558037793725">
         <mark key="[" line="36" column="7" />
       </file>
-      <file name="/frodo_tailfeathers.public.claims_1 [PostgreSQL - postgres@localhost]" timestamp="1559682519333">
+      <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.campaign_treatments [PostgreSQL - postgres@localhost]" timestamp="1560902436262">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/one_patient.sql" timestamp="1560814637141">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="127" column="102" />
-        <mark key="]" line="127" column="101" />
-        <mark key="." line="127" column="101" />
-        <mark key="^" line="127" column="102" />
+      <file name="/frodo_tailfeathers.public.claims_1 [PostgreSQL - postgres@localhost]" timestamp="1559682519333">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/sqls/working/uintah_mailer.sql" timestamp="1560899277810">
         <mark key="[" line="0" column="79" />
@@ -52,7 +41,7 @@
         <mark key="^" line="31" column="29" />
         <mark key="." line="34" column="24" />
       </file>
-      <file name="/a.sql" timestamp="1560900455263">
+      <file name="/a.sql" timestamp="1560902426444">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="28" />
         <mark key="." line="12" column="28" />
@@ -78,13 +67,13 @@
       <file name="/main.reviews [amazon_reviews]" timestamp="1559937457292">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1560901282993">
+      <file name="/dummy.sql" timestamp="1560902438925">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_clinical_lists [REPORTING_TUNNEL]" timestamp="1558729700946">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560900457179">
+      <file name="/Dummy.txt" timestamp="1560902426440">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -143,16 +132,19 @@
         <mark key="^" line="48" column="3" />
         <mark key="." line="48" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_5.sql" timestamp="1560901698900">
-        <mark key="[" line="0" column="89" />
-        <mark key="]" line="15" column="26" />
-        <mark key="." line="15" column="26" />
-        <mark key="^" line="15" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_5.sql" timestamp="1560902512457">
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+        <mark key="^" line="21" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_13.sql" timestamp="1560803026359">
         <mark key="[" line="11" column="6" />
         <mark key="]" line="11" column="28" />
         <mark key="." line="11" column="28" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_treatments [REPORTING_TUNNEL]" timestamp="1560902419376">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_12.sql" timestamp="1560793540315">
         <mark key="[" line="18" column="13" />
@@ -174,13 +166,6 @@
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.clinical_list_ndcs [REPORTING_TUNNEL]" timestamp="1560897741401">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_9.sql" timestamp="1560445833861">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-        <mark key="^" line="104" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1558726832708">
         <mark key="[" line="0" column="0" />

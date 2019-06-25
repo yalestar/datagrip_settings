@@ -13,6 +13,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console.sql" timestamp="1558037793725">
         <mark key="[" line="36" column="7" />
       </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.eligibilities_full [REPORTING_TUNNEL]" timestamp="1561420689509">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.campaign_treatments [PostgreSQL - postgres@localhost]" timestamp="1560902436262">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,12 +105,12 @@
       <file name="/frodo_tailfeathers.reporting.uintah_claims [PostgreSQL - postgres@localhost]" timestamp="1560895772762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/sqls/MR-172-Danielle.sql" timestamp="1561418977373">
+      <file name="$USER_HOME$/dev/sqls/MR-172-Danielle.sql" timestamp="1561421395099">
         <mark key="'" line="0" column="44" />
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="15" column="2" />
-        <mark key="^" line="15" column="26" />
-        <mark key="." line="15" column="2" />
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="24" column="33" />
+        <mark key="^" line="24" column="33" />
+        <mark key="." line="24" column="33" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.clinical_lists [REPORTING_TUNNEL]" timestamp="1560897763350">
         <mark key="[" line="0" column="0" />
@@ -153,7 +156,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.claims [REPORTING_TUNNEL]" timestamp="1559682519288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1561411771974">
+      <file name="/dummy.sql" timestamp="1561420690523">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1561411708490">
@@ -247,10 +250,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">QU5EIA==</text>
+        <text>el</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QU5EIA==</text>
+        <text>el</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>
@@ -259,6 +262,26 @@
         <text encoding="base64">ICAgICAgICAgICBXSEVOIDQgVEhFTiAnU3dpdGNoIFdpdGhvdXQgQ29uZGl0aW9uJwo=</text>
       </register>
       <register name="1" type="4">
+        <text>SELECT o.member_id, o.combined_member_id
+FROM opportunities o
+WHERE o.member_id IN
+      ('180141873', '160235070', '130231151', '150241198', '180051108', '170183905', '160158537', '180176465',
+       '180067465'
+          );</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LS0gICAgIEFORCBlbGlnLnBlcnNvbl9maXJzdF9uYW1lID0gY3ZwLnBhdGllbnRfZmlyc3RfbmFtZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LS0gICAgICAgICAgSk9JTiBlbGlnaWJpbGl0aWVzIGVsaWcgT04gY3ZwLnN1YnNjcmliZXJfaWRlbnRpZmllciA9IGVsaWcuc3Vic2NyaWJlcl9pZGVudGlmaWVyCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">c2VsZWN0IGNvdW50KGRpc3RpbmN0IHVzZXJfaWQpIGZyb20gb3Bwb3J0dW5pdGllcyA7Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>SELECT *
 FROM opportunities
 WHERE user_id not IN
@@ -270,7 +293,7 @@ WHERE user_id not IN
        55088, 57049, 45660, 37631, 35983, 48357, 35289, 14264, 478, 29422, 28226, 58533, 54006, 31807, 51943, 413,
        40685, 13403, 11700, 37280, 36609, 15930, 41977);</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>SELECT *
 FROM opportunities
 WHERE user_id IS NULL;
@@ -278,26 +301,11 @@ SELECT id, legal_last_name, legal_first_name, salesforce_contact_id
 FROM users
 WHERE id = 3807;</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZGVsZXRlIGZyb20gcmVwb3J0aW5nLm9wdGluX3VzZXJzIHdoZXJlIG1lZHNhdnZ5X3VzZXJfaWQgaXMgbnVsbDsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">YW5kIGxlbmd0aChtZWRzYXZ2eV91c2VyX2lkKSA8IDc7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1Ymxpc2hlZDogMgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHdvcmtfaW5fcHJvZ3Jlc3M6IDEsCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkZWxldGVkOiAwCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YW5kIGxlbmd0aChtZWRzYXZ2eV91c2VyX2lkKSA8IDc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>115</text>

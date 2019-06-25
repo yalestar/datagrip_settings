@@ -22,7 +22,7 @@
       <file name="/frodo_tailfeathers.public.claims_1 [PostgreSQL - postgres@localhost]" timestamp="1559682519333">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.optin_users [REPORTING_TUNNEL]" timestamp="1561411687042">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.optin_users [REPORTING_TUNNEL]" timestamp="1561498737138">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/uintah_investigation.sql" timestamp="1561066187471">
@@ -41,7 +41,7 @@
       <file name="/main.reviews [amazon_reviews]" timestamp="1559937457292">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/frodo_tailfeathers.reporting.optin_users [PostgreSQL - postgres@localhost]" timestamp="1561411703155">
+      <file name="/frodo_tailfeathers.reporting.optin_users [PostgreSQL - postgres@localhost]" timestamp="1561498737245">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_clinical_lists [REPORTING_TUNNEL]" timestamp="1558729700946">
@@ -66,6 +66,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/uintah_oppos [PostgreSQL - postgres@localhost]" timestamp="1560964636492">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.sf_account [REPORTING_TUNNEL]" timestamp="1561501059312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.hv_treatments_costs [REPORTING_TUNNEL]" timestamp="1560444106413">
@@ -135,7 +138,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.treatment_categories [REPORTING_TUNNEL]" timestamp="1560976403282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1561411708500">
+      <file name="/a.sql" timestamp="1561501047431">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="18" column="28" />
         <mark key="." line="18" column="28" />
@@ -153,10 +156,13 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.sf_asset [REPORTING_TUNNEL]" timestamp="1561500981371">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.claims [REPORTING_TUNNEL]" timestamp="1559682519288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1561420690523">
+      <file name="/dummy.sql" timestamp="1561502005806">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1561411708490">
@@ -168,6 +174,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.clinical_list_lines [REPORTING_TUNNEL]" timestamp="1560897727983">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.latest_elig [REPORTING_TUNNEL]" timestamp="1561502005038">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_11.sql" timestamp="1561070789837">
@@ -189,6 +198,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.treatments [REPORTING_TUNNEL]" timestamp="1560897684608">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.sf_account_details [REPORTING_TUNNEL]" timestamp="1561501791465">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.organizations_full [REPORTING_TUNNEL]" timestamp="1561501859901">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.user_elig [REPORTING_TUNNEL]" timestamp="1561410602940">

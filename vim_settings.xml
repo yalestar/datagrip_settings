@@ -30,6 +30,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_15.sql" timestamp="1561672127282">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/frodo_tailfeathers.public.tbl_students [PostgreSQL - postgres@localhost]" timestamp="1561677380626">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/eqr_campaign_oppos.sql" timestamp="1561583188152">
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="0" />
@@ -40,6 +43,12 @@
       </file>
       <file name="/main.reviews [amazon_reviews]" timestamp="1559937457292">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_7.sql" timestamp="1561673897673">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="/frodo_tailfeathers.reporting.optin_users [PostgreSQL - postgres@localhost]" timestamp="1561498737245">
         <mark key="[" line="0" column="0" />
@@ -80,7 +89,7 @@
       <file name="/frodo_tailfeathers.reporting.uintah_claims [PostgreSQL - postgres@localhost]" timestamp="1560895772762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/sqls/MR-172-Danielle.sql" timestamp="1561669719037">
+      <file name="$USER_HOME$/dev/sqls/MR-172-Danielle.sql" timestamp="1561674199337">
         <mark key="[" line="51" column="5" />
         <mark key="]" line="51" column="5" />
         <mark key="." line="51" column="5" />
@@ -94,15 +103,16 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.eqr_campaign_oppos2 [REPORTING_TUNNEL]" timestamp="1561582432550">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/sqls/working/uintah_mailer.sql" timestamp="1561655999994">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/dev/sqls/working/uintah_mailer.sql" timestamp="1561678310827">
+        <mark key="[" line="23" column="101" />
+        <mark key="]" line="23" column="101" />
+        <mark key="^" line="8" column="37" />
+        <mark key="." line="23" column="101" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.treatment_categories [REPORTING_TUNNEL]" timestamp="1560976403282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1561583057585">
+      <file name="/a.sql" timestamp="1561677439133">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="39" column="28" />
         <mark key="." line="39" column="28" />
@@ -125,10 +135,10 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.claims [REPORTING_TUNNEL]" timestamp="1559682519288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1561660031243">
+      <file name="/dummy.sql" timestamp="1561677380728">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561582923420">
+      <file name="/Dummy.txt" timestamp="1561677439147">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -157,11 +167,17 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.organizations_full [REPORTING_TUNNEL]" timestamp="1561501859901">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/medicare_email_stats.sql" timestamp="1561672224821">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="109" />
-        <mark key="^" line="10" column="60" />
-        <mark key="." line="12" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/medicare_email_stats.sql" timestamp="1561674932882">
+        <mark key="[" line="16" column="108" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_8.sql" timestamp="1561677573621">
+        <mark key="[" line="0" column="52" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.user_elig [REPORTING_TUNNEL]" timestamp="1561410602940">
         <mark key="[" line="0" column="0" />
@@ -184,7 +200,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.hv_campaign_eligibilities [REPORTING_TUNNEL]" timestamp="1560892403681">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/frodo_tailfeathers.reporting.uintah_oppos [PostgreSQL - postgres@localhost]" timestamp="1561399910195">
+      <file name="/frodo_tailfeathers.reporting.uintah_oppos [PostgreSQL - postgres@localhost]" timestamp="1561675885405">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -207,49 +223,49 @@
       <jump line="0" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/mr-172-danielle.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIHN1bShDQVNFIFdIRU4gcGVyc29uX2VtYWlsX2FkZHJlc3MgIT0gJycgYW5kIGdyb3VwX25hbWUgbGlrZSAnTUVESUNBUkUlJyBUSEVOIDEgRUxTRSAwIEVORCkgeWVzX2VtYWlsLAo=</text>
+      <register name="&quot;" type="4">
+        <text>e.group_identifier,
+         e.group_type_code</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>person_first_name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIHN1bShDQVNFIFdIRU4gcGVyc29uX2VtYWlsX2FkZHJlc3MgIT0gJycgYW5kIGdyb3VwX25hbWUgbGlrZSAnTUVESUNBUkUlJyBUSEVOIDEgRUxTRSAwIEVORCkgeWVzX2VtYWlsLAo=</text>
+        <text encoding="base64">U0VMRUNUIHVzZXJfaWQsIGZpcnN0X25hbWUsIGxhc3RfbmFtZSwgY2FtcGFpZ25faWQK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIHN1bShDQVNFIFdIRU4gcGVyc29uX2VtYWlsX2FkZHJlc3MgIT0gJycgVEhFTiAxIEVMU0UgMCBFTkQpIHllc19lbWFpbCwK</text>
+      <register name="1" type="4">
+        <text>e.group_identifier,
+         e.group_type_code</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBlbGlnaWJpbGl0aWVzIHdoZXJlIGFkZHJlc3NfY2l0eSA9ICdNSVNTT1VMQSc7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUuZ3JvdXBfaWRlbnRpZmllciBncm91cGhpZXJhcmNoeTIsCiAgICAgICAgICAgICAgICBlLmdyb3VwX3R5cGVfY29kZSBncm91cGhpZXJhcmNoeTMs</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpby5vcHRlZF9vdXQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1LnNob3VsZF9ub3RpZnks</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlvLnNhbGVzZm9yY2VfY29udGFjdF9pZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUubWVtYmVyX3N1ZmZpeF9pZGVudGlmaWVyLAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>SELECT *
-FROM reporting.latest_elig
-WHERE subscriber_identifier = '911008143';</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG8uZmlyc3RfbmFtZSBvcGVuZmllbGQxLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICogRlJPTSByZXBvcnRpbmcuaW5hY3RpdmVfb3BwcG9ydHVuaXN0cyBpbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucGVyc29uX2RhdGVfb2ZfYmlydGgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ClNFTEVDVCBjb3VudChESVNUSU5DVCBzdWJzY3JpYmVyX2lkZW50aWZpZXIpCkZST00gcmVwb3J0aW5nLmNsYWltc192cF9hbmFseXNpc19maW5hbApXSEVSRSAiNVNfY2F0IiBJTiAoJ1N0b3AnLCAnU3dpdGNoJyk7CgpTRUxFQ1Qgby5tZW1iZXJfaWQsIGVsaWcucGVyc29uX2ZpcnN0X25hbWUsIHBlcnNvbl9sYXN0X25hbWUKRlJPTSBvcHBvcnR1bml0aWVzIG8KICAgICAgICAgSk9JTiByZXBvcnRpbmcuZWxpZ2liaWxpdGllc19mdWxsIGVsaWcKICAgICAgICAgICAgICBPTiBvLm1lbWJlcl9pZCA9IGVsaWcuc3Vic2NyaWJlcl9pZGVudGlmaWVyCkxJTUlUIDEwOwoKCgpTRUxFQ1QgY291bnQoKikKRlJPTSBvcHBvcnR1bml0aWVzIG8KICAgICAgICAgSU5ORVIgSk9JTiByZXBvcnRpbmcuY2xhaW1zX3ZwX2FuYWx5c2lzX2ZpbmFsIGN2cCBPTiBjdnAuc3Vic2NyaWJlcl9pZGVudGlmaWVyID0gby5tZW1iZXJfaWQ7ClNFTEVDVCBjb3VudCgqKQpGUk9NIHJlcG9ydGluZy5jbGFpbXNfdnBfYW5hbHlzaXNfZmluYWw7CgpTRUxFQ1QgY291bnQoRElTVElOQ1QgdXNlcl9pZCkKRlJPTSByZXBvcnRpbmcuY2xhaW1zX3ZwX2FuYWx5c2lzX2ZpbmFsCldIRVJFICI1U19jYXQiIElOICgnU3RvcCcsICdTd2l0Y2gnKQo7IC0tIDE2MDIKClNFTEVDVCBjb3VudCgqKQpGUk9NIG9wcG9ydHVuaXRpZXM7CgpTRUxFQ1QgdS5pZCwgb3UubWVkc2F2dnlfdXNlcl9pZCwgdS5zYWxlc2ZvcmNlX2NvbnRhY3RfaWQsIG91LnNmX2NvbnRhY3RfaWQKRlJPTSB1c2VycyB1CiAgICAgICAgIEpPSU4gcmVwb3J0aW5nLm9wdGluX3VzZXJzIG91IE9OIG91Lm1lZHNhdnZ5X3VzZXJfaWQgPSB1LmlkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUubWVtYmVyX3N1ZmZpeF9pZGVudGlmaWVyLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG8ubGFzdF9uYW1lLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSByZXBvcnRpbmcubGF0ZXN0X2VsaWcKV0hFUkUgc3Vic2NyaWJlcl9pZGVudGlmaWVyID0gJzE0MDE4NDI4MSc7CgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLS0gcmVtb3ZlcyAic3RhbGUiIG9wcG9ydHVuaXRpZXMKICBBTkQgby5pZCA9IDI2NzAxNDsKCnNlbGVjdCAqIGZyb20gb3Bwb3J0dW5pdGllcyBvIHdoZXJlIG8uaWQgPSAyNjcwMTQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG8udXNlcl9pZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>115</text>
+        <text>24</text>
       </register>
     </registers>
     <search>
@@ -269,6 +285,9 @@ WHERE subscriber_identifier = '911008143';</text>
       <history-cmd>
         <entry>%s/&quot;/'/g</entry>
         <entry>115</entry>
+        <entry>3</entry>
+        <entry>2</entry>
+        <entry>24</entry>
       </history-cmd>
       <history-expr />
       <history-input />

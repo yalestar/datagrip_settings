@@ -77,11 +77,10 @@
       <file name="/frodo_tailfeathers.reporting.uintah_claims [PostgreSQL - postgres@localhost]" timestamp="1560895772762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/sqls/MR-172-Danielle.sql" timestamp="1561657730985">
-        <mark key="[" line="48" column="9" />
-        <mark key="]" line="48" column="9" />
-        <mark key="^" line="51" column="75" />
-        <mark key="." line="48" column="9" />
+      <file name="$USER_HOME$/dev/sqls/MR-172-Danielle.sql" timestamp="1561660042408">
+        <mark key="[" line="51" column="5" />
+        <mark key="]" line="51" column="5" />
+        <mark key="." line="51" column="5" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.clinical_lists [REPORTING_TUNNEL]" timestamp="1560897763350">
         <mark key="[" line="0" column="0" />
@@ -108,6 +107,9 @@
       <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/eqr_elig_users.sql" timestamp="1561583486407">
         <mark key="[" line="72" column="64" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/mr-172-danielle.sql" timestamp="1561659936237">
+        <mark key="[" line="22" column="45" />
+      </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.sf_asset [REPORTING_TUNNEL]" timestamp="1561500981371">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,7 +119,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.claims [REPORTING_TUNNEL]" timestamp="1559682519288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1561656775689">
+      <file name="/dummy.sql" timestamp="1561660031243">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1561582923420">
@@ -197,10 +199,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>subscriber_identifier</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpby5vcHRlZF9vdXQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1LnNob3VsZF9ub3RpZnks</text>
       </register>
       <register name="-" type="4">
-        <text>subscriber_identifier</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>
@@ -208,37 +210,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICBXSEVOIDQgVEhFTiAnU3dpdGNoIFdpdGhvdXQgQ29uZGl0aW9uJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ClNFTEVDVCBjb3VudChESVNUSU5DVCBzdWJzY3JpYmVyX2lkZW50aWZpZXIpCkZST00gcmVwb3J0aW5nLmNsYWltc192cF9hbmFseXNpc19maW5hbApXSEVSRSAiNVNfY2F0IiBJTiAoJ1N0b3AnLCAnU3dpdGNoJyk7CgpTRUxFQ1Qgby5tZW1iZXJfaWQsIGVsaWcucGVyc29uX2ZpcnN0X25hbWUsIHBlcnNvbl9sYXN0X25hbWUKRlJPTSBvcHBvcnR1bml0aWVzIG8KICAgICAgICAgSk9JTiByZXBvcnRpbmcuZWxpZ2liaWxpdGllc19mdWxsIGVsaWcKICAgICAgICAgICAgICBPTiBvLm1lbWJlcl9pZCA9IGVsaWcuc3Vic2NyaWJlcl9pZGVudGlmaWVyCkxJTUlUIDEwOwoKCgpTRUxFQ1QgY291bnQoKikKRlJPTSBvcHBvcnR1bml0aWVzIG8KICAgICAgICAgSU5ORVIgSk9JTiByZXBvcnRpbmcuY2xhaW1zX3ZwX2FuYWx5c2lzX2ZpbmFsIGN2cCBPTiBjdnAuc3Vic2NyaWJlcl9pZGVudGlmaWVyID0gby5tZW1iZXJfaWQ7ClNFTEVDVCBjb3VudCgqKQpGUk9NIHJlcG9ydGluZy5jbGFpbXNfdnBfYW5hbHlzaXNfZmluYWw7CgpTRUxFQ1QgY291bnQoRElTVElOQ1QgdXNlcl9pZCkKRlJPTSByZXBvcnRpbmcuY2xhaW1zX3ZwX2FuYWx5c2lzX2ZpbmFsCldIRVJFICI1U19jYXQiIElOICgnU3RvcCcsICdTd2l0Y2gnKQo7IC0tIDE2MDIKClNFTEVDVCBjb3VudCgqKQpGUk9NIG9wcG9ydHVuaXRpZXM7CgpTRUxFQ1QgdS5pZCwgb3UubWVkc2F2dnlfdXNlcl9pZCwgdS5zYWxlc2ZvcmNlX2NvbnRhY3RfaWQsIG91LnNmX2NvbnRhY3RfaWQKRlJPTSB1c2VycyB1CiAgICAgICAgIEpPSU4gcmVwb3J0aW5nLm9wdGluX3VzZXJzIG91IE9OIG91Lm1lZHNhdnZ5X3VzZXJfaWQgPSB1LmlkOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpby5vcHRlZF9vdXQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1LnNob3VsZF9ub3RpZnks</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlvLnNhbGVzZm9yY2VfY29udGFjdF9pZCwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSByZXBvcnRpbmcubGF0ZXN0X2VsaWcKV0hFUkUgc3Vic2NyaWJlcl9pZGVudGlmaWVyID0gJzE0MDE4NDI4MSc7CgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLS0gcmVtb3ZlcyAic3RhbGUiIG9wcG9ydHVuaXRpZXMKICBBTkQgby5pZCA9IDI2NzAxNDsKCnNlbGVjdCAqIGZyb20gb3Bwb3J0dW5pdGllcyBvIHdoZXJlIG8uaWQgPSAyNjcwMTQ7Cg==</text>
+      <register name="3" type="4">
+        <text>SELECT *
+FROM reporting.latest_elig
+WHERE subscriber_identifier = '911008143';</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogRlJPTSByZXBvcnRpbmcuaW5hY3RpdmVfb3BwcG9ydHVuaXN0cyBpbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljb25zdHJhaW50IGVxcl9jYW1wYWlnbl9vcHBvc19wa2V5Cg==</text>
+        <text encoding="base64">ClNFTEVDVCBjb3VudChESVNUSU5DVCBzdWJzY3JpYmVyX2lkZW50aWZpZXIpCkZST00gcmVwb3J0aW5nLmNsYWltc192cF9hbmFseXNpc19maW5hbApXSEVSRSAiNVNfY2F0IiBJTiAoJ1N0b3AnLCAnU3dpdGNoJyk7CgpTRUxFQ1Qgby5tZW1iZXJfaWQsIGVsaWcucGVyc29uX2ZpcnN0X25hbWUsIHBlcnNvbl9sYXN0X25hbWUKRlJPTSBvcHBvcnR1bml0aWVzIG8KICAgICAgICAgSk9JTiByZXBvcnRpbmcuZWxpZ2liaWxpdGllc19mdWxsIGVsaWcKICAgICAgICAgICAgICBPTiBvLm1lbWJlcl9pZCA9IGVsaWcuc3Vic2NyaWJlcl9pZGVudGlmaWVyCkxJTUlUIDEwOwoKCgpTRUxFQ1QgY291bnQoKikKRlJPTSBvcHBvcnR1bml0aWVzIG8KICAgICAgICAgSU5ORVIgSk9JTiByZXBvcnRpbmcuY2xhaW1zX3ZwX2FuYWx5c2lzX2ZpbmFsIGN2cCBPTiBjdnAuc3Vic2NyaWJlcl9pZGVudGlmaWVyID0gby5tZW1iZXJfaWQ7ClNFTEVDVCBjb3VudCgqKQpGUk9NIHJlcG9ydGluZy5jbGFpbXNfdnBfYW5hbHlzaXNfZmluYWw7CgpTRUxFQ1QgY291bnQoRElTVElOQ1QgdXNlcl9pZCkKRlJPTSByZXBvcnRpbmcuY2xhaW1zX3ZwX2FuYWx5c2lzX2ZpbmFsCldIRVJFICI1U19jYXQiIElOICgnU3RvcCcsICdTd2l0Y2gnKQo7IC0tIDE2MDIKClNFTEVDVCBjb3VudCgqKQpGUk9NIG9wcG9ydHVuaXRpZXM7CgpTRUxFQ1QgdS5pZCwgb3UubWVkc2F2dnlfdXNlcl9pZCwgdS5zYWxlc2ZvcmNlX2NvbnRhY3RfaWQsIG91LnNmX2NvbnRhY3RfaWQKRlJPTSB1c2VycyB1CiAgICAgICAgIEpPSU4gcmVwb3J0aW5nLm9wdGluX3VzZXJzIG91IE9OIG91Lm1lZHNhdnZ5X3VzZXJfaWQgPSB1LmlkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">R1JPVVAgQlkgby5pZCwgby5tZW1iZXJfaWQsIGVsaWcubWVtYmVyX3N1ZmZpeF9pZGVudGlmaWVkZHI7Cg==</text>
+        <text encoding="base64">U0VMRUNUICoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGluX3VzZXJzLnNmX2NvbnRhY3RfaWQsCg==</text>
+        <text encoding="base64">U0VMRUNUICoKRlJPTSByZXBvcnRpbmcubGF0ZXN0X2VsaWcKV0hFUkUgc3Vic2NyaWJlcl9pZGVudGlmaWVyID0gJzE0MDE4NDI4MSc7CgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLS0gcmVtb3ZlcyAic3RhbGUiIG9wcG9ydHVuaXRpZXMKICBBTkQgby5pZCA9IDI2NzAxNDsKCnNlbGVjdCAqIGZyb20gb3Bwb3J0dW5pdGllcyBvIHdoZXJlIG8uaWQgPSAyNjcwMTQ7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>SELECT o.member_id, o.combined_member_id
-FROM opportunities o
-WHERE o.member_id IN
-      ('180141873', '160235070', '130231151', '150241198', '180051108', '170183905', '160158537', '180176465',
-       '180067465'
-          );</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljb25zdHJhaW50IGVxcl9jYW1wYWlnbl9vcHBvc19wa2V5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>115</text>

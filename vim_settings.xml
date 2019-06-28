@@ -27,12 +27,12 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.optin_users [REPORTING_TUNNEL]" timestamp="1561498737138">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_15.sql" timestamp="1561743128096">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_15.sql" timestamp="1561744388043">
         <mark key="'" line="8" column="6" />
-        <mark key="[" line="20" column="88" />
-        <mark key="]" line="17" column="8" />
-        <mark key="^" line="17" column="8" />
-        <mark key="." line="17" column="8" />
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="26" column="14" />
+        <mark key="^" line="25" column="53" />
+        <mark key="." line="26" column="14" />
       </file>
       <file name="/frodo_tailfeathers.public.tbl_students [PostgreSQL - postgres@localhost]" timestamp="1561677380626">
         <mark key="[" line="0" column="0" />
@@ -229,16 +229,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+        <text>eligibilities</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+        <text>eligibilities</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIHVzZXJfaWQsIGZpcnN0X25hbWUsIGxhc3RfbmFtZSwgY2FtcGFpZ25faWQK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBlbGlnaWJpbGl0aWVzIG9yZGVyIGJ5IGlkIGRlc2MgbGltaXQgMTA7Cg==</text>
       </register>
       <register name="1" type="4">
         <text>e.group_identifier,

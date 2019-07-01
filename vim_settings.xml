@@ -35,10 +35,11 @@
       <file name="/frodo_tailfeathers.public.tbl_students [PostgreSQL - postgres@localhost]" timestamp="1561677380626">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/eqr_campaign_oppos.sql" timestamp="1562016511662">
-        <mark key="[" line="118" column="62" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/eqr_campaign_oppos.sql" timestamp="1562017628940">
+        <mark key="[" line="122" column="22" />
+        <mark key="]" line="122" column="27" />
+        <mark key="." line="122" column="27" />
+        <mark key="^" line="122" column="27" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.inactive_oppportunists [REPORTING_TUNNEL]" timestamp="1561656775021">
         <mark key="[" line="0" column="0" />
@@ -143,7 +144,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.claims [REPORTING_TUNNEL]" timestamp="1559682519288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1562015262451">
+      <file name="/dummy.sql" timestamp="1562017496753">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1561677439147">
@@ -239,10 +240,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>leg</text>
+        <text>created</text>
       </register>
       <register name="-" type="4">
-        <text>leg</text>
+        <text>created</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>

@@ -21,6 +21,9 @@
       <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.campaign_treatments [PostgreSQL - postgres@localhost]" timestamp="1560902436262">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/campaigns [REPORTING_TUNNEL]" timestamp="1562089436501">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/frodo_tailfeathers.public.claims_1 [PostgreSQL - postgres@localhost]" timestamp="1559682519333">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,7 +38,7 @@
       <file name="/frodo_tailfeathers.public.tbl_students [PostgreSQL - postgres@localhost]" timestamp="1561677380626">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/eqr_campaign_oppos.sql" timestamp="1562024264245">
+      <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/eqr_campaign_oppos.sql" timestamp="1562089934403">
         <mark key="[" line="122" column="22" />
         <mark key="]" line="122" column="27" />
         <mark key="." line="122" column="27" />
@@ -203,7 +206,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_12.sql" timestamp="1561672108944">
         <mark key="[" line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/insert_events.sql" timestamp="1562014368663" />
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.claims_vp_analysis_final [REPORTING_TUNNEL]" timestamp="1560296007278">
         <mark key="[" line="0" column="0" />
       </file>

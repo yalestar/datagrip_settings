@@ -33,7 +33,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.optin_users [REPORTING_TUNNEL]" timestamp="1561498737138">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_15.sql" timestamp="1562097870081">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_15.sql" timestamp="1562099071699">
         <mark key="[" line="0" column="44" />
         <mark key="]" line="0" column="44" />
         <mark key="^" line="0" column="30" />
@@ -69,6 +69,12 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_campaign_conv_trend [REPORTING_TUNNEL]" timestamp="1561655938088">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_16.sql" timestamp="1562100785367">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="6" />
+      </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.hv_campaign_claims [REPORTING_TUNNEL]" timestamp="1560296007202">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,8 +108,11 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_campaign_eff [REPORTING_TUNNEL]" timestamp="1559682519200">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d7a483ea-3679-4ca9-8e93-4bc9c7d5d9c9/console.sql" timestamp="1562096770398">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d7a483ea-3679-4ca9-8e93-4bc9c7d5d9c9/console.sql" timestamp="1562100468299">
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="26" column="33" />
+        <mark key="." line="26" column="33" />
+        <mark key="^" line="27" column="4" />
       </file>
       <file name="/frodo_tailfeathers.reporting.uintah_claims [PostgreSQL - postgres@localhost]" timestamp="1560895772762">
         <mark key="[" line="0" column="0" />
@@ -253,10 +262,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">IGFuZCBwcm9kdWN0X2NhdGVnb3J5X2NvZGUgPSAnUic7</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IGFuZCBwcm9kdWN0X2NhdGVnb3J5X2NvZGUgPSAnUic7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>
@@ -265,12 +274,19 @@
         <text encoding="base64">c2VsZWN0ICogZnJvbSBlbGlnaWJpbGl0aWVzIG9yZGVyIGJ5IGlkIGRlc2MgbGltaXQgMTA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUIERJU1RJTkNUIGV2ZW50X2FjdGlvbgpGUk9NIGV2ZW50X2xvZ3MKV0hFUkUgb3JnYW5pemF0aW9uX2lkID0gMnNlbGVjdCAqIGZyb20gOwo=</text>
+        <text encoding="base64">V0hFUkUgY2xhc3NfcGxhbl9jb2RlX2lkZW50aWZpZXIgSU4gKCdSWEVTMzAwMScsICdSWEhTMjAwMScsICdSWEVOMjAwMScpCg==</text>
       </register>
       <register name="2" type="4">
+        <text>product_category_code,
+                product_category_code_desc</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">U0VMRUNUIERJU1RJTkNUIGV2ZW50X2FjdGlvbgpGUk9NIGV2ZW50X2xvZ3MKV0hFUkUgb3JnYW5pemF0aW9uX2lkID0gMnNlbGVjdCAqIGZyb20gOwo=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>SELECT *
 FROM opportunities
 WHERE combined_member_id LIKE ('950182975%');
@@ -279,23 +295,17 @@ SELECT id, name
 FROM campaigns
 WHERE id IN (407, 609, 761)</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBBTkQgdXNlcl9pZCBJUyBOT1QgTlVMTDsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBBTkQgY3JlYXRlZF9hdCA+ICcyMDE5LTA0LTAxJwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">V0hFUkUgb3JnYW5pemF0aW9uX2lkID0gMjUK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">RlJPTSBvcHBvcnR1bml0aWVzCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUIGRpc3RpbmN0IG1lbWJlcl9pZAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0IGlkLCBuYW1lIGZyb20gb3JnYW5pemF0aW9uc2RkOwo=</text>
+        <text encoding="base64">RlJPTSBvcHBvcnR1bml0aWVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>24</text>

@@ -203,11 +203,11 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.trimet_claims [REPORTING_TUNNEL]" timestamp="1562102534173">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/latest_elig.sql" timestamp="1562110701224">
-        <mark key="[" line="161" column="87" />
-        <mark key="]" line="44" column="68" />
-        <mark key="^" line="44" column="68" />
-        <mark key="." line="44" column="68" />
+      <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/latest_elig.sql" timestamp="1562111958859">
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="2" column="43" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="2" column="43" />
       </file>
       <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.eligibilities [PostgreSQL - postgres@localhost]" timestamp="1562109635008">
         <mark key="[" line="0" column="0" />
@@ -300,10 +300,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>select * from eligibilities where person_last_name = 'BAND';</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>select * from eligibilities where person_last_name = 'BAND';</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>
@@ -312,28 +312,31 @@
         <text encoding="base64">c2VsZWN0ICogZnJvbSBlbGlnaWJpbGl0aWVzIG9yZGVyIGJ5IGlkIGRlc2MgbGltaXQgMTA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0IG1pbihvLmNyZWF0ZWRfYXQpLCBtYXgoby5jcmVhdGVkX2F0KSBmcm9tIG9wcG9ydHVuaXRpZXMgbyB3aGVyZSBvLm9yZ2FuaXphdGlvbl9pZCA9IDU4Owo=</text>
+        <text encoding="base64">LS0gYnkgc2VsZiBqb2luIHRlY2huaXF1ZSBvbiBtYXggdGVybSBkYXRlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0IGlkLCBuYW1lIGZyb20gb3JnYW5pemF0aW9ucyBvcmRlciBieSBuYW1lOwo=</text>
+        <text encoding="base64">c2VsZWN0IG1pbihvLmNyZWF0ZWRfYXQpLCBtYXgoby5jcmVhdGVkX2F0KSBmcm9tIG9wcG9ydHVuaXRpZXMgbyB3aGVyZSBvLm9yZ2FuaXphdGlvbl9pZCA9IDU4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">V0hFUkUgZ3JvdXBfaWRlbnRpZmllciA9ICc4MzUxOTgwMCc7Cg==</text>
+        <text encoding="base64">c2VsZWN0IGlkLCBuYW1lIGZyb20gb3JnYW5pemF0aW9ucyBvcmRlciBieSBuYW1lOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">V0hFUkUgZ3JvdXBfaWRlbnRpZmllciA9ICc4MzUxOTgwMCc7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">V0hFUkUgY2xhc3NfcGxhbl9jb2RlX2lkZW50aWZpZXIgSU4gKCdSWEVTMzAwMScsICdSWEhTMjAwMScsICdSWEVOMjAwMScpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>product_category_code,
                 product_category_code_desc</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">U0VMRUNUIERJU1RJTkNUIGV2ZW50X2FjdGlvbgpGUk9NIGV2ZW50X2xvZ3MKV0hFUkUgb3JnYW5pemF0aW9uX2lkID0gMnNlbGVjdCAqIGZyb20gOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>SELECT *
 FROM opportunities
 WHERE combined_member_id LIKE ('950182975%');
@@ -341,9 +344,6 @@ WHERE combined_member_id LIKE ('950182975%');
 SELECT id, name
 FROM campaigns
 WHERE id IN (407, 609, 761)</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBBTkQgdXNlcl9pZCBJUyBOT1QgTlVMTDsK</text>
       </register>
       <register name=":" type="4">
         <text>24</text>

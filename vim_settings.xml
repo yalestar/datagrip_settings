@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.event_logs_full [REPORTING_TUNNEL]" timestamp="1562187966476">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/opportunities [REPORTING_TUNNEL]" timestamp="1562110014208">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,11 +45,11 @@
       <file name="/frodo_tailfeathers.public.tbl_students [PostgreSQL - postgres@localhost]" timestamp="1561677380626">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/eqr_campaign_oppos.sql" timestamp="1562176300133">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="0" column="37" />
-        <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="37" />
+      <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/eqr_campaign_oppos.sql" timestamp="1562187248515">
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="27" column="17" />
+        <mark key="." line="27" column="17" />
+        <mark key="^" line="27" column="17" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.inactive_oppportunists [REPORTING_TUNNEL]" timestamp="1561656775021">
         <mark key="[" line="0" column="0" />
@@ -66,14 +69,17 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_clinical_lists [REPORTING_TUNNEL]" timestamp="1558729700946">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.users [REPORTING_TUNNEL]" timestamp="1562188888162">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_campaign_conv_trend [REPORTING_TUNNEL]" timestamp="1561655938088">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_16.sql" timestamp="1562176091903">
-        <mark key="[" line="55" column="3" />
-        <mark key="]" line="55" column="3" />
-        <mark key="." line="55" column="3" />
-        <mark key="^" line="42" column="11" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_16.sql" timestamp="1562188068813">
+        <mark key="[" line="30" column="46" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.hv_campaign_claims [REPORTING_TUNNEL]" timestamp="1560296007202">
         <mark key="[" line="0" column="0" />
@@ -140,6 +146,12 @@
       <file name="/sf_account_details [REPORTING_TUNNEL]" timestamp="1561580432187">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_11.sql" timestamp="1562189697079">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="4" column="20" />
+      </file>
       <file name="/ffruyjgpaadoolcodrfm.opportunities [MYSQL_PRD_TUNNEL]" timestamp="1562106212416">
         <mark key="[" line="0" column="0" />
       </file>
@@ -155,7 +167,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.treatment_categories [REPORTING_TUNNEL]" timestamp="1560976403282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1562175333738">
+      <file name="/a.sql" timestamp="1562188908240">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="28" />
@@ -178,10 +190,10 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.claims [REPORTING_TUNNEL]" timestamp="1559682519288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1562110487658">
+      <file name="/dummy.sql" timestamp="1562188914769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562110159131">
+      <file name="/Dummy.txt" timestamp="1562188908237">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -195,6 +207,9 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.clinical_list_lines [REPORTING_TUNNEL]" timestamp="1560897727983">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.organization_users [REPORTING_TUNNEL]" timestamp="1562188903648">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.latest_elig [REPORTING_TUNNEL]" timestamp="1561582432648">
         <mark key="[" line="0" column="0" />
       </file>
@@ -204,11 +219,11 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.trimet_claims [REPORTING_TUNNEL]" timestamp="1562102534173">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/latest_elig.sql" timestamp="1562111958859">
-        <mark key="[" line="2" column="43" />
-        <mark key="]" line="2" column="43" />
+      <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/latest_elig.sql" timestamp="1562187888867">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
         <mark key="^" line="8" column="2" />
-        <mark key="." line="2" column="43" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.eligibilities [PostgreSQL - postgres@localhost]" timestamp="1562109635008">
         <mark key="[" line="0" column="0" />
@@ -274,6 +289,9 @@
       <file name="/frodo_tailfeathers.reporting.uintah_oppos [PostgreSQL - postgres@localhost]" timestamp="1561675885405">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/frodo_tailfeathers.reporting.event_logs_full [PostgreSQL - postgres@localhost]" timestamp="1562188252787">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.opportunities [REPORTING_TUNNEL]" timestamp="1562110263179">
         <mark key="[" line="0" column="0" />
       </file>
@@ -302,10 +320,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW5uZXIyOiA=</text>
+        <text>D</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5uZXIyOiA=</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>
@@ -313,33 +331,43 @@
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBlbGlnaWJpbGl0aWVzIG9yZGVyIGJ5IGlkIGRlc2MgbGltaXQgMTA7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IFNFTEVDVCB4LnVzZXJfaWQKICAgIEZST00gKFNFTEVDVCBESVNUSU5DVCB1c2VyX2lkCiAgICAgICAgICBGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLm9wcG9ydHVuaXRpZXMKICAgICAgICAgKSB4CiAgICAgICAgICAgICBMRUZUIE9VVEVSIEpPSU4gZmZydXlqZ3BhYWRvb2xjb2RyZm0udXNlcnMgdSBPTiB4LnVzZXJfaWQgPSB1LmlkCiAgICBXSEVSRSB1LmlkIElTIE5VTEwKICAgICAgQU5EIHgudXNlcl9pZCBJUyBOT1QgTlVMTDs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAtLSBUT0RPOiBZSks6IGNvbW1lbnRlZCB0aGlzIG91dCBmb3IgNy8yLzE5IHJlZnJlc2ggcnVuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0IG1pbihvcHBfY3JlYXRlZDo6ZGF0ZSksIChvcHBfY3JlYXRlZDo6ZGF0ZSkgZnJvbSByZXBvcnRpbmcuZXFyX2NhbXBhaWduX29wcG9zIHdoZXJlIG9yZ2FuaXphdGlvbl9pZCA9IDI1Owo=</text>
+        <text encoding="base64">ICAgIFRPRE86IFlKSzogY29tbWVudGVkIHRoaXMgb3V0IGZvciA3LzIvMTkgcmVmcmVzaCBydW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0gYnkgc2VsZiBqb2luIHRlY2huaXF1ZSBvbiBtYXggdGVybSBkYXRlCg==</text>
+        <text encoding="base64">LS0gVE9ETzogWUpLOiBjb21tZW50ZWQgdGhpcyBvdXQgZm9yIDcvMi8xOSByZWZyZXNoIHJ1bgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0IG1pbihvLmNyZWF0ZWRfYXQpLCBtYXgoby5jcmVhdGVkX2F0KSBmcm9tIG9wcG9ydHVuaXRpZXMgbyB3aGVyZSBvLm9yZ2FuaXphdGlvbl9pZCA9IDU4Owo=</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gZmZydXlqZ3BhYWRvb2xjb2RyZm0ub3Bwb3J0dW5pdGllcyA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0IGlkLCBuYW1lIGZyb20gb3JnYW5pemF0aW9ucyBvcmRlciBieSBuYW1lOwo=</text>
+        <text encoding="base64">c2VsZWN0IG9wcG9ydHVuaXRpZXMudXNlcl9pZCBGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLm9wcG9ydHVuaXRpZXMKV0hFUkUgdXNlcl9pZCBJTiAoCiAgICBTRUxFQ1QgeC51c2VyX2lkCiAgICBGUk9NIChTRUxFQ1QgRElTVElOQ1QgdXNlcl9pZAogICAgICAgICAgRlJPTSBmZnJ1eWpncGFhZG9vbGNvZHJmbS5vcHBvcnR1bml0aWVzIC0teAogICAgICAgICApIHgKICAgICAgICAgICAgIExFRlQgT1VURVIgSk9JTiBmZnJ1eWpncGFhZG9vbGNvZHJmbS51c2VycyB1IE9OIHgudXNlcl9pZCA9IHUuaWQKICAgIFdIRVJFIHUuaWQgSVMgTlVMTAogICAgICBBTkQgeC51c2VyX2lkIElTIE5PVCBOVUxMKTsKCgoKLS0gZ2V0IHVuaXF1ZSB1c2VyX2lkcyBmcm9tIG9wcG9zOiB4Ci0tIExPSiBudWxsIHggdXNlcl9pZHMgdG8gdXNlcnMgdGFibGUKLS0gZGVsZXRlIHRob3NlIHVzZXJfaWRzIGZyb20gb3Bwb3MKCnNlbGVjdCAqIGZyb20gZWxpZ2liaWxpdGllcyB3aGVyZQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">V0hFUkUgZ3JvdXBfaWRlbnRpZmllciA9ICc4MzUxOTgwMCc7Cg==</text>
+      <register name="6" type="4">
+        <text>SELECT DISTINCT subscriber_identifier
+FROM eligibilities
+WHERE group_identifier = '83519800';
+
+SELECT *
+FROM claims
+WHERE subscriber_identifier IN (
+                                '069920840',
+                                '069999694',
+                                '069999840',
+                                '100148964'
+    );</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">V0hFUkUgY2xhc3NfcGxhbl9jb2RlX2lkZW50aWZpZXIgSU4gKCdSWEVTMzAwMScsICdSWEhTMjAwMScsICdSWEVOMjAwMScpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IFNFTEVDVCB4LnVzZXJfaWQKICAgIEZST00gKFNFTEVDVCBESVNUSU5DVCB1c2VyX2lkCiAgICAgICAgICBGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLm9wcG9ydHVuaXRpZXMKICAgICAgICAgKSB4CiAgICAgICAgICAgICBMRUZUIE9VVEVSIEpPSU4gZmZydXlqZ3BhYWRvb2xjb2RyZm0udXNlcnMgdSBPTiB4LnVzZXJfaWQgPSB1LmlkCiAgICBXSEVSRSB1LmlkIElTIE5VTEwKICAgICAgQU5EIHgudXNlcl9pZCBJUyBOT1QgTlVMTDs=</text>
       </register>
-      <register name="8" type="4">
-        <text>product_category_code,
-                product_category_code_desc</text>
+      <register name="8" type="2">
+        <text encoding="base64">c2VsZWN0IG1pbihvcHBfY3JlYXRlZDo6ZGF0ZSksIChvcHBfY3JlYXRlZDo6ZGF0ZSkgZnJvbSByZXBvcnRpbmcuZXFyX2NhbXBhaWduX29wcG9zIHdoZXJlIG9yZ2FuaXphdGlvbl9pZCA9IDI1Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUIERJU1RJTkNUIGV2ZW50X2FjdGlvbgpGUk9NIGV2ZW50X2xvZ3MKV0hFUkUgb3JnYW5pemF0aW9uX2lkID0gMnNlbGVjdCAqIGZyb20gOwo=</text>
+        <text encoding="base64">LS0gYnkgc2VsZiBqb2luIHRlY2huaXF1ZSBvbiBtYXggdGVybSBkYXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>24</text>

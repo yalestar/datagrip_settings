@@ -146,11 +146,11 @@
       <file name="/sf_account_details [REPORTING_TUNNEL]" timestamp="1561580432187">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_11.sql" timestamp="1562189697079">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="20" />
-        <mark key="^" line="3" column="8" />
-        <mark key="." line="4" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_11.sql" timestamp="1562198742868">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="4" column="37" />
       </file>
       <file name="/ffruyjgpaadoolcodrfm.opportunities [MYSQL_PRD_TUNNEL]" timestamp="1562106212416">
         <mark key="[" line="0" column="0" />
@@ -320,10 +320,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>D</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>

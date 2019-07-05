@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.event_logs_full [REPORTING_TUNNEL]" timestamp="1562187966476">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.event_logs_full [REPORTING_TUNNEL]" timestamp="1562200074917">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/opportunities [REPORTING_TUNNEL]" timestamp="1562110014208">
@@ -45,11 +45,11 @@
       <file name="/frodo_tailfeathers.public.tbl_students [PostgreSQL - postgres@localhost]" timestamp="1561677380626">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/eqr_campaign_oppos.sql" timestamp="1562187248515">
-        <mark key="[" line="27" column="9" />
-        <mark key="]" line="27" column="17" />
-        <mark key="." line="27" column="17" />
-        <mark key="^" line="27" column="17" />
+      <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/eqr_campaign_oppos.sql" timestamp="1562200014538">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="9" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.inactive_oppportunists [REPORTING_TUNNEL]" timestamp="1561656775021">
         <mark key="[" line="0" column="0" />
@@ -132,7 +132,7 @@
         <mark key="." line="26" column="33" />
         <mark key="^" line="27" column="4" />
       </file>
-      <file name="/frodo_tailfeathers.reporting.uintah_claims [PostgreSQL - postgres@localhost]" timestamp="1560895772762">
+      <file name="/frodo_tailfeathers.reporting.uintah_claims [PostgreSQL - postgres@localhost]" timestamp="1562199836802">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/sqls/MR-172-Danielle.sql" timestamp="1561674199337">
@@ -146,11 +146,10 @@
       <file name="/sf_account_details [REPORTING_TUNNEL]" timestamp="1561580432187">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_11.sql" timestamp="1562198742868">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="4" column="37" />
-        <mark key="^" line="4" column="37" />
-        <mark key="." line="4" column="37" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_11.sql" timestamp="1562200417272">
+        <mark key="]" line="15" column="43" />
+        <mark key="^" line="15" column="43" />
+        <mark key="." line="15" column="43" />
       </file>
       <file name="/ffruyjgpaadoolcodrfm.opportunities [MYSQL_PRD_TUNNEL]" timestamp="1562106212416">
         <mark key="[" line="0" column="0" />
@@ -167,7 +166,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.treatment_categories [REPORTING_TUNNEL]" timestamp="1560976403282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1562188908240">
+      <file name="/a.sql" timestamp="1562200078223">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="28" />
@@ -190,10 +189,10 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.claims [REPORTING_TUNNEL]" timestamp="1559682519288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1562188914769">
+      <file name="/dummy.sql" timestamp="1562200355351">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562188908237">
+      <file name="/Dummy.txt" timestamp="1562200078220">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -289,7 +288,7 @@
       <file name="/frodo_tailfeathers.reporting.uintah_oppos [PostgreSQL - postgres@localhost]" timestamp="1561675885405">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/frodo_tailfeathers.reporting.event_logs_full [PostgreSQL - postgres@localhost]" timestamp="1562188252787">
+      <file name="/frodo_tailfeathers.reporting.event_logs_full [PostgreSQL - postgres@localhost]" timestamp="1562200084310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.opportunities [REPORTING_TUNNEL]" timestamp="1562110263179">
@@ -320,10 +319,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>TRUNCATE table</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>TRUNCATE table</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>

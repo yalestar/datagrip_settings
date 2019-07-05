@@ -36,6 +36,12 @@
       <file name="/frodo_tailfeathers.public.tbl_students [PostgreSQL - postgres@localhost]" timestamp="1561677380626">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/eqr_campaign_oppos.sql" timestamp="1562357371021">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="3" column="41" />
+        <mark key="^" line="3" column="45" />
+        <mark key="." line="3" column="41" />
+      </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.inactive_oppportunists [REPORTING_TUNNEL]" timestamp="1561656775021">
         <mark key="[" line="0" column="0" />
       </file>
@@ -259,11 +265,11 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_12.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0VMRUNUIGVsLnVzZXJfaWQgZWxfdXNlcl9pZCwgZWwub3JnYW5pemF0aW9uX2lkIGVsX29yZywgb3UudXNlcl9pZCBvcmdfdXNlciwgb3Uub3JnYW5pemF0aW9uX2lkIG91X29yZwpGUk9NIHJlcG9ydGluZy5ldmVudF9sb2dzX2Z1bGwgZWwKICAgICAgICAgSk9JTiBmZnJ1eWpncGFhZG9vbGNvZHJmbS5vcmdhbml6YXRpb25fdXNlcnMgb3UKICAgICAgICAgICAgICBPTiBvdS51c2VyX2lkID0gZWwudXNlcl9pZAotLSBXSEVSRSBlbC51c2VyX2lkIElTIE5PVCBOVUxMCi0tICAgQU5EIGVsLm9yZ2FuaXphdGlvbl9pZCBJUyBOVUxMOwo=</text>
+      <register name="&quot;" type="4">
+        <text>ffruyjgpaadoolcodrfm</text>
       </register>
       <register name="-" type="4">
-        <text>reporting</text>
+        <text>ffruyjgpaadoolcodrfm</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>

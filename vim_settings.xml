@@ -33,11 +33,11 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.optin_users [REPORTING_TUNNEL]" timestamp="1561498737138">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_15.sql" timestamp="1562362562706">
-        <mark key="[" line="49" column="69" />
-        <mark key="]" line="44" column="6" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_15.sql" timestamp="1562362910068">
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="51" column="31" />
         <mark key="^" line="44" column="6" />
-        <mark key="." line="44" column="6" />
+        <mark key="." line="51" column="31" />
       </file>
       <file name="/frodo_tailfeathers.public.tbl_students [PostgreSQL - postgres@localhost]" timestamp="1561677380626">
         <mark key="[" line="0" column="0" />
@@ -276,10 +276,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ffruyjgpaadoolcodrfm</text>
+        <text>claims_clean</text>
       </register>
       <register name="-" type="4">
-        <text>ffruyjgpaadoolcodrfm</text>
+        <text>claims_clean</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>

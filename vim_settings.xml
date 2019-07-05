@@ -33,11 +33,11 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.optin_users [REPORTING_TUNNEL]" timestamp="1561498737138">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_15.sql" timestamp="1562362910068">
-        <mark key="[" line="51" column="31" />
-        <mark key="]" line="51" column="31" />
-        <mark key="^" line="44" column="6" />
-        <mark key="." line="51" column="31" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_15.sql" timestamp="1562363614356">
+        <mark key="[" line="50" column="42" />
+        <mark key="]" line="50" column="65" />
+        <mark key="^" line="50" column="65" />
+        <mark key="." line="50" column="65" />
       </file>
       <file name="/frodo_tailfeathers.public.tbl_students [PostgreSQL - postgres@localhost]" timestamp="1561677380626">
         <mark key="[" line="0" column="0" />
@@ -78,7 +78,7 @@
       <file name="/uintah_oppos [PostgreSQL - postgres@localhost]" timestamp="1561742356219">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.sf_account [REPORTING_TUNNEL]" timestamp="1561501059312">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.sf_account [REPORTING_TUNNEL]" timestamp="1562363924888">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.eqr_campaign_oppos [REPORTING_TUNNEL]" timestamp="1562362124832">
@@ -96,6 +96,9 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_treatments [REPORTING_TUNNEL]" timestamp="1560902419376">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.sf_opportunity [REPORTING_TUNNEL]" timestamp="1562363915864">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/frodo_tailfeathers.reporting.brookens [PostgreSQL - postgres@localhost]" timestamp="1560892997305">
         <mark key="[" line="0" column="0" />
       </file>
@@ -103,6 +106,9 @@
         <mark key="[" line="0" column="62" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.sf_product [REPORTING_TUNNEL]" timestamp="1562364087495">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/frodo_tailfeathers.reporting.trimet_claims [PostgreSQL - postgres@localhost]" timestamp="1562102874006">
         <mark key="[" line="0" column="0" />
@@ -142,6 +148,9 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.eqr_campaign_oppos2 [REPORTING_TUNNEL]" timestamp="1561582432550">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.eqr_events [REPORTING_TUNNEL]" timestamp="1562363627585">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.treatment_categories [REPORTING_TUNNEL]" timestamp="1560976403282">
         <mark key="[" line="0" column="0" />
       </file>
@@ -150,10 +159,16 @@
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/eqr_events.sql" timestamp="1562363465398">
+        <mark key="[" line="37" column="16" />
+        <mark key="]" line="37" column="24" />
+        <mark key="." line="37" column="24" />
+        <mark key="^" line="37" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/eqr_elig_users.sql" timestamp="1562095409414">
         <mark key="[" line="72" column="64" />
       </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.sf_asset [REPORTING_TUNNEL]" timestamp="1561500981371">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.sf_asset [REPORTING_TUNNEL]" timestamp="1562363902687">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/eqr schema build.sql" timestamp="1561583645732">
@@ -162,7 +177,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.claims [REPORTING_TUNNEL]" timestamp="1559682519288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1562362204081">
+      <file name="/dummy.sql" timestamp="1562364090850">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/frodo_tailfeathers.reporting.trimet_elig [PostgreSQL - postgres@localhost]" timestamp="1562359997673">
@@ -206,7 +221,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.treatments [REPORTING_TUNNEL]" timestamp="1560897684608">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.sf_account_details [REPORTING_TUNNEL]" timestamp="1561501791465">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.sf_account_details [REPORTING_TUNNEL]" timestamp="1562363992815">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.organizations_full [REPORTING_TUNNEL]" timestamp="1561501859901">
@@ -276,10 +291,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>claims_clean</text>
+        <text>ffruyjgpaadoolcodrfm</text>
       </register>
       <register name="-" type="4">
-        <text>claims_clean</text>
+        <text>ffruyjgpaadoolcodrfm</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>

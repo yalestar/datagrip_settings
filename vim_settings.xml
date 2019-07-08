@@ -34,11 +34,11 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.optin_users [REPORTING_TUNNEL]" timestamp="1561498737138">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_15.sql" timestamp="1562618279829">
-        <mark key="[" line="75" column="76" />
-        <mark key="]" line="75" column="76" />
-        <mark key="." line="75" column="76" />
-        <mark key="^" line="75" column="23" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_15.sql" timestamp="1562620256583">
+        <mark key="[" line="67" column="44" />
+        <mark key="]" line="67" column="43" />
+        <mark key="." line="67" column="43" />
+        <mark key="^" line="67" column="43" />
       </file>
       <file name="/frodo_tailfeathers.public.tbl_students [PostgreSQL - postgres@localhost]" timestamp="1561677380626">
         <mark key="[" line="0" column="0" />

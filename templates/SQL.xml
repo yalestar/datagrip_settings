@@ -19,4 +19,9 @@
       <option name="SQL_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="sorg" value="select id, name from organizations order by name$END$;" description="select id, name from organizations order by name;" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="SQL_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -55,12 +55,12 @@
         <mark key="^" line="93" column="23" />
         <mark key="." line="93" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/small_mine.sql" timestamp="1562791954342">
-        <mark key="'" line="26" column="100" />
-        <mark key="[" line="26" column="73" />
-        <mark key="]" line="11" column="24" />
-        <mark key="^" line="11" column="24" />
-        <mark key="." line="11" column="24" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/small_mine.sql" timestamp="1562795787615">
+        <mark key="'" line="27" column="100" />
+        <mark key="[" line="29" column="68" />
+        <mark key="]" line="29" column="65" />
+        <mark key="^" line="29" column="65" />
+        <mark key="." line="29" column="65" />
       </file>
       <file name="/frodo_tailfeathers.public.tbl_students [PostgreSQL - postgres@localhost]" timestamp="1561677380626">
         <mark key="[" line="0" column="0" />
@@ -224,7 +224,7 @@
       <file name="/frodo_tailfeathers.reporting.trimet_elig [PostgreSQL - postgres@localhost]" timestamp="1562359997673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562782470139">
+      <file name="/Dummy.txt" timestamp="1562796418214">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />

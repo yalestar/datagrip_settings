@@ -48,12 +48,12 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.optin_users [REPORTING_TUNNEL]" timestamp="1561498737138">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_15.sql" timestamp="1562783234671">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_15.sql" timestamp="1562786803319">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="93" column="94" />
-        <mark key="]" line="93" column="94" />
-        <mark key="^" line="93" column="94" />
-        <mark key="." line="93" column="94" />
+        <mark key="[" line="93" column="23" />
+        <mark key="]" line="93" column="23" />
+        <mark key="^" line="93" column="23" />
+        <mark key="." line="93" column="23" />
       </file>
       <file name="/frodo_tailfeathers.public.tbl_students [PostgreSQL - postgres@localhost]" timestamp="1561677380626">
         <mark key="[" line="0" column="0" />
@@ -176,7 +176,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.treatment_categories [REPORTING_TUNNEL]" timestamp="1560976403282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1562782466963">
+      <file name="/a.sql" timestamp="1562785915588">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="42" column="28" />
         <mark key="." line="42" column="28" />
@@ -327,10 +327,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text encoding="base64">Y291bnQoKikg</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">Y291bnQoKikg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>

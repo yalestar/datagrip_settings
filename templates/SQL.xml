@@ -24,4 +24,11 @@
       <option name="SQL_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="seld" value="select distinct $field$ from $table$ $END$;" description="select the number of specific rows in a table" toReformat="false" toShortenFQNames="false">
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>

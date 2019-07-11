@@ -9,7 +9,7 @@
       <file name="/opportunities [REPORTING_TUNNEL]" timestamp="1562110014208">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.org_month_filler [REPORTING_TUNNEL]" timestamp="1562695461608">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.org_month_filler [REPORTING_TUNNEL]" timestamp="1562862422822">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_pharmacies [REPORTING_TUNNEL]" timestamp="1558736940231">
@@ -113,6 +113,9 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.hv_treatments_costs [REPORTING_TUNNEL]" timestamp="1560444106413">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d7a483ea-3679-4ca9-8e93-4bc9c7d5d9c9/console_1.sql" timestamp="1562863450687">
+        <mark key="^" line="17" column="39" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/Markdown-Groovy.md.groovy" timestamp="1562624393545">
         <mark key="[" line="0" column="0" />
       </file>
@@ -145,7 +148,6 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_campaign_eff [REPORTING_TUNNEL]" timestamp="1559682519200">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/sqls/msrx_285.sql" timestamp="1562801330238" />
       <file name="/frodo_tailfeathers.reporting.uintah_claims [PostgreSQL - postgres@localhost]" timestamp="1562199836802">
         <mark key="[" line="0" column="0" />
       </file>
@@ -343,10 +345,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBBTkQgZS51c2VyX2lkIElTIE5VTEw=</text>
+        <text>#        CASE t.draft_id
+#            WHEN NULL THEN ''
+#            ELSE 'DRAFT'
+#            END AS 'draft',</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y291bnQoKikg</text>
+        <text>druft</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>
@@ -355,18 +360,27 @@
         <text encoding="base64">U0VMRUNUIGRpc3RpbmN0IGNhbXBhaWduX2lkLCBvcmdfbmFtZQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICBBTkQgZS51c2VyX2lkIElTIE5VTEw=</text>
+        <text>#        CASE t.draft_id
+#            WHEN NULL THEN ''
+#            ELSE 'DRAFT'
+#            END AS 'draft',</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUIGlkLCBuYW1lCkZST00gb3JnYW5pemF0aW9ucwpPUkRFUiBCWSBuYW1lOwo=</text>
+        <text encoding="base64">ICAgICAgIHQuZHJhZnRfaWQsCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ClNFTEVDVCB2cC4qLAogICAgICAgbXMubW9udGhfc3RhcnQsCiAgICAgICAoKENBU0UKICAgICAgICAgICAgIFdIRU4gdnAuc2F2aW5ncyA8PSAwIFRIRU4gMQogICAgICAgICAgICAgRUxTRSB2cC5zYXZpbmdzIEVORCkKICAgICAgICAgICAvIENBU0UgV0hFTiBtYy5tb250aF9jb3VudCBJUyBOVUxMIE9SIG1jLm1vbnRoX2NvdW50IDw9IDAgVEhFTiAxIEVMU0UgbWMubW9udGhfY291bnQgRU5ECiAgICAgICAgICAgKSBjb3N0X3Blcl9tb250aApGUk9NIHJlcG9ydGluZy52cF9vcHBvc19maW5hbCB2cAogICAgICAgICBMRUZUIEpPSU4gKFNFTEVDVCBvcHBvcnR1bml0eV9pZCwgY291bnQoRElTVElOQ1QgbXMubW9udGhfc3RhcnQpIG1vbnRoX2NvdW50CiAgICAgICAgICAgICAgICAgICAgRlJPTSByZXBvcnRpbmcudnBfb3Bwb3NfZmluYWwgdnAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMRUZUIE9VVEVSIEpPSU4KICAgICAgICAgICAgICAgICAgICAgICAgIChTRUxFQ1QgZC5tb250aF9zdGFydAogICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gR0VORVJBVEVfU0VSSUVTKGRhdGVfdHJ1bmMoJ21vbnRoJywgY3VycmVudF9kYXRlKSwgY3VycmVudF9kYXRlICsgJzEgeWVhcic6OklOVEVSVkFMLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcxIG1vbnRoJzo6SU5URVJWQUwpIGQgKG1vbnRoX3N0YXJ0KSkgbXMKICAgICAgICAgICAgICAgICAgICAgICAgIE9OIG1zLm1vbnRoX3N0YXJ0IDwgdnAuZnJvbV9tYXhfZmlsbCArIChDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFdIRU4gY2FtcGFpZ25fdHlwZSA9IDMwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUSEVOIHZwLmZyb21fdG90X3N1cHBseV9wYWlkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVMU0UgdnAudG9fdG90X3N1cHBseV9wYWlkIEVORCkgKiBJTlRFUlZBTCAnMSBkYXknCiAgICAgICAgICAgICAgICAgICAgV0hFUkUgKHZwLmZyb21fcnhuY3VpIDw+IHZwLnRvX3J4bmN1aQogICAgICAgICAgICAgICAgICAgICAgICBPUiB2cC50b19yeG5jdWkgSVMgTlVMTCkKICAgICAgICAgICAgICAgICAgICBHUk9VUCBCWSB2cC5vcHBvcnR1bml0eV9pZCkgbWMKICAgICAgICAgICAgICAgICAgIE9OIHZwLm9wcG9ydHVuaXR5X2lkID0gbWMub3Bwb3J0dW5pdHlfaWQKICAgICAgICAgTEVGVCBPVVRFUiBKT0lOCiAgICAgKFNFTEVDVCBkLm1vbnRoX3N0YXJ0CiAgICAgIEZST00gR0VORVJBVEVfU0VSSUVTKGRhdGVfdHJ1bmMoJ21vbnRoJywgY3VycmVudF9kYXRlKSwgY3VycmVudF9kYXRlICsgJzEgeWVhcic6OklOVEVSVkFMLAogICAgICAgICAgICAgICAgICAgICAgICAgICAnMSBtb250aCc6OklOVEVSVkFMKSBkIChtb250aF9zdGFydCkpIG1zCiAgICAgT04gbXMubW9udGhfc3RhcnQgPCB2cC5mcm9tX21heF9maWxsICsKICAgICAgICAgICAgICAgICAgICAgICAgIChDQVNFIFdIRU4gY2FtcGFpZ25fdHlwZSA9IDMwIFRIRU4gdnAuZnJvbV90b3Rfc3VwcGx5X3BhaWQgRUxTRSB2cC50b190b3Rfc3VwcGx5X3BhaWQgRU5EKSAqCiAgICAgICAgICAgICAgICAgICAgICAgICBJTlRFUlZBTCAnMSBkYXknCldIRVJFICh2cC5mcm9tX3J4bmN1aSA8PiB2cC50b19yeG5jdWkKICAgIE9SIHZwLnRvX3J4bmN1aSBJUyBOVUxMKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBBTkQgZS51c2VyX2lkIElTIE5VTEw=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">U0VMRUNUIGlkLCBuYW1lCkZST00gb3JnYW5pemF0aW9ucwpPUkRFUiBCWSBuYW1lOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ClNFTEVDVCB2cC4qLAogICAgICAgbXMubW9udGhfc3RhcnQsCiAgICAgICAoKENBU0UKICAgICAgICAgICAgIFdIRU4gdnAuc2F2aW5ncyA8PSAwIFRIRU4gMQogICAgICAgICAgICAgRUxTRSB2cC5zYXZpbmdzIEVORCkKICAgICAgICAgICAvIENBU0UgV0hFTiBtYy5tb250aF9jb3VudCBJUyBOVUxMIE9SIG1jLm1vbnRoX2NvdW50IDw9IDAgVEhFTiAxIEVMU0UgbWMubW9udGhfY291bnQgRU5ECiAgICAgICAgICAgKSBjb3N0X3Blcl9tb250aApGUk9NIHJlcG9ydGluZy52cF9vcHBvc19maW5hbCB2cAogICAgICAgICBMRUZUIEpPSU4gKFNFTEVDVCBvcHBvcnR1bml0eV9pZCwgY291bnQoRElTVElOQ1QgbXMubW9udGhfc3RhcnQpIG1vbnRoX2NvdW50CiAgICAgICAgICAgICAgICAgICAgRlJPTSByZXBvcnRpbmcudnBfb3Bwb3NfZmluYWwgdnAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMRUZUIE9VVEVSIEpPSU4KICAgICAgICAgICAgICAgICAgICAgICAgIChTRUxFQ1QgZC5tb250aF9zdGFydAogICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gR0VORVJBVEVfU0VSSUVTKGRhdGVfdHJ1bmMoJ21vbnRoJywgY3VycmVudF9kYXRlKSwgY3VycmVudF9kYXRlICsgJzEgeWVhcic6OklOVEVSVkFMLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcxIG1vbnRoJzo6SU5URVJWQUwpIGQgKG1vbnRoX3N0YXJ0KSkgbXMKICAgICAgICAgICAgICAgICAgICAgICAgIE9OIG1zLm1vbnRoX3N0YXJ0IDwgdnAuZnJvbV9tYXhfZmlsbCArIChDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFdIRU4gY2FtcGFpZ25fdHlwZSA9IDMwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUSEVOIHZwLmZyb21fdG90X3N1cHBseV9wYWlkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVMU0UgdnAudG9fdG90X3N1cHBseV9wYWlkIEVORCkgKiBJTlRFUlZBTCAnMSBkYXknCiAgICAgICAgICAgICAgICAgICAgV0hFUkUgKHZwLmZyb21fcnhuY3VpIDw+IHZwLnRvX3J4bmN1aQogICAgICAgICAgICAgICAgICAgICAgICBPUiB2cC50b19yeG5jdWkgSVMgTlVMTCkKICAgICAgICAgICAgICAgICAgICBHUk9VUCBCWSB2cC5vcHBvcnR1bml0eV9pZCkgbWMKICAgICAgICAgICAgICAgICAgIE9OIHZwLm9wcG9ydHVuaXR5X2lkID0gbWMub3Bwb3J0dW5pdHlfaWQKICAgICAgICAgTEVGVCBPVVRFUiBKT0lOCiAgICAgKFNFTEVDVCBkLm1vbnRoX3N0YXJ0CiAgICAgIEZST00gR0VORVJBVEVfU0VSSUVTKGRhdGVfdHJ1bmMoJ21vbnRoJywgY3VycmVudF9kYXRlKSwgY3VycmVudF9kYXRlICsgJzEgeWVhcic6OklOVEVSVkFMLAogICAgICAgICAgICAgICAgICAgICAgICAgICAnMSBtb250aCc6OklOVEVSVkFMKSBkIChtb250aF9zdGFydCkpIG1zCiAgICAgT04gbXMubW9udGhfc3RhcnQgPCB2cC5mcm9tX21heF9maWxsICsKICAgICAgICAgICAgICAgICAgICAgICAgIChDQVNFIFdIRU4gY2FtcGFpZ25fdHlwZSA9IDMwIFRIRU4gdnAuZnJvbV90b3Rfc3VwcGx5X3BhaWQgRUxTRSB2cC50b190b3Rfc3VwcGx5X3BhaWQgRU5EKSAqCiAgICAgICAgICAgICAgICAgICAgICAgICBJTlRFUlZBTCAnMSBkYXknCldIRVJFICh2cC5mcm9tX3J4bmN1aSA8PiB2cC50b19yeG5jdWkKICAgIE9SIHZwLnRvX3J4bmN1aSBJUyBOVUxMKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgIGd1aWQsCiAgICAgICBuYW1lLAogICAgICAgY3JlYXRlZF9hdDo6ZGF0ZSwKICAgICAgIHVwZGF0ZWRfYXQ6OmRhdGUsCiAgICAgICB2aXNpYmxlX3N0YXRlLAogICAgICAgY2FtcGFpZ25fdHlwZSwKICAgICAgIGRpc3BsYXlfaW5saW5lLAogICAgICAgYXV0b21hdGVkLAogICAgICAgY2xpbmljYWxfbGlzdF9vdmVycmlkZSwKICAgICAgIHRyZWF0bWVudF9maWxsZWQsCiAgICAgICBhZ2VfZW5kLAogICAgICAgZnJlcXVlbmN5LAogICAgICAgc2VuZF9jYW1wYWlnbiwKICAgICAgIGxhc3RfcnVuX3N0YXRlX2Rlc2NyaXB0aW9uLAogICAgICAgbGFzdF9ydW5fYXQ6OmRhdGUsCiAgICAgICBjYW1wYWlnbl9jYXRlZ29yeV9pZCwKICAgICAgIHRyZWF0bWVudF9jYXRlZ29yeV9vdmVycmlkZQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>SELECT count(*)
 FROM reporting.opportunities;
 SELECT *
@@ -459,17 +473,11 @@ UPDATE reporting.eqr_campaign_oppos
 SET campaign_name = replace(campaign_name, 'Inhibitor''s', 'Inhibitors')
 WHERE campaign_id = 18;</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgIGNvbmRpdGlvbl9uYXZpZ2F0b3IsCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGxhc3RfcnVuX3N0YXRlLAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIG5leHRfcmV2aWV3X2RhdGUsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHRpdGxlLAogICAgICAgc3VidGl0bGUsCg==</text>
+        <text encoding="base64">ICAgICAgIGxhc3RfcnVuX3N0YXRlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>24</text>

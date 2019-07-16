@@ -87,10 +87,10 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.eqr_events [REPORTING_TUNNEL]" timestamp="1562605141159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1563233866918">
+      <file name="/a.sql" timestamp="1563236997832">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
+        <mark key="]" line="54" column="28" />
+        <mark key="." line="54" column="28" />
       </file>
       <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/eqr_events.sql" timestamp="1562363465398">
         <mark key="[" line="37" column="16" />
@@ -135,6 +135,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.eqr_elig_users [REPORTING_TUNNEL]" timestamp="1562362451453">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/bopbop.public.salaries [bopbop_LOCAL]" timestamp="1563236939027">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_12.sql" timestamp="1561672108944">
@@ -290,10 +293,10 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_mbr_conv_trend [REPORTING_TUNNEL]" timestamp="1562617488288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1563234237375">
+      <file name="/dummy.sql" timestamp="1563236983460">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563233866914">
+      <file name="/Dummy.txt" timestamp="1563236983454">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -314,6 +317,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.organizations_full [REPORTING_TUNNEL]" timestamp="1561501859901">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/da87b46e-1a8b-4a96-80f6-37a307f39eb4/console_1.sql" timestamp="1563236947174">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.user_elig [REPORTING_TUNNEL]" timestamp="1561410602940">

@@ -81,6 +81,12 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.sf_product [REPORTING_TUNNEL]" timestamp="1562605141046">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d7a483ea-3679-4ca9-8e93-4bc9c7d5d9c9/console_2.sql" timestamp="1563832157297">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="23" />
+      </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_campaign_eff [REPORTING_TUNNEL]" timestamp="1559682519200">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,7 +162,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.eqr_elig_users [REPORTING_TUNNEL]" timestamp="1562362451453">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/bopbop.public.salaries [bopbop_LOCAL]" timestamp="1563577460729">
+      <file name="/bopbop.public.salaries [bopbop_LOCAL]" timestamp="1563831825264">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_12.sql" timestamp="1561672108944">
@@ -240,6 +246,9 @@
         <mark key="^" line="17" column="39" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.formulary_core [REPORTING_TUNNEL]" timestamp="1563831850467">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/Markdown-Groovy.md.groovy" timestamp="1562624393545">
         <mark key="[" line="0" column="0" />
       </file>
@@ -299,6 +308,9 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.treatment_categories [REPORTING_TUNNEL]" timestamp="1560976403282">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/ffruyjgpaadoolcodrfm.formularies [MYSQL_PRD_TUNNEL]" timestamp="1563831914707">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/analytics/SQL/employer reporting/eqr_elig_users.sql" timestamp="1562095409414">
         <mark key="[" line="72" column="64" />
       </file>
@@ -311,7 +323,7 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_mbr_conv_trend [REPORTING_TUNNEL]" timestamp="1562617488288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1563314984484">
+      <file name="/dummy.sql" timestamp="1563831976312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1563236983454">
@@ -370,7 +382,7 @@
       <file name="/frodo_tailfeathers.reporting.event_logs_full [PostgreSQL - postgres@localhost]" timestamp="1562200084310">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.opportunities [REPORTING_TUNNEL]" timestamp="1563577460500">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.opportunities [REPORTING_TUNNEL]" timestamp="1563831825010">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -409,16 +421,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'140127006', '100133928')</text>
+        <text>and health_plans.name not like '%United%';</text>
       </register>
       <register name="-" type="4">
-        <text>'140127006', '100133928')</text>
+        <text>and health_plans.name not like '%United%';</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSByZXBvcnRpbmcuZXFyX2VsaWdfdXNlcnMgbGltaXQgMTAwOwo=</text>
+        <text encoding="base64">V0hFUkUgaGVhbHRoX3BsYW5zLm5hbWUgTElLRSAnUmVnZW5jZSVPcmVnb24lJzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIGdyb3VwX25hbWUsCg==</text>

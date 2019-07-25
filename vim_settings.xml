@@ -122,11 +122,11 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.sf_asset [REPORTING_TUNNEL]" timestamp="1562605140512">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_19.sql" timestamp="1564078782967">
-        <mark key="[" line="11" column="49" />
-        <mark key="]" line="11" column="48" />
-        <mark key="^" line="11" column="48" />
-        <mark key="." line="11" column="48" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_19.sql" timestamp="1564085497389">
+        <mark key="[" line="15" column="61" />
+        <mark key="]" line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="11" column="39" />
       </file>
       <file name="/frodo_tailfeathers.reporting.trimet_elig [PostgreSQL - postgres@localhost]" timestamp="1563299297327">
         <mark key="[" line="0" column="0" />
@@ -158,6 +158,7 @@
       <file name="/org_month_filler [REPORTING_TUNNEL]" timestamp="1562780278824">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/analytics/SQL/employer_reporting/eqr_campaign_oppos.sql" timestamp="1564085703811" />
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.eqr_elig_users [REPORTING_TUNNEL]" timestamp="1562362451453">
         <mark key="[" line="0" column="0" />
       </file>
@@ -250,8 +251,11 @@
       <file name="/opportunities [MYSQL_PRD_TUNNEL]" timestamp="1562110014050">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d7a483ea-3679-4ca9-8e93-4bc9c7d5d9c9/console_3.sql" timestamp="1564078970242">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d7a483ea-3679-4ca9-8e93-4bc9c7d5d9c9/console_3.sql" timestamp="1564086196991">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adf40725-f042-4dd2-92f5-1dcc89bcc80f/console_15.sql" timestamp="1563303888463">
         <mark key="[" line="2" column="80" />
@@ -408,17 +412,17 @@
       <jump line="9" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6e287d84-96d0-4ca3-a550-6f9a7c6a80fc/console_19.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIHBlcnNvbl9maXJzdF9uYW1lIGZuLAogICAgICAgcGVyc29uX21pZGRsZV9pbml0aWFsIG1pLAogICAgICAgcGVyc29uX2xhc3RfbmFtZSBsbiwKICAgICAgIGFkZHJlc3NfbGluZV8xIGExLAogICAgICAgYWRkcmVzc19mb3JtYXR0ZWRfY2l0eV9zdGF0ZV96aXAgYWRkciwKICAgICAgIGFkZHJlc3NfNV9kaWdpdF96aXBfY29kZSB6aXBjLAogICAgICAgY3VycmVudF9tZW1iZXJfaW5kaWNhdG9yIGNtaSwKICAgICAgIHBlcnNvbl9lbGlnaWJpbGl0eV9lZmZlY3RpdmVfZGF0ZSBlZmZfZGF0ZSwKICAgICAgIHBlcnNvbl9lbGlnaWJpbGl0eV90ZXJtaW5hdGlvbl9kYXRlIHRlcm1fZGF0ZSwKICAgICAgIHBlcnNvbl9pZGVudGlmaWVyLAogICAgICAgc3Vic2NyaWJlcl9pZGVudGlmaWVyLAogICAgICAgbWVtYmVyX3N1ZmZpeF9pZGVudGlmaWVyIG1zaSwKCiAgICAgICBwZXJzb25fZ2VuZGVyX2NvZGUgZ2VuZGVyLAogICAgICAgcHJvZHVjdF9pZGVudGlmaWVyLAogICAgICAgcmVjb3JkX3VwZGF0ZV9kYXRlOjpEQVRFLAogICAgICAgY3JlYXRlZF9hdDo6REFURSwKICAgICAgIHVwZGF0ZWRfYXQ6OkRBVEUsCiAgICAgICB1c2VyX2lkLAogICAgICAgY29tYmluZWRfbWVtYmVyX2lkLAogICAgICAgbWF0Y2hlZF9hdDo6REFURQpGUk9NIGVsaWdpYmlsaXRpZXMKV0hFUkUgc3Vic2NyaWJlcl9pZGVudGlmaWVyIElOICgnMTQwMTMyODkyJywnMTAwMTM0MjQ3JykKICBBTkQgcHJvZHVjdF9jYXRlZ29yeV9jb2RlID0gJ1InOwo=</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>and health_plans.name not like '%United%';</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">V0hFUkUgaGVhbHRoX3BsYW5zLm5hbWUgTElLRSAnUmVnZW5jZSVPcmVnb24lJzsK</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBvcHBvcnR1bml0aWVzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIHBlcnNvbl9maXJzdF9uYW1lIGZuLAogICAgICAgcGVyc29uX21pZGRsZV9pbml0aWFsIG1pLAogICAgICAgcGVyc29uX2xhc3RfbmFtZSBsbiwKICAgICAgIGFkZHJlc3NfbGluZV8xIGExLAogICAgICAgYWRkcmVzc19mb3JtYXR0ZWRfY2l0eV9zdGF0ZV96aXAgYWRkciwKICAgICAgIGFkZHJlc3NfNV9kaWdpdF96aXBfY29kZSB6aXBjLAogICAgICAgY3VycmVudF9tZW1iZXJfaW5kaWNhdG9yIGNtaSwKICAgICAgIHBlcnNvbl9lbGlnaWJpbGl0eV9lZmZlY3RpdmVfZGF0ZSBlZmZfZGF0ZSwKICAgICAgIHBlcnNvbl9lbGlnaWJpbGl0eV90ZXJtaW5hdGlvbl9kYXRlIHRlcm1fZGF0ZSwKICAgICAgIHBlcnNvbl9pZGVudGlmaWVyLAogICAgICAgc3Vic2NyaWJlcl9pZGVudGlmaWVyLAogICAgICAgbWVtYmVyX3N1ZmZpeF9pZGVudGlmaWVyIG1zaSwKCiAgICAgICBwZXJzb25fZ2VuZGVyX2NvZGUgZ2VuZGVyLAogICAgICAgcHJvZHVjdF9pZGVudGlmaWVyLAogICAgICAgcmVjb3JkX3VwZGF0ZV9kYXRlOjpEQVRFLAogICAgICAgY3JlYXRlZF9hdDo6REFURSwKICAgICAgIHVwZGF0ZWRfYXQ6OkRBVEUsCiAgICAgICB1c2VyX2lkLAogICAgICAgY29tYmluZWRfbWVtYmVyX2lkLAogICAgICAgbWF0Y2hlZF9hdDo6REFURQpGUk9NIGVsaWdpYmlsaXRpZXMKV0hFUkUgc3Vic2NyaWJlcl9pZGVudGlmaWVyIElOICgnMTQwMTMyODkyJywnMTAwMTM0MjQ3JykKICBBTkQgcHJvZHVjdF9jYXRlZ29yeV9jb2RlID0gJ1InOwo=</text>

@@ -49,6 +49,15 @@
           </record-format>
         </header>
       </csv-format>
+      <csv-format name="CSV One-Line No Heading" id="90f3b5cd-0c63-4e33-be56-d99899cb4a43">
+        <data>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="always" valueSeparator="," recordSeparator="," trimWhitespace="true">
+            <quotation>
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </data>
+      </csv-format>
     </csv-formats>
   </component>
 </application>

@@ -1,10 +1,23 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl tab" />
-  </action>
-  <action id="Switcher">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="SearchEverywhere.PrevTab" />
+  <action id="Switcher" />
 </keymap>

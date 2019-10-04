@@ -3,12 +3,16 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="Console.TableResult.Transpose">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="Images.ShowThumbnails" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -18,6 +22,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SearchEverywhere.PrevTab" />
   <action id="Switcher" />
 </keymap>

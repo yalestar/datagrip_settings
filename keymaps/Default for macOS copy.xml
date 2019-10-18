@@ -6,6 +6,7 @@
   <action id="Console.TableResult.Transpose">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="DecrementWindowHeight" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Forward">
@@ -13,6 +14,15 @@
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="Images.ShowThumbnails" />
+  <action id="IncrementWindowHeight" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -22,6 +32,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SearchEverywhere.PrevTab" />
   <action id="Switcher" />

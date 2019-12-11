@@ -13,7 +13,7 @@
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
-      <key-repeat enabled="true" />
+      <key-repeat enabled="false" />
     </editor>
     <notifications>
       <idea-join enabled="true" />

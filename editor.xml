@@ -6,7 +6,7 @@
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_SIZE" value="18" />
   </component>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />

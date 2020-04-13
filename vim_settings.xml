@@ -1,6 +1,40 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>TEMPORARY</entry>
+        <entry>occur</entry>
+        <entry encoding="base64">XDxjb3VudFw+</entry>
+        <entry encoding="base64">XDxmcm9tXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>5</entry>
+        <entry>111</entry>
+        <entry>50</entry>
+        <entry>140</entry>
+        <entry>.,.+113</entry>
+        <entry>113</entry>
+        <entry>157</entry>
+        <entry>129</entry>
+        <entry>166</entry>
+        <entry>186</entry>
+        <entry>36d</entry>
+        <entry>71</entry>
+        <entry>4</entry>
+        <entry>396</entry>
+        <entry>400</entry>
+        <entry>13</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
@@ -12,9 +46,236 @@
         <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="false" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/airflow_metadata_production.public.ab_role" timestamp="1586816245329">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console" timestamp="1586816938777">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_59.sql" timestamp="1586817706481" />
+      <file name="/campaign_treatments_full [REPORTING_TUNNEL]" timestamp="1586816353523">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1586816915099">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_42" timestamp="1586816338326">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_43" timestamp="1586816398262">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1586816915112">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_43.sql" timestamp="1586816398986">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.campaign_treatments_full" timestamp="1586816353535">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1586816966143">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.tmp.crossserve_member_latest_elig" timestamp="1586816245327">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_3" timestamp="1586816245334">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_58" timestamp="1586816245336">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1586816353546">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ab_role [PROD_AIRFLOW_METADATA_TUNNEL]" timestamp="1586816245328">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_59" timestamp="1586817008280">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_1" timestamp="1586816245339">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_2" timestamp="1586816245330">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/crossserve_member_latest_elig [REPORTING_TUNNEL]" timestamp="1586816245326">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="436" column="0" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_conversion.sql" />
+      <jump line="342" column="30" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_conversion.sql" />
+      <jump line="399" column="64" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="276" column="6" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="195" column="0" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="241" column="0" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="6" column="74" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="0" column="13" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="228" column="47" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/ORIGINAL_Pricing Magic v5.sql" />
+      <jump line="121" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_14.sql" />
+      <jump line="79" column="38" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_14.sql" />
+      <jump line="114" column="6" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="16" column="38" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="181" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_14.sql" />
+      <jump line="119" column="6" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="0" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_14.sql" />
+      <jump line="103" column="12" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="65" column="53" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="127" column="117" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="120" column="6" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="91" column="38" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="126" column="9" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_conversion.sql" />
+      <jump line="401" column="0" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_conversion.sql" />
+      <jump line="421" column="31" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_conversion.sql" />
+      <jump line="447" column="21" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_conversion.sql" />
+      <jump line="442" column="26" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_conversion.sql" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_conversion.sql" />
+      <jump line="212" column="41" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_conversion.sql" />
+      <jump line="252" column="14" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_conversion.sql" />
+      <jump line="334" column="25" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/ORIGINAL_Pricing Magic v5.sql" />
+      <jump line="170" column="65" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="1" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_17.sql" />
+      <jump line="7" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_18.sql" />
+      <jump line="230" column="5" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="353" column="61" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_conversion.sql" />
+      <jump line="5" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_17.sql" />
+      <jump line="7" column="65" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_17.sql" />
+      <jump line="131" column="59" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="7" column="25" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="143" column="0" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="128" column="29" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="21" column="70" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
+      <jump line="314" column="30" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_conversion.sql" />
+      <jump line="4" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_16.sql" />
+      <jump line="30" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_16.sql" />
+      <jump line="13" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/parsy_mcshitstorm.sql" />
+      <jump line="9" column="57" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_20.sql" />
+      <jump line="362" column="0" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_conversion.sql" />
+      <jump line="0" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/boneshake_cte.sql" />
+      <jump line="28" column="36" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/boneshake_cte.sql" />
+      <jump line="3" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/pg_tracker.sql" />
+      <jump line="4" column="36" filename="$APPLICATION_CONFIG_DIR$/consoles/db/083cda5b-9167-4da3-b095-722c2e6a076f/console_8.sql" />
+      <jump line="0" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_21.sql" />
+      <jump line="0" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/pg_tracker.sql" />
+      <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/pg_tracker.sql" />
+      <jump line="110" column="51" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/ORIGINAL_Pricing Magic v5.sql" />
+      <jump line="179" column="18" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/SLIGHTLY_YJK_MODIFIED_Pricing_Magic_v5.sql" />
+      <jump line="4" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_12.sql" />
+      <jump line="5" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_12.sql" />
+      <jump line="476" column="0" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/SLIGHTLY_YJK_MODIFIED_Pricing_Magic_v5.sql" />
+      <jump line="401" column="0" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_xref.sql" />
+      <jump line="10" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
+      <jump line="30" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/sqls/pg_locks_admin.sql" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/sqls/pg_locks_admin.sql" />
+      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_27.sql" />
+      <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_27.sql" />
+      <jump line="19" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_27.sql" />
+      <jump line="26" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_27.sql" />
+      <jump line="9" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console.sql" />
+      <jump line="16" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_31.sql" />
+      <jump line="20" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_31.sql" />
+      <jump line="2" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_32.sql" />
+      <jump line="8" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_31.sql" />
+      <jump line="53" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_31.sql" />
+      <jump line="22" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_31.sql" />
+      <jump line="12" column="61" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_18.sql" />
+      <jump line="9" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_37.sql" />
+      <jump line="16" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_37.sql" />
+      <jump line="22" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_37.sql" />
+      <jump line="22" column="36" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_36.sql" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_36.sql" />
+      <jump line="19" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_36.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_36.sql" />
+      <jump line="24" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_25.sql" />
+      <jump line="5" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_38.sql" />
+      <jump line="25" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_25.sql" />
+      <jump line="13" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_38.sql" />
+      <jump line="25" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_39.sql" />
+      <jump line="28" column="38" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console.sql" />
+      <jump line="43" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_24.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_43.sql" />
+      <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_43.sql" />
+      <jump line="8" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_32.sql" />
+      <jump line="11" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_52.sql" />
+      <jump line="3" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_32.sql" />
+      <jump line="9" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_30.sql" />
+      <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/pg_event_logs_reference.sql" />
+      <jump line="19" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_37.sql" />
+      <jump line="0" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_39.sql" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>crossserve_oppo_elig_treatments_alts</text>
+      </register>
+      <register name="-" type="4">
+        <text>crossserve_oppo_elig_treatments_alts</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxmcm9tXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text>delete from event_logs where id != 360313;</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgIG9yZ2FuaXphdGlvbl9pZCwK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgIHBhcnRuZXJfaWQsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIGNyZWF0ZWRfYXQsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIHVwZGF0ZWRfYXQK</text>
+      </register>
+      <register name="5" type="4">
+        <text>id,
+       user_id,
+       href,
+       resource_id,
+       resource_type,
+       event_category,
+       event_action,
+       created_at</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LS0gU0VMRUNUICoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIGV2ZW50X25hbWUsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>13</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxmcm9tXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxmcm9tXD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />

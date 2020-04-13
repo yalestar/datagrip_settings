@@ -56,7 +56,12 @@
       <file name="/console" timestamp="1586816938777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_59.sql" timestamp="1586817706481" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_59.sql" timestamp="1586818397155">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="7" />
+      </file>
       <file name="/campaign_treatments_full [REPORTING_TUNNEL]" timestamp="1586816353523">
         <mark key="[" line="0" column="0" />
       </file>
@@ -215,10 +220,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>crossserve_oppo_elig_treatments_alts</text>
+        <text>{{ params.query_schema }}</text>
       </register>
       <register name="-" type="4">
-        <text>crossserve_oppo_elig_treatments_alts</text>
+        <text>{{ params.query_schema }}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>

@@ -50,13 +50,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586984070799">
+      <file name="/Dummy.txt" timestamp="1586984772208">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_43.sql" timestamp="1586816398986">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/airflow_metadata_production.public.ab_role" timestamp="1586816245329">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.event_logs_full_eqr_stabilization" timestamp="1586984400101">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.campaign_treatments_full" timestamp="1586816353535">
@@ -77,22 +77,22 @@
       <file name="/" timestamp="1586816966143">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/event_logs_full_eqr_stabilization [REPORTING_TUNNEL]" timestamp="1586984400097">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/console_3" timestamp="1586816245334">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_58" timestamp="1586816245336">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1586984143384">
+      <file name="/a.sql" timestamp="1586984772174">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1586816353546">
+      <file name="/foo.bar" timestamp="1586984400102">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ab_role [PROD_AIRFLOW_METADATA_TUNNEL]" timestamp="1586816245328">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_59" timestamp="1586984041377">
+      <file name="/console_59" timestamp="1586984400162">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_1" timestamp="1586816245339">
@@ -101,8 +101,11 @@
       <file name="/console_2" timestamp="1586816245330">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_44.sql" timestamp="1586983507298">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_44.sql" timestamp="1586984168190">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="/console_42" timestamp="1586816338326">
         <mark key="[" line="0" column="0" />
@@ -110,7 +113,7 @@
       <file name="/console_43" timestamp="1586816398262">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_44" timestamp="1586984041383">
+      <file name="/console_44" timestamp="1586984400253">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>

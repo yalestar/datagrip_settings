@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="ec2-52-32-10-171.us-west-2.compute.amazonaws.com" id="312ff47a-ba70-4cf9-9aa9-df9d12f307f6" keyPath="$USER_HOME$/.ssh/aws_ms_reporting.pem" port="22" nameFormat="DESCRIPTIVE" username="reporting" />
+    </configs>
+  </component>
+</application>

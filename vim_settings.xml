@@ -50,7 +50,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586984772208">
+      <file name="/Dummy.txt" timestamp="1586994434169">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_43.sql" timestamp="1586816398986">
@@ -98,14 +98,14 @@
       <file name="/console_1" timestamp="1586816245339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_2" timestamp="1586816245330">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_44.sql" timestamp="1586984168190">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="8" />
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="7" />
+      </file>
+      <file name="/default" timestamp="1586994304012">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_42" timestamp="1586816338326">
         <mark key="[" line="0" column="0" />

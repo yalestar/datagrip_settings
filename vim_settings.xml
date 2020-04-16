@@ -107,12 +107,12 @@
       <file name="/foo.bar" timestamp="1587065565172">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_61.sql" timestamp="1587065836660">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_61.sql" timestamp="1587066076884">
         <mark key="'" line="0" column="43" />
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="16" />
-        <mark key="^" line="2" column="34" />
-        <mark key="." line="2" column="16" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_60.sql" timestamp="1586995611933">
         <mark key="[" line="0" column="97" />

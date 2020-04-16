@@ -53,58 +53,28 @@
       <file name="/vp_oppos_final [REPORTING_TUNNEL]" timestamp="1587060333855">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587060823729">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.event_logs_full_eqr_stabilization" timestamp="1586984400101">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.eligibilities_full" timestamp="1587060349358">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_45.sql" timestamp="1587062274549">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="2" column="14" />
-        <mark key="^" line="2" column="14" />
-        <mark key="." line="2" column="13" />
-      </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_oppos_final" timestamp="1587060333860">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_59.sql" timestamp="1586818397155">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="6" />
-        <mark key="^" line="2" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_45.sql" timestamp="1587062469559">
+        <mark key="[" line="87" column="6" />
+        <mark key="]" line="87" column="7" />
+        <mark key="^" line="87" column="46" />
+        <mark key="." line="87" column="7" />
       </file>
       <file name="/frodo_tailfeathers.public.vp_oppos_final" timestamp="1587060333863">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/event_logs_full_eqr_stabilization [REPORTING_TUNNEL]" timestamp="1586984400097">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_45" timestamp="1587060841381">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1587060823692">
+      <file name="/a.sql" timestamp="1587065625914">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1587060349377">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_59" timestamp="1586984400162">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_44.sql" timestamp="1586984168190">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="8" />
-        <mark key="^" line="6" column="8" />
-        <mark key="." line="6" column="7" />
       </file>
       <file name="/eligibilities_full [REPORTING_TUNNEL]" timestamp="1587060349338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/default" timestamp="1586994304012">
+      <file name="/oxnard [PG_LOCALHOST]" timestamp="1587065565152">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/default" timestamp="1587065560975">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/vp_oppos_final [PG_LOCALHOST]" timestamp="1587060333862">
@@ -113,18 +83,45 @@
       <file name="/console_60" timestamp="1587060333930">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/console_61" timestamp="1587065570907">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1587065634428">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_44" timestamp="1586984400253">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587065634849">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="/little_frodo.tmp.oxnard" timestamp="1587065565162">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.eligibilities_full" timestamp="1587060349358">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_oppos_final" timestamp="1587060333860">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1587065565172">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_61.sql" timestamp="1587065836660">
+        <mark key="'" line="0" column="43" />
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="2" column="16" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_60.sql" timestamp="1586995611933">
         <mark key="[" line="0" column="97" />
         <mark key="]" line="0" column="97" />
         <mark key="^" line="0" column="98" />
         <mark key="." line="0" column="97" />
       </file>
-      <file name="/console_44" timestamp="1586984400253">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="436" column="0" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_conversion.sql" />
       <jump line="342" column="30" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_conversion.sql" />
       <jump line="399" column="64" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="276" column="6" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
@@ -224,15 +221,16 @@
       <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/pg_event_logs_reference.sql" />
       <jump line="19" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_37.sql" />
       <jump line="0" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_39.sql" />
+      <jump line="0" column="43" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_61.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -241,13 +239,13 @@
         <text>delete from event_logs where id != 360313;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBBTkQgZS5wZXJzb25fZWxpZ2liaWxpdHlfdGVybWluYXRpb25fZGF0ZSA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgIGxlLnBlcnNvbl9lbGlnaWJpbGl0eV90ZXJtaW5hdGlvbl9kYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBBTkQgZS5wZXJzb25fZWxpZ2liaWxpdHlfdGVybWluYXRpb25fZGF0ZSA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgIGxlLnBlcnNvbl9lbGlnaWJpbGl0eV90ZXJtaW5hdGlvbl9kYXRlCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -256,16 +254,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIGUuYWRkcmVzc181X2RpZ2l0X3ppcF9jb2RlLAogICAgICAgZS5hZGRyZXNzXzlfZGlnaXRfemlwX2NvZGUsCiAgICAgICBlLmFkZHJlc3NfY2l0eSwKICAgICAgIGUuYWRkcmVzc19jb3VudHJ5LAogICAgICAgZS5hZGRyZXNzX2NvdW50eSwKICAgICAgIGUuYWRkcmVzc19mb3JtYXR0ZWRfY2l0eV9zdGF0ZV96aXAsCiAgICAgICBlLmFkZHJlc3NfZ2VvZ3JhcGhpY19sYXRpdHVkZSwKICAgICAgIGUuYWRkcmVzc19nZW9ncmFwaGljX2xvbmdpdHVkZSwKICAgICAgIGUuYWRkcmVzc19saW5lXzEsCiAgICAgICBlLmFkZHJlc3NfbGluZV8yLAogICAgICAgZS5hZGRyZXNzX2xpbmVfMywKICAgICAgIGUuYWRkcmVzc19wbHVzXzRfemlwX2NvZGUsCiAgICAgICBlLmFkZHJlc3Nfc2lnbmlmaWVyX2luZGljYXRvciwKICAgICAgIGUuYWRkcmVzc19zdGF0ZV9hYmJyZXZpYXRpb24sCiAgICAgICBlLmFkZHJlc3Nfc3RhdGVfbmFtZSwKICAgICAgIGUuYWRkcmVzc190eXBlX2NvZGUsCiAgICAgICBlLmFkZHJlc3NfdHlwZV9jb2RlX2Rlc2MsCiAgICAgICBlLmFkZHJlc3NfdXNhZ2VfY29kZSwKICAgICAgIGUuYWRkcmVzc191c2FnZV9kZXNjcmlwdGlvbiwKICAgICAgIGUuYWRkcmVzc192YWxpZGF0aW9uX2NvZGUsCiAgICAgICBlLmFkZHJlc3NfdmFsaWRhdGlvbl9jb2RlX2Rlc2MsCiAgICAgICBlLmNsYXNzX2NvZGVfaWRlbnRpZmllciwKICAgICAgIGUuY2xhc3NfbmFtZSwKICAgICAgIGUuY2xhc3NfcGxhbl9jb2RlX2lkZW50aWZpZXIsCiAgICAgICBlLmNsYXNzX3BsYW5fbmFtZSwKICAgICAgIGUuY2xpZW50X2NvZGUsCiAgICAgICBlLmNsaWVudF9jb2RlX2Rlc2MsCiAgICAgICBlLmN1cnJlbnRfbWVtYmVyX2luZGljYXRvciwKICAgICAgIGUuZ3JvdXBfaWRlbnRpZmllciwKICAgICAgIGUuZ3JvdXBfbmFtZSwKICAgICAgIGUuZ3JvdXBfc3RhdHVzX2NvZGUsCiAgICAgICBlLmdyb3VwX3N0YXR1c19jb2RlX2Rlc2MsCiAgICAgICBlLmdyb3VwX3R5cGVfY29kZSwKICAgICAgIGUuZ3JvdXBfdHlwZV9jb2RlX2Rlc2MsCiAgICAgICBlLnBlcnNvbl9lbGlnaWJpbGl0eV9lZmZlY3RpdmVfZGF0ZSwKICAgICAgIGUucGVyc29uX2VsaWdpYmlsaXR5X3Rlcm1pbmF0aW9uX2RhdGUsCiAgICAgICBlLnBlcnNvbl9ob21lX3Bob25lX251bWJlciwKICAgICAgIGUucGVyc29uX2lkZW50aWZpZXIsCiAgICAgICBlLnN1YnNjcmliZXJfaWRlbnRpZmllciwKICAgICAgIGUucGVyc29uX25hbWVfcHJlZml4LAogICAgICAgZS5wZXJzb25fbmFtZV9zdWZmaXgsCiAgICAgICBlLnBlcnNvbl9yZWxhdGlvbnNoaXBfY29kZSwKICAgICAgIGUucGVyc29uX3JlbGF0aW9uc2hpcF9jb2RlX2Rlc2MsCiAgICAgICBlLm1lbWJlcl9zdWZmaXhfaWRlbnRpZmllciwKICAgICAgIGUucGVyc29uX3dvcmtfcGhvbmVfbnVtYmVyLAogICAgICAgZS5wZXJzb25fY2VsbHVsYXJfbW9iaWxlX3Bob25lX251bWJlciwKICAgICAgIGUucGVyc29uX2RhdGVfb2ZfYmlydGgsCiAgICAgICBlLnBlcnNvbl9lbWFpbF9hZGRyZXNzLAogICAgICAgZS5wZXJzb25fZmlyc3RfbmFtZSwKICAgICAgIGUucGVyc29uX2Z1bGxfbmFtZSwKICAgICAgIGUucGVyc29uX21pZGRsZV9pbml0aWFsLAogICAgICAgZS5wZXJzb25fbWlkZGxlX25hbWUsCiAgICAgICBlLnBlcnNvbl9sYXN0X25hbWUsCiAgICAgICBlLnBlcnNvbl9nZW5kZXJfY29kZSwKICAgICAgIGUucGVyc29uX2dlbmRlcl9jb2RlX2Rlc2MsCiAgICAgICBlLnBlcnNvbl90eXBlX2NvZGUsCiAgICAgICBlLnBlcnNvbl90eXBlX2NvZGVfZGVzYywKICAgICAgIGUucHJvZHVjdF9idXNpbmVzc19jYXRlZ29yeV9jb2RlLAogICAgICAgZS5wcm9kdWN0X2J1c2luZXNzX2NhdGVnb3J5X2NvZGVfZGVzYywKICAgICAgIGUucHJvZHVjdF9jYXRlZ29yeV9jb2RlLAogICAgICAgZS5wcm9kdWN0X2NhdGVnb3J5X2NvZGVfZGVzYywKICAgICAgIGUucHJvZHVjdF9kZXNjLAogICAgICAgZS5wcm9kdWN0X2lkZW50aWZpZXIsCiAgICAgICBlLnByb2R1Y3RfcHJlbWl1bV90eXBlX2NvZGUsCiAgICAgICBlLnByb2R1Y3RfcHJlbWl1bV90eXBlX2NvZGVfZGVzYywKICAgICAgIGUucnhiaW4sCiAgICAgICBlLnJ4cGNuLA==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGUudXBkYXRlZF9hdCwKICAgICAgIGUudXNlcl9pZCwKICAgICAgIGUuY29tYmluZWRfbWVtYmVyX2lkLA==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtLSBUaGUgY2FzZSBzdGF0ZW1lbnQgaXMgdXNlZCB0byBmaWx0ZXIgb3V0IHN1Ymdyb3VwcyBvZiBjdXN0b21lciBhY2NvdW50cyB3aG8gYXJlIG5vdCBlbGlnaWJsZS4KICAtLSBUaGVyZSBpcyBvcHBvcnR1bml0eSB0byBmaWx0ZXIgb3V0IHRoZXNlL2RlbGV0ZSB0aGVzZSByZWNvcmRzIHVwb24gaW5nZXN0aW9uLgogIC0tIFRoaXMgd2lsbCBpbXByb3ZlIHF1ZXJ5IHBlcmZvcm1hbmNlIGFuZCByZW1vdmUgdGhlIG5lZWQgZm9yIHRoaXMgY2FzZSBzdGF0ZW1lbnQu</text>
+        <text encoding="base64">ICAgICAgIGUuYWRkcmVzc181X2RpZ2l0X3ppcF9jb2RlLAogICAgICAgZS5hZGRyZXNzXzlfZGlnaXRfemlwX2NvZGUsCiAgICAgICBlLmFkZHJlc3NfY2l0eSwKICAgICAgIGUuYWRkcmVzc19jb3VudHJ5LAogICAgICAgZS5hZGRyZXNzX2NvdW50eSwKICAgICAgIGUuYWRkcmVzc19mb3JtYXR0ZWRfY2l0eV9zdGF0ZV96aXAsCiAgICAgICBlLmFkZHJlc3NfZ2VvZ3JhcGhpY19sYXRpdHVkZSwKICAgICAgIGUuYWRkcmVzc19nZW9ncmFwaGljX2xvbmdpdHVkZSwKICAgICAgIGUuYWRkcmVzc19saW5lXzEsCiAgICAgICBlLmFkZHJlc3NfbGluZV8yLAogICAgICAgZS5hZGRyZXNzX2xpbmVfMywKICAgICAgIGUuYWRkcmVzc19wbHVzXzRfemlwX2NvZGUsCiAgICAgICBlLmFkZHJlc3Nfc2lnbmlmaWVyX2luZGljYXRvciwKICAgICAgIGUuYWRkcmVzc19zdGF0ZV9hYmJyZXZpYXRpb24sCiAgICAgICBlLmFkZHJlc3Nfc3RhdGVfbmFtZSwKICAgICAgIGUuYWRkcmVzc190eXBlX2NvZGUsCiAgICAgICBlLmFkZHJlc3NfdHlwZV9jb2RlX2Rlc2MsCiAgICAgICBlLmFkZHJlc3NfdXNhZ2VfY29kZSwKICAgICAgIGUuYWRkcmVzc191c2FnZV9kZXNjcmlwdGlvbiwKICAgICAgIGUuYWRkcmVzc192YWxpZGF0aW9uX2NvZGUsCiAgICAgICBlLmFkZHJlc3NfdmFsaWRhdGlvbl9jb2RlX2Rlc2MsCiAgICAgICBlLmNsYXNzX2NvZGVfaWRlbnRpZmllciwKICAgICAgIGUuY2xhc3NfbmFtZSwKICAgICAgIGUuY2xhc3NfcGxhbl9jb2RlX2lkZW50aWZpZXIsCiAgICAgICBlLmNsYXNzX3BsYW5fbmFtZSwKICAgICAgIGUuY2xpZW50X2NvZGUsCiAgICAgICBlLmNsaWVudF9jb2RlX2Rlc2MsCiAgICAgICBlLmN1cnJlbnRfbWVtYmVyX2luZGljYXRvciwKICAgICAgIGUuZ3JvdXBfaWRlbnRpZmllciwKICAgICAgIGUuZ3JvdXBfbmFtZSwKICAgICAgIGUuZ3JvdXBfc3RhdHVzX2NvZGUsCiAgICAgICBlLmdyb3VwX3N0YXR1c19jb2RlX2Rlc2MsCiAgICAgICBlLmdyb3VwX3R5cGVfY29kZSwKICAgICAgIGUuZ3JvdXBfdHlwZV9jb2RlX2Rlc2MsCiAgICAgICBlLnBlcnNvbl9lbGlnaWJpbGl0eV9lZmZlY3RpdmVfZGF0ZSwKICAgICAgIGUucGVyc29uX2VsaWdpYmlsaXR5X3Rlcm1pbmF0aW9uX2RhdGUsCiAgICAgICBlLnBlcnNvbl9ob21lX3Bob25lX251bWJlciwKICAgICAgIGUucGVyc29uX2lkZW50aWZpZXIsCiAgICAgICBlLnN1YnNjcmliZXJfaWRlbnRpZmllciwKICAgICAgIGUucGVyc29uX25hbWVfcHJlZml4LAogICAgICAgZS5wZXJzb25fbmFtZV9zdWZmaXgsCiAgICAgICBlLnBlcnNvbl9yZWxhdGlvbnNoaXBfY29kZSwKICAgICAgIGUucGVyc29uX3JlbGF0aW9uc2hpcF9jb2RlX2Rlc2MsCiAgICAgICBlLm1lbWJlcl9zdWZmaXhfaWRlbnRpZmllciwKICAgICAgIGUucGVyc29uX3dvcmtfcGhvbmVfbnVtYmVyLAogICAgICAgZS5wZXJzb25fY2VsbHVsYXJfbW9iaWxlX3Bob25lX251bWJlciwKICAgICAgIGUucGVyc29uX2RhdGVfb2ZfYmlydGgsCiAgICAgICBlLnBlcnNvbl9lbWFpbF9hZGRyZXNzLAogICAgICAgZS5wZXJzb25fZmlyc3RfbmFtZSwKICAgICAgIGUucGVyc29uX2Z1bGxfbmFtZSwKICAgICAgIGUucGVyc29uX21pZGRsZV9pbml0aWFsLAogICAgICAgZS5wZXJzb25fbWlkZGxlX25hbWUsCiAgICAgICBlLnBlcnNvbl9sYXN0X25hbWUsCiAgICAgICBlLnBlcnNvbl9nZW5kZXJfY29kZSwKICAgICAgIGUucGVyc29uX2dlbmRlcl9jb2RlX2Rlc2MsCiAgICAgICBlLnBlcnNvbl90eXBlX2NvZGUsCiAgICAgICBlLnBlcnNvbl90eXBlX2NvZGVfZGVzYywKICAgICAgIGUucHJvZHVjdF9idXNpbmVzc19jYXRlZ29yeV9jb2RlLAogICAgICAgZS5wcm9kdWN0X2J1c2luZXNzX2NhdGVnb3J5X2NvZGVfZGVzYywKICAgICAgIGUucHJvZHVjdF9jYXRlZ29yeV9jb2RlLAogICAgICAgZS5wcm9kdWN0X2NhdGVnb3J5X2NvZGVfZGVzYywKICAgICAgIGUucHJvZHVjdF9kZXNjLAogICAgICAgZS5wcm9kdWN0X2lkZW50aWZpZXIsCiAgICAgICBlLnByb2R1Y3RfcHJlbWl1bV90eXBlX2NvZGUsCiAgICAgICBlLnByb2R1Y3RfcHJlbWl1bV90eXBlX2NvZGVfZGVzYywKICAgICAgIGUucnhiaW4sCiAgICAgICBlLnJ4cGNuLA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBBTkQgKENBU0UKICAgICAgICAgICBXSEVOIGUuY2xhc3NfcGxhbl9jb2RlX2lkZW50aWZpZXIgTk9UIElOICgnUlhFUzMwMDEnLCAnUlhIUzIwMDEnLCAnUlhFTjIwMDEnKQogICAgICAgICAgICAgICBBTkQgZS5ncm91cF9pZGVudGlmaWVyIElOICgnODM1MTk4MDAnKSAtLVRSSSBNRVQKICAgICAgICAgICAgICAgVEhFTiAxCiAgICAgICAgICAgV0hFTiBlLmNsYXNzX3BsYW5fY29kZV9pZGVudGlmaWVyIE5PVCBJTiAoJ1JYRVMxMDAxJykKICAgICAgICAgICAgICAgQU5EIGUuZ3JvdXBfaWRlbnRpZmllciBJTiAoJzEwMDEzMjk2JykgLS1TQ0hPT0wgRElTVFJJQ1QgTk8gMQogICAgICAgICAgICAgICBUSEVOIDEKICAgICAgICAgICBXSEVOIGUuY2xhc3NfcGxhbl9jb2RlX2lkZW50aWZpZXIgTk9UIElOICgnUlhURTEwMDEnKQogICAgICAgICAgICAgICBBTkQgZS5ncm91cF9pZGVudGlmaWVyIElOICgnMTAwMTgwMjInKSAtLU5FVyBTRUFTT05TCiAgICAgICAgICAgICAgIFRIRU4gMQogICAgICAgICAgIEVMU0UgMAogICAgRU5EKSA9IDA=</text>
+        <text encoding="base64">ICAgICAgIGUudXBkYXRlZF9hdCwKICAgICAgIGUudXNlcl9pZCwKICAgICAgIGUuY29tYmluZWRfbWVtYmVyX2lkLA==</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

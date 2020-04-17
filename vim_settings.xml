@@ -59,7 +59,7 @@
         <mark key="^" line="87" column="46" />
         <mark key="." line="87" column="7" />
       </file>
-      <file name="/frodo_tailfeathers.public.vp_oppos_final" timestamp="1587060333863">
+      <file name="/frodo_tailfeathers.public.vp_oppos_final" timestamp="1587081854292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_45" timestamp="1587060841381">
@@ -77,7 +77,7 @@
       <file name="/default" timestamp="1587065560975">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/vp_oppos_final [PG_LOCALHOST]" timestamp="1587060333862">
+      <file name="/vp_oppos_final [PG_LOCALHOST]" timestamp="1587081854274">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_60" timestamp="1587060333930">
@@ -104,15 +104,13 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_oppos_final" timestamp="1587060333860">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1587065565172">
+      <file name="/foo.bar" timestamp="1587081854305">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_61.sql" timestamp="1587068937488">
-        <mark key="'" line="0" column="43" />
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_61.sql" timestamp="1587069035598">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_60.sql" timestamp="1586995611933">
         <mark key="[" line="0" column="97" />
@@ -226,8 +224,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>sum</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RlJPTSAoCg==</text>
       </register>
       <register name="-" type="4">
         <text>sum</text>
@@ -239,22 +237,22 @@
         <text>delete from event_logs where id != 360313;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">R1JPVVAgQlkgY3VzdG9tZXJfbmFtZTsK</text>
+        <text encoding="base64">RlJPTSAoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUIGF2ZyhzdW1zYWxlcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">R1JPVVAgQlkgY3VzdG9tZXJfbmFtZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBBTkQgZS5wZXJzb25fZWxpZ2liaWxpdHlfdGVybWluYXRpb25fZGF0ZSA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgIGxlLnBlcnNvbl9lbGlnaWJpbGl0eV90ZXJtaW5hdGlvbl9kYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBBTkQgZS5wZXJzb25fZWxpZ2liaWxpdHlfdGVybWluYXRpb25fZGF0ZSA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgIGxlLnBlcnNvbl9lbGlnaWJpbGl0eV90ZXJtaW5hdGlvbl9kYXRlCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -263,7 +261,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIGUuYWRkcmVzc181X2RpZ2l0X3ppcF9jb2RlLAogICAgICAgZS5hZGRyZXNzXzlfZGlnaXRfemlwX2NvZGUsCiAgICAgICBlLmFkZHJlc3NfY2l0eSwKICAgICAgIGUuYWRkcmVzc19jb3VudHJ5LAogICAgICAgZS5hZGRyZXNzX2NvdW50eSwKICAgICAgIGUuYWRkcmVzc19mb3JtYXR0ZWRfY2l0eV9zdGF0ZV96aXAsCiAgICAgICBlLmFkZHJlc3NfZ2VvZ3JhcGhpY19sYXRpdHVkZSwKICAgICAgIGUuYWRkcmVzc19nZW9ncmFwaGljX2xvbmdpdHVkZSwKICAgICAgIGUuYWRkcmVzc19saW5lXzEsCiAgICAgICBlLmFkZHJlc3NfbGluZV8yLAogICAgICAgZS5hZGRyZXNzX2xpbmVfMywKICAgICAgIGUuYWRkcmVzc19wbHVzXzRfemlwX2NvZGUsCiAgICAgICBlLmFkZHJlc3Nfc2lnbmlmaWVyX2luZGljYXRvciwKICAgICAgIGUuYWRkcmVzc19zdGF0ZV9hYmJyZXZpYXRpb24sCiAgICAgICBlLmFkZHJlc3Nfc3RhdGVfbmFtZSwKICAgICAgIGUuYWRkcmVzc190eXBlX2NvZGUsCiAgICAgICBlLmFkZHJlc3NfdHlwZV9jb2RlX2Rlc2MsCiAgICAgICBlLmFkZHJlc3NfdXNhZ2VfY29kZSwKICAgICAgIGUuYWRkcmVzc191c2FnZV9kZXNjcmlwdGlvbiwKICAgICAgIGUuYWRkcmVzc192YWxpZGF0aW9uX2NvZGUsCiAgICAgICBlLmFkZHJlc3NfdmFsaWRhdGlvbl9jb2RlX2Rlc2MsCiAgICAgICBlLmNsYXNzX2NvZGVfaWRlbnRpZmllciwKICAgICAgIGUuY2xhc3NfbmFtZSwKICAgICAgIGUuY2xhc3NfcGxhbl9jb2RlX2lkZW50aWZpZXIsCiAgICAgICBlLmNsYXNzX3BsYW5fbmFtZSwKICAgICAgIGUuY2xpZW50X2NvZGUsCiAgICAgICBlLmNsaWVudF9jb2RlX2Rlc2MsCiAgICAgICBlLmN1cnJlbnRfbWVtYmVyX2luZGljYXRvciwKICAgICAgIGUuZ3JvdXBfaWRlbnRpZmllciwKICAgICAgIGUuZ3JvdXBfbmFtZSwKICAgICAgIGUuZ3JvdXBfc3RhdHVzX2NvZGUsCiAgICAgICBlLmdyb3VwX3N0YXR1c19jb2RlX2Rlc2MsCiAgICAgICBlLmdyb3VwX3R5cGVfY29kZSwKICAgICAgIGUuZ3JvdXBfdHlwZV9jb2RlX2Rlc2MsCiAgICAgICBlLnBlcnNvbl9lbGlnaWJpbGl0eV9lZmZlY3RpdmVfZGF0ZSwKICAgICAgIGUucGVyc29uX2VsaWdpYmlsaXR5X3Rlcm1pbmF0aW9uX2RhdGUsCiAgICAgICBlLnBlcnNvbl9ob21lX3Bob25lX251bWJlciwKICAgICAgIGUucGVyc29uX2lkZW50aWZpZXIsCiAgICAgICBlLnN1YnNjcmliZXJfaWRlbnRpZmllciwKICAgICAgIGUucGVyc29uX25hbWVfcHJlZml4LAogICAgICAgZS5wZXJzb25fbmFtZV9zdWZmaXgsCiAgICAgICBlLnBlcnNvbl9yZWxhdGlvbnNoaXBfY29kZSwKICAgICAgIGUucGVyc29uX3JlbGF0aW9uc2hpcF9jb2RlX2Rlc2MsCiAgICAgICBlLm1lbWJlcl9zdWZmaXhfaWRlbnRpZmllciwKICAgICAgIGUucGVyc29uX3dvcmtfcGhvbmVfbnVtYmVyLAogICAgICAgZS5wZXJzb25fY2VsbHVsYXJfbW9iaWxlX3Bob25lX251bWJlciwKICAgICAgIGUucGVyc29uX2RhdGVfb2ZfYmlydGgsCiAgICAgICBlLnBlcnNvbl9lbWFpbF9hZGRyZXNzLAogICAgICAgZS5wZXJzb25fZmlyc3RfbmFtZSwKICAgICAgIGUucGVyc29uX2Z1bGxfbmFtZSwKICAgICAgIGUucGVyc29uX21pZGRsZV9pbml0aWFsLAogICAgICAgZS5wZXJzb25fbWlkZGxlX25hbWUsCiAgICAgICBlLnBlcnNvbl9sYXN0X25hbWUsCiAgICAgICBlLnBlcnNvbl9nZW5kZXJfY29kZSwKICAgICAgIGUucGVyc29uX2dlbmRlcl9jb2RlX2Rlc2MsCiAgICAgICBlLnBlcnNvbl90eXBlX2NvZGUsCiAgICAgICBlLnBlcnNvbl90eXBlX2NvZGVfZGVzYywKICAgICAgIGUucHJvZHVjdF9idXNpbmVzc19jYXRlZ29yeV9jb2RlLAogICAgICAgZS5wcm9kdWN0X2J1c2luZXNzX2NhdGVnb3J5X2NvZGVfZGVzYywKICAgICAgIGUucHJvZHVjdF9jYXRlZ29yeV9jb2RlLAogICAgICAgZS5wcm9kdWN0X2NhdGVnb3J5X2NvZGVfZGVzYywKICAgICAgIGUucHJvZHVjdF9kZXNjLAogICAgICAgZS5wcm9kdWN0X2lkZW50aWZpZXIsCiAgICAgICBlLnByb2R1Y3RfcHJlbWl1bV90eXBlX2NvZGUsCiAgICAgICBlLnByb2R1Y3RfcHJlbWl1bV90eXBlX2NvZGVfZGVzYywKICAgICAgIGUucnhiaW4sCiAgICAgICBlLnJ4cGNuLA==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

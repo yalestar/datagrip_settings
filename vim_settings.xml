@@ -107,12 +107,12 @@
       <file name="/foo.bar" timestamp="1587081854305">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_61.sql" timestamp="1587083205626">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_61.sql" timestamp="1587083494141">
         <mark key="'" line="2" column="22" />
-        <mark key="[" line="11" column="57" />
-        <mark key="]" line="11" column="62" />
-        <mark key="." line="11" column="61" />
-        <mark key="^" line="11" column="62" />
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_60.sql" timestamp="1586995611933">
         <mark key="[" line="0" column="97" />
@@ -227,10 +227,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>DA</text>
+        <text>Boise</text>
       </register>
       <register name="-" type="4">
-        <text>DA</text>
+        <text>Boise</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>

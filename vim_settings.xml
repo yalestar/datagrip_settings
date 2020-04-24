@@ -50,43 +50,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587065634849">
-        <mark key="[" line="0" column="1" />
-      </file>
-      <file name="/dbnJrn8DYI3JiSxI9hMYtdKbA.arlnmdehmvpkeyxtxdov.campaigns" timestamp="1587767414078">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/little_frodo.tmp.oxnard" timestamp="1587765824084">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.campaigns" timestamp="1587765824090">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/campaigns [DEV_REPORTING_TUNNEL]" timestamp="1587767414060">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_62.sql" timestamp="1587767899613">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="/frodo_tailfeathers.public.vp_oppos_final" timestamp="1587765824086">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_6" timestamp="1587766676790">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1587065625914">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1587767414096">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_61.sql" timestamp="1587750915950">
-        <mark key="[" line="0" column="55" />
-        <mark key="]" line="0" column="56" />
-        <mark key="^" line="0" column="56" />
-        <mark key="." line="0" column="55" />
-      </file>
       <file name="/oxnard [PG_LOCALHOST]" timestamp="1587765824079">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/default" timestamp="1587065560975">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/vp_oppos_final [PG_LOCALHOST]" timestamp="1587765824085">
@@ -95,7 +74,7 @@
       <file name="/console_61" timestamp="1587765824129">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/configuration/clinical_product_xrefs.sql" timestamp="1587665604996">
+      <file name="/console_62" timestamp="1587767878136">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/campaigns [PG_LOCALHOST]" timestamp="1587765824089">
@@ -107,7 +86,31 @@
       <file name="/dumpDataPreview" timestamp="1587599407426">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/840cc14b-8cbb-4a25-8acb-fd08d9833930/console_6.sql" timestamp="1587767431455">
+      <file name="/Dummy.txt" timestamp="1587767922404">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbnJrn8DYI3JiSxI9hMYtdKbA.arlnmdehmvpkeyxtxdov.campaigns" timestamp="1587767414078">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/little_frodo.tmp.oxnard" timestamp="1587765824084">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_6" timestamp="1587766676790">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1587767414096">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_61.sql" timestamp="1587750915950">
+        <mark key="[" line="0" column="55" />
+        <mark key="]" line="0" column="56" />
+        <mark key="^" line="0" column="56" />
+        <mark key="." line="0" column="55" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/configuration/clinical_product_xrefs.sql" timestamp="1587665604996">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/840cc14b-8cbb-4a25-8acb-fd08d9833930/console_6.sql" timestamp="1587767878130">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="0" column="43" />
         <mark key="^" line="0" column="49" />
@@ -223,10 +226,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>claims</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>claims</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>

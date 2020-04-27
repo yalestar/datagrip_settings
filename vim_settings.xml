@@ -45,73 +45,76 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587944602590">
+      <file name="/campaigns [DEV_REPORTING_TUNNEL]" timestamp="1588026223484">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dbnJrn8DYI3JiSxI9hMYtdKbA.arlnmdehmvpkeyxtxdov.campaigns" timestamp="1588012207407">
+      <file name="/frodo_tailfeathers.public.vp_oppos_final" timestamp="1588026223477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/little_frodo.tmp.oxnard" timestamp="1588012207395">
+      <file name="/eligibilities [DEV_REPORTING_TUNNEL]" timestamp="1588026223481">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.campaigns" timestamp="1588012207409">
+      <file name="/console_46" timestamp="1588026349987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/campaigns [DEV_REPORTING_TUNNEL]" timestamp="1588012207406">
+      <file name="/a.sql" timestamp="1588026634314">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_62.sql" timestamp="1587945152180">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="82" column="20" />
-        <mark key="." line="76" column="0" />
-      </file>
-      <file name="/frodo_tailfeathers.public.vp_oppos_final" timestamp="1588012207398">
+      <file name="/oxnard [PG_LOCALHOST]" timestamp="1588026223471">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/eligibilities [DEV_REPORTING_TUNNEL]" timestamp="1588012207403">
+      <file name="/dbnJrn8DYI3JiSxI9hMYtdKbA.arlnmdehmvpkeyxtxdov.eligibilities" timestamp="1588026223482">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_6" timestamp="1588012207537">
+      <file name="/vp_oppos_final [PG_LOCALHOST]" timestamp="1588026223476">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1588012207410">
+      <file name="/default" timestamp="1588026427285">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_2" timestamp="1588012244310">
+      <file name="/console_61" timestamp="1588026223623">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/oxnard [PG_LOCALHOST]" timestamp="1588012207390">
+      <file name="/eligibility_extract.202004211818 [REPORTING_TUNNEL]" timestamp="1588027049583">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dbnJrn8DYI3JiSxI9hMYtdKbA.arlnmdehmvpkeyxtxdov.eligibilities" timestamp="1588012207404">
+      <file name="/console_62" timestamp="1588026223762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/vp_oppos_final [PG_LOCALHOST]" timestamp="1588012207397">
+      <file name="/Dummy.txt" timestamp="1588026734792">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_61" timestamp="1588012207453">
+      <file name="/dbnJrn8DYI3JiSxI9hMYtdKbA.arlnmdehmvpkeyxtxdov.campaigns" timestamp="1588026223485">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_62" timestamp="1588012207574">
+      <file name="/little_frodo.tmp.oxnard" timestamp="1588026223475">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9e3f4b0-f834-435b-9a31-7cd256a8b82e/console_2.sql" timestamp="1588014323937" />
-      <file name="/campaigns [PG_LOCALHOST]" timestamp="1588012207408">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.tmp.eligibility_extract.202004211818" timestamp="1588027049596">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dumpDataPreview" timestamp="1587945204501">
+      <file name="/console_6" timestamp="1588026223717">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/sqls/dag_maintenance.sql" timestamp="1588012244305">
-        <mark key="[" line="1" column="53" />
-        <mark key="]" line="1" column="53" />
-        <mark key="." line="1" column="53" />
+      <file name="/foo.bar" timestamp="1588027049608">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_2" timestamp="1588026223809">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_46.sql" timestamp="1588026381518">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -219,11 +222,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBwdWJsaWMuZGFnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>campaigns ;</text>
       </register>
       <register name="-" type="4">
-        <text>callback_test_dag</text>
+        <text>campaigns ;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>

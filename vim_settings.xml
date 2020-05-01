@@ -53,55 +53,51 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/medstops [REPORTING_TUNNEL]" timestamp="1588292224603">
+      <file name="/Dummy.txt" timestamp="1588361939974">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/medstops [REPORTING_TUNNEL]" timestamp="1588361765216">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.vp_mbr_conv_trend_op_floodgate_shops_retrofit" timestamp="1588361997310">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_48.sql" timestamp="1588361771303">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/dbnJrn8DYI3JiSxI9hMYtdKbA.tmp.treatments_frequencies_cuis" timestamp="1588290818861">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_7" timestamp="1588290818906">
+      <file name="/vp_mbr_conv_trend_op_floodgate_shops_retrofit [REPORTING_TUNNEL]" timestamp="1588361997296">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_47" timestamp="1588291412280">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1588293007038">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_48" timestamp="1588292044689">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/medchecks [REPORTING_TUNNEL]" timestamp="1588292241429">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.tmp.medstops" timestamp="1588292224614">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/default" timestamp="1588292295023">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dbnJrn8DYI3JiSxI9hMYtdKbA.tmp.crossserve_oppo_elig_treatments_alts" timestamp="1588290818854">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/crossserve_oppo_elig_treatments_alts [DEV_REPORTING_TUNNEL]" timestamp="1588290818853">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_48.sql" timestamp="1588292987040">
-        <mark key="[" line="31" column="18" />
-        <mark key="]" line="27" column="53" />
-        <mark key="^" line="31" column="18" />
-        <mark key="." line="27" column="53" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.tmp.fcorp_claims_2019" timestamp="1588290818858">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_7" timestamp="1588361765577">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/treatments_frequencies_cuis [DEV_REPORTING_TUNNEL]" timestamp="1588290818860">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.tmp.medchecks" timestamp="1588292241438">
+      <file name="/console_47" timestamp="1588361765667">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1588292241447">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.tmp.medchecks" timestamp="1588361765223">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1588361939939">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_48" timestamp="1588361765714">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1588361997322">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/medchecks [REPORTING_TUNNEL]" timestamp="1588361765222">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_47.sql" timestamp="1588292085672">
@@ -110,10 +106,10 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="/dbnJrn8DYI3JiSxI9hMYtdKbA.tmp.treatments_counts_costs" timestamp="1588290818852">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.tmp.medstops" timestamp="1588361765220">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/treatments_counts_costs [DEV_REPORTING_TUNNEL]" timestamp="1588290818851">
+      <file name="/default" timestamp="1588292295023">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fcorp_claims_2019 [REPORTING_TUNNEL]" timestamp="1588290818857">
@@ -225,8 +221,45 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text>CREATE TABLE tmp.medstops AS
+SELECT org_name,
+       ctype,
+       pharmacy_member_identifier,
+       report_date,
+       from_event,
+       campaign_id,
+       from_rxncui,
+       from_savings,
+       from_tot_supply_paid
+FROM reporting.vp_mbr_conv_trend_op_floodgate_shops_retrofit vp
+WHERE ctype = '0'
+  AND org_name = 'ACI NORTHWEST'
+GROUP BY org_name, ctype, pharmacy_member_identifier, report_date, from_event, campaign_id, from_rxncui,
+         from_savings, from_tot_supply_paid;
+
+CREATE TABLE tmp.medchecks AS
+SELECT org_name,
+       ctype,
+       pharmacy_member_identifier,
+       report_date,
+       from_event,
+       campaign_id,
+       from_rxncui,
+       from_savings,
+       from_tot_supply_paid,
+       rank()
+       OVER (PARTITION BY pharmacy_member_identifier,
+           from_event, campaign_id, from_rxncui
+           ORDER BY report_date DESC)
+           AS max_check
+FROM tmp.medstops;
+
+SELECT coding_string is_this_a_cui, ndc, *
+FROM clinical_lists cl
+         JOIN clinical_list_lines cll ON cl.id = cll.clinical_list_id
+         JOIN clinical_list_ndcs cln ON cl.id = cln.clinical_list_id
+WHERE cll.coding_type = 'RxCUI'</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -238,31 +271,68 @@
         <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gZmZydXlqZ3BhYWRvb2xjb2RyZm0uZWxpZ2liaWxpdGllcyA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBwdWJsaWMuZGFnOwo=</text>
+        <text>CREATE TABLE tmp.medstops AS
+SELECT org_name,
+       ctype,
+       pharmacy_member_identifier,
+       report_date,
+       from_event,
+       campaign_id,
+       from_rxncui,
+       from_savings,
+       from_tot_supply_paid
+FROM reporting.vp_mbr_conv_trend_op_floodgate_shops_retrofit vp
+WHERE ctype = '0'
+  AND org_name = 'ACI NORTHWEST'
+GROUP BY org_name, ctype, pharmacy_member_identifier, report_date, from_event, campaign_id, from_rxncui,
+         from_savings, from_tot_supply_paid;
+
+CREATE TABLE tmp.medchecks AS
+SELECT org_name,
+       ctype,
+       pharmacy_member_identifier,
+       report_date,
+       from_event,
+       campaign_id,
+       from_rxncui,
+       from_savings,
+       from_tot_supply_paid,
+       rank()
+       OVER (PARTITION BY pharmacy_member_identifier,
+           from_event, campaign_id, from_rxncui
+           ORDER BY report_date DESC)
+           AS max_check
+FROM tmp.medstops;
+
+SELECT coding_string is_this_a_cui, ndc, *
+FROM clinical_lists cl
+         JOIN clinical_list_lines cll ON cl.id = cll.clinical_list_id
+         JOIN clinical_list_ndcs cln ON cl.id = cln.clinical_list_id
+WHERE cll.coding_type = 'RxCUI'</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIGNyZWF0ZWRfYXQsCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBwdWJsaWMuZGFnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHJlY29yZF91cGRhdGVfZGF0ZSwK</text>
+        <text encoding="base64">ICAgICAgIGNyZWF0ZWRfYXQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text>select * from ffruyjgpaadoolcodrfm.eligibilities limit 10;</text>
+        <text encoding="base64">ICAgICAgIHJlY29yZF91cGRhdGVfZGF0ZSwK</text>
       </register>
       <register name="5" type="2">
-        <text>dbnJrn8DYI3JiSxI9hMYtdKbA.</text>
+        <text>select * from ffruyjgpaadoolcodrfm.eligibilities limit 10;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">T1JERVIgQlkgaWQ7Cg==</text>
+        <text>dbnJrn8DYI3JiSxI9hMYtdKbA.</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUIGlkLCBuYW1lCkZST00gcmVwb3J0aW5nLmNhbXBhaWducwpXSEVSRSBpZCBJTgogICAgICAoNywgMTMsIDM4LCA5MSwgOTUsIDk3LCAxMDYsIDEzMSwgMTMyLCAxMzksIDE0NiwgMTUxLCAxNTcsIDE2NiwgMTY3LCAxNzAsIDE3MSwgMTcyLCAxNzMsIDE3NCwgMTc1LCAxODAsIDE4OCwgMTk2LAogICAgICAgMjE0LCAyMTYsIDIyNywgMjM2LCAyMzksIDI0MSwgMjQyLCAyNDMsIDI0NCwgMjQ1LCAyNDYsIDI2MCwgMjcyLCAyNzcsIDI3OSwgMjgxLCAyODQsIDI5NCwgMjk4LCAzMDEsIDMwOSwgMzE1LAogICAgICAgMzE4LCAzMjcsIDM0NywgMzQ4LCAzNDksIDM4OSwgMzkxLCAzOTYsIDQwMiwgNDAzLCA0MTMsIDQxNSwgNDIxLCA0NDYsIDQ3NiwgNDc4LCA0ODYsIDQ4NywgNDkyLCA0OTMsIDQ5OSwgNTA0LAogICAgICAgNTE0LCA1NDIsIDU0OSwgNTg0LCA1OTYsIDYwOCwgNjA5LCA2MTEsIDYxMiwgNjQ4LCA2ODYsIDc2MykK</text>
+        <text encoding="base64">T1JERVIgQlkgaWQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RlJPTSAoCg==</text>
+        <text encoding="base64">U0VMRUNUIGlkLCBuYW1lCkZST00gcmVwb3J0aW5nLmNhbXBhaWducwpXSEVSRSBpZCBJTgogICAgICAoNywgMTMsIDM4LCA5MSwgOTUsIDk3LCAxMDYsIDEzMSwgMTMyLCAxMzksIDE0NiwgMTUxLCAxNTcsIDE2NiwgMTY3LCAxNzAsIDE3MSwgMTcyLCAxNzMsIDE3NCwgMTc1LCAxODAsIDE4OCwgMTk2LAogICAgICAgMjE0LCAyMTYsIDIyNywgMjM2LCAyMzksIDI0MSwgMjQyLCAyNDMsIDI0NCwgMjQ1LCAyNDYsIDI2MCwgMjcyLCAyNzcsIDI3OSwgMjgxLCAyODQsIDI5NCwgMjk4LCAzMDEsIDMwOSwgMzE1LAogICAgICAgMzE4LCAzMjcsIDM0NywgMzQ4LCAzNDksIDM4OSwgMzkxLCAzOTYsIDQwMiwgNDAzLCA0MTMsIDQxNSwgNDIxLCA0NDYsIDQ3NiwgNDc4LCA0ODYsIDQ4NywgNDkyLCA0OTMsIDQ5OSwgNTA0LAogICAgICAgNTE0LCA1NDIsIDU0OSwgNTg0LCA1OTYsIDYwOCwgNjA5LCA2MTEsIDYxMiwgNjQ4LCA2ODYsIDc2MykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUIGF2ZyhzdW1zYWxlcykK</text>
+        <text encoding="base64">RlJPTSAoCg==</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

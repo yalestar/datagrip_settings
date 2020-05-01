@@ -79,6 +79,12 @@
       <file name="/console_7" timestamp="1588366230788">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_49.sql" timestamp="1588371993120">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="32" />
+      </file>
       <file name="/treatments_frequencies_cuis [DEV_REPORTING_TUNNEL]" timestamp="1588290818860">
         <mark key="[" line="0" column="0" />
       </file>
@@ -97,6 +103,9 @@
       <file name="/foo.bar" timestamp="1588366230751">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/console_49" timestamp="1588371928923">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/medchecks [REPORTING_TUNNEL]" timestamp="1588366230749">
         <mark key="[" line="0" column="0" />
       </file>
@@ -110,9 +119,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/default" timestamp="1588292295023">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fcorp_claims_2019 [REPORTING_TUNNEL]" timestamp="1588290818857">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>

@@ -97,12 +97,12 @@
       <file name="/foo.bar" timestamp="1588650555476">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_65.sql" timestamp="1588658768236">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_65.sql" timestamp="1588698124463">
         <mark key="'" line="25" column="8" />
         <mark key="[" line="21" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="25" column="6" />
-        <mark key="." line="17" column="0" />
+        <mark key="]" line="22" column="53" />
+        <mark key="^" line="22" column="53" />
+        <mark key="." line="22" column="52" />
       </file>
       <file name="/console_51" timestamp="1588636018956">
         <mark key="[" line="0" column="0" />

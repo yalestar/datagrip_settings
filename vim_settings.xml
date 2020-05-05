@@ -53,19 +53,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/yjk_medsavvy_priority.sql" timestamp="1588450227591">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="53" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="/ms_ctype_stop" timestamp="1588631014607">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/20200504_162017_crossserve_results [REPORTING_TUNNEL]" timestamp="1588635991860">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ms_type_starts" timestamp="1588631014840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1588631709332">
+      <file name="/a.sql" timestamp="1588636149928">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/ms_type_switch.sql" timestamp="1588450406702">
@@ -78,22 +75,16 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.tmp.MedSavvy Avg Savings Table by Ctype" timestamp="1588450246858">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/default" timestamp="1588631720088">
+      <file name="/default" timestamp="1588636207542">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588636193176">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ms_type_switch" timestamp="1588631014795">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/with_zero_fill" timestamp="1588631014266">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/yjk_medsavvy_ndc_match.sql" timestamp="1588450185188">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="0" column="41" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.tmp.yjk_medsavvy_ndc_match" timestamp="1588450084363">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/yjk_medsavvy_ndc_match" timestamp="1588631014483">
@@ -103,25 +94,25 @@
         <mark key="'" line="19" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="/MedSavvy Avg Savings Table by Ctype [REPORTING_TUNNEL]" timestamp="1588450246848">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/ms_ctype_stop.sql" timestamp="1588450396838">
         <mark key="[" line="12" column="27" />
         <mark key="]" line="12" column="36" />
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="/foo.bar" timestamp="1588450246867">
+      <file name="/foo.bar" timestamp="1588635991892">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/yjk_medsavvy_priority" timestamp="1588631014549">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/yjk_medsavvy_ndc_match [REPORTING_TUNNEL]" timestamp="1588450084353">
+      <file name="/console_50" timestamp="1588631014737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_50" timestamp="1588631014737">
+      <file name="/console_51" timestamp="1588636018956">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.tmp.20200504_162017_crossserve_results" timestamp="1588635991875">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/ms_type_starts.sql" timestamp="1588450503079">
@@ -129,6 +120,12 @@
         <mark key="]" line="9" column="28" />
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="27" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_51.sql" timestamp="1588636140122">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="90" />
+        <mark key="^" line="5" column="90" />
+        <mark key="." line="5" column="89" />
       </file>
     </filemarks>
     <jumps>
@@ -237,43 +234,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICogZnJvbSBm</text>
       </register>
       <register name="-" type="4">
-        <text>medsavvy_priority</text>
+        <text>select</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIHRtcC55amtfbXNfY3R5cGVfU1RBUlRTIGFzIAo=</text>
+        <text>select count(distinct member_id) from tmp.&quot;20200504_162017_crossserve_results&quot;;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICogZnJvbSBm</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">WzE6MzIgUE1dIEFsZGluZ2VyLCBFcmljCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAtLXdoZXJlIGF2Zy5jdHlwZSBpcyBudWxsICAgICBub3QgaW4gKDAsMSwzKQo=</text>
+        <text encoding="base64">WzE6MzIgUE1dIEFsZGluZ2VyLCBFcmljCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gdG1wLnlqa19tc19hdmdfc2F2aW5nc19ieV9jdHlwZTsK</text>
+        <text encoding="base64">ICAgICAtLXdoZXJlIGF2Zy5jdHlwZSBpcyBudWxsICAgICBub3QgaW4gKDAsMSwzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2hlcmUgY2xsLmNvZGluZ19zdHJpbmcgaXMgbnVsbAo=</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gdG1wLnlqa19tc19hdmdfc2F2aW5nc19ieV9jdHlwZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICk=</text>
+        <text encoding="base64">d2hlcmUgY2xsLmNvZGluZ19zdHJpbmcgaXMgbnVsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0tU1RBUlRTLS0K</text>
+        <text encoding="base64">ICAgICk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0tU1dJVENIRVMtLQo=</text>
+        <text encoding="base64">ICAgIC0tU1RBUlRTLS0K</text>
       </register>
       <register name="9" type="2">
-        <text>)</text>
+        <text encoding="base64">ICAgIC0tU1dJVENIRVMtLQo=</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

@@ -63,7 +63,7 @@
       <file name="/ms_type_starts" timestamp="1588631014840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1588639320947">
+      <file name="/a.sql" timestamp="1588658443335">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/default" timestamp="1588636207542">
@@ -81,7 +81,7 @@
       <file name="/console_65" timestamp="1588639173577">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588650591331">
+      <file name="/Dummy.txt" timestamp="1588658443469">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/frodo_tailfeathers.public.eligibility_extract_may_4" timestamp="1588636748397">
@@ -97,11 +97,12 @@
       <file name="/foo.bar" timestamp="1588650555476">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_65.sql" timestamp="1588648270318">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="50" />
-        <mark key="." line="16" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_65.sql" timestamp="1588658768236">
+        <mark key="'" line="25" column="8" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="25" column="6" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/console_51" timestamp="1588636018956">
         <mark key="[" line="0" column="0" />
@@ -117,7 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="0" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="241" column="0" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="6" column="74" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="0" column="13" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
@@ -217,15 +217,16 @@
       <jump line="2" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_61.sql" />
       <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/ms_type_switch.sql" />
       <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_50.sql" />
+      <jump line="25" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_65.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>truncate table ffruyjgpaadoolcodrfm.eligibilities;</text>
+        <text encoding="base64">U0VMRUNUIHBpZCwKICAgICAgIG5vdygpIC0gcGdfc3RhdF9hY3Rpdml0eS5xdWVyeV9zdGFydCBBUyBkdXJhdGlvbiwKICAgICAgIHF1ZXJ5LAogICAgICAgc3RhdGUKRlJPTSBwZ19zdGF0X2FjdGl2aXR5CldIRVJFIChub3coKSAtIHBnX3N0YXRfYWN0aXZpdHkucXVlcnlfc3RhcnQpID4gSU5URVJWQUwgJzUgbWludXRlcycKICBBTkQgc3RhdGUgPSAnYWN0aXZlJzsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UklHSFQgT1VURVIg</text>
+        <text encoding="base64">U0VMRUNUICogIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -234,31 +235,31 @@
         <text encoding="base64">U0VMRUNUIHhzLm1lbWJlcl9pZCwgZWxpZy5zdWJzY3JpYmVyX2lkZW50aWZpZXIK</text>
       </register>
       <register name="1" type="2">
-        <text>truncate table ffruyjgpaadoolcodrfm.eligibilities;</text>
+        <text encoding="base64">U0VMRUNUIHBpZCwKICAgICAgIG5vdygpIC0gcGdfc3RhdF9hY3Rpdml0eS5xdWVyeV9zdGFydCBBUyBkdXJhdGlvbiwKICAgICAgIHF1ZXJ5LAogICAgICAgc3RhdGUKRlJPTSBwZ19zdGF0X2FjdGl2aXR5CldIRVJFIChub3coKSAtIHBnX3N0YXRfYWN0aXZpdHkucXVlcnlfc3RhcnQpID4gSU5URVJWQUwgJzUgbWludXRlcycKICBBTkQgc3RhdGUgPSAnYWN0aXZlJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgZWxpZ2liaWxpdGllc19wcm9kdWN0X2NhdGVnb3J5X2NvZGVfaW5kZXgKICAgIE9OIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAocHJvZHVjdF9jYXRlZ29yeV9jb2RlKTsKCkNSRUFURSBJTkRFWCBJRiBOT1QgRVhJU1RTIGlkeF9ncm91cF9pZAogICAgT04gdG1wLmVsaWdpYmlsaXR5X2V4dHJhY3RfMjAyMDA0MjExODE4IChncm91cF9pZGVudGlmaWVyKTsKCgoKQ1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgaW5kZXhfZWxpZ2liaWxpdGllc19vbl9zdWJzY3JpYmVyX2lkZW50aWZpZXJfZWxpZ2liaWxpdGllcwogICAgT04gdG1wLmVsaWdpYmlsaXR5X2V4dHJhY3RfMjAyMDA0MjExODE4IChzdWJzY3JpYmVyX2lkZW50aWZpZXIpOwoKQ1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgaW5kZXhfZWxpZ2liaWxpdGllc191c2VyX21hdGNoX2VsaWdpYmlsaXRpZXMKICAgIE9OIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAocGVyc29uX2xhc3RfbmFtZSwgc3Vic2NyaWJlcl9pZGVudGlmaWVyLCBncm91cF9pZGVudGlmaWVyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwZXJzb25fZmlyc3RfbmFtZSwgcGVyc29uX2RhdGVfb2ZfYmlydGgsIHBlcnNvbl9nZW5kZXJfY29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVtYmVyX3N1ZmZpeF9pZGVudGlmaWVyKTsKCg==</text>
+        <text>truncate table ffruyjgpaadoolcodrfm.eligibilities;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgZWxpZ2liaWxpdGllc19jb21iaW5lZF9tZW1iZXJfaWRfaW5kZXgKICAgIE9OIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAoY29tYmluZWRfbWVtYmVyX2lkKTsK</text>
+        <text encoding="base64">Q1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgZWxpZ2liaWxpdGllc19wcm9kdWN0X2NhdGVnb3J5X2NvZGVfaW5kZXgKICAgIE9OIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAocHJvZHVjdF9jYXRlZ29yeV9jb2RlKTsKCkNSRUFURSBJTkRFWCBJRiBOT1QgRVhJU1RTIGlkeF9ncm91cF9pZAogICAgT04gdG1wLmVsaWdpYmlsaXR5X2V4dHJhY3RfMjAyMDA0MjExODE4IChncm91cF9pZGVudGlmaWVyKTsKCgoKQ1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgaW5kZXhfZWxpZ2liaWxpdGllc19vbl9zdWJzY3JpYmVyX2lkZW50aWZpZXJfZWxpZ2liaWxpdGllcwogICAgT04gdG1wLmVsaWdpYmlsaXR5X2V4dHJhY3RfMjAyMDA0MjExODE4IChzdWJzY3JpYmVyX2lkZW50aWZpZXIpOwoKQ1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgaW5kZXhfZWxpZ2liaWxpdGllc191c2VyX21hdGNoX2VsaWdpYmlsaXRpZXMKICAgIE9OIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAocGVyc29uX2xhc3RfbmFtZSwgc3Vic2NyaWJlcl9pZGVudGlmaWVyLCBncm91cF9pZGVudGlmaWVyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwZXJzb25fZmlyc3RfbmFtZSwgcGVyc29uX2RhdGVfb2ZfYmlydGgsIHBlcnNvbl9nZW5kZXJfY29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVtYmVyX3N1ZmZpeF9pZGVudGlmaWVyKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgZWxpZ2liaWxpdGllc19jb21iaW5lZF9tZW1iZXJfaWRfaW5kZXgKICAgIE9OIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAoY29tYmluZWRfbWVtYmVyX2lkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CW9uIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAodXNlcl9pZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmNyZWF0ZSBpbmRleCBpZiBub3QgZXhpc3RzIGluZGV4X2VsaWdpYmlsaXRpZXNfb25fY29tYmluZWRfbWVtYmVyX2lkX2VsaWdpYmlsaXRpZXMKCW9uIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAoc3Vic2NyaWJlcl9pZGVudGlmaWVyKTs=</text>
+        <text encoding="base64">CW9uIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAodXNlcl9pZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmNyZWF0ZSBpbmRleCBpZiBub3QgZXhpc3RzIGluZGV4X2NvbWJpbmVkX21lbWJlcl9pZF9wcm9kdWN0X2NvZGVfaXNfbGF0ZXN0X2VsaWdpYmlsaXRpZXMKCW9uIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAoY29tYmluZWRfbWVtYmVyX2lkLCBwcm9kdWN0X2NhdGVnb3J5X2NvZGUpOw==</text>
+        <text encoding="base64">CmNyZWF0ZSBpbmRleCBpZiBub3QgZXhpc3RzIGluZGV4X2VsaWdpYmlsaXRpZXNfb25fY29tYmluZWRfbWVtYmVyX2lkX2VsaWdpYmlsaXRpZXMKCW9uIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAoc3Vic2NyaWJlcl9pZGVudGlmaWVyKTs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogZnJvbSBm</text>
+        <text encoding="base64">CmNyZWF0ZSBpbmRleCBpZiBub3QgZXhpc3RzIGluZGV4X2NvbWJpbmVkX21lbWJlcl9pZF9wcm9kdWN0X2NvZGVfaXNfbGF0ZXN0X2VsaWdpYmlsaXRpZXMKCW9uIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAoY29tYmluZWRfbWVtYmVyX2lkLCBwcm9kdWN0X2NhdGVnb3J5X2NvZGUpOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICogZnJvbSBm</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

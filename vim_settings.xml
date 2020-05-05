@@ -53,9 +53,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/ms_ctype_stop" timestamp="1588631014607">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/20200504_162017_crossserve_results [REPORTING_TUNNEL]" timestamp="1588635991860">
         <mark key="[" line="0" column="0" />
       </file>
@@ -65,10 +62,13 @@
       <file name="/ms_type_starts" timestamp="1588631014840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1588636968776">
+      <file name="/a.sql" timestamp="1588639320947">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/default" timestamp="1588636207542">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_64" timestamp="1588639158415">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/eligibility_extract_may_4 [PG_LOCALHOST]" timestamp="1588636748383">
@@ -77,7 +77,10 @@
       <file name="/dummy.sql" timestamp="1588638168380">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588638165217">
+      <file name="/console_65" timestamp="1588639173577">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588638691584">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/frodo_tailfeathers.public.eligibility_extract_may_4" timestamp="1588636748397">
@@ -86,23 +89,18 @@
       <file name="/ms_type_switch" timestamp="1588631014795">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/with_zero_fill" timestamp="1588631014266">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_64.sql" timestamp="1588639173574" />
       <file name="/frodo_tailfeathers.public.eligibilities" timestamp="1588636925214">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/yjk_medsavvy_ndc_match" timestamp="1588631014483">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1588636925232">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/yjk_medsavvy_priority" timestamp="1588631014549">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/console_50" timestamp="1588631014737">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_65.sql" timestamp="1588639407655">
+        <mark key="^" line="6" column="66" />
       </file>
       <file name="/console_51" timestamp="1588636018956">
         <mark key="[" line="0" column="0" />
@@ -223,10 +221,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogZnJvbSBm</text>
+        <text encoding="base64">Q1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgZWxpZ2liaWxpdGllc19jb21iaW5lZF9tZW1iZXJfaWRfaW5kZXgKICAgIE9OIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAoY29tYmluZWRfbWVtYmVyX2lkKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>select</text>
+        <text>, created_at</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -235,31 +233,31 @@
         <text>select count(distinct member_id) from tmp.&quot;20200504_162017_crossserve_results&quot;;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogZnJvbSBm</text>
+        <text encoding="base64">Q1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgZWxpZ2liaWxpdGllc19jb21iaW5lZF9tZW1iZXJfaWRfaW5kZXgKICAgIE9OIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAoY29tYmluZWRfbWVtYmVyX2lkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">WzE6MzIgUE1dIEFsZGluZ2VyLCBFcmljCg==</text>
+        <text encoding="base64">CW9uIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAodXNlcl9pZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAtLXdoZXJlIGF2Zy5jdHlwZSBpcyBudWxsICAgICBub3QgaW4gKDAsMSwzKQo=</text>
+        <text encoding="base64">CmNyZWF0ZSBpbmRleCBpZiBub3QgZXhpc3RzIGluZGV4X2VsaWdpYmlsaXRpZXNfb25fY29tYmluZWRfbWVtYmVyX2lkX2VsaWdpYmlsaXRpZXMKCW9uIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAoc3Vic2NyaWJlcl9pZGVudGlmaWVyKTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gdG1wLnlqa19tc19hdmdfc2F2aW5nc19ieV9jdHlwZTsK</text>
+        <text encoding="base64">CmNyZWF0ZSBpbmRleCBpZiBub3QgZXhpc3RzIGluZGV4X2NvbWJpbmVkX21lbWJlcl9pZF9wcm9kdWN0X2NvZGVfaXNfbGF0ZXN0X2VsaWdpYmlsaXRpZXMKCW9uIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAoY29tYmluZWRfbWVtYmVyX2lkLCBwcm9kdWN0X2NhdGVnb3J5X2NvZGUpOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2hlcmUgY2xsLmNvZGluZ19zdHJpbmcgaXMgbnVsbAo=</text>
+        <text encoding="base64">ICogZnJvbSBm</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICk=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0tU1RBUlRTLS0K</text>
+        <text encoding="base64">WzE6MzIgUE1dIEFsZGluZ2VyLCBFcmljCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0tU1dJVENIRVMtLQo=</text>
+        <text encoding="base64">ICAgICAtLXdoZXJlIGF2Zy5jdHlwZSBpcyBudWxsICAgICBub3QgaW4gKDAsMSwzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

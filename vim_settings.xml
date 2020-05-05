@@ -53,30 +53,56 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/sqls/pg_locks_admin.sql" timestamp="1588651837451" />
-      <file name="/20200504_162017_crossserve_results [REPORTING_TUNNEL]" timestamp="1588635991860">
+      <file name="$USER_HOME$/dev/sqls/pg_locks_admin.sql" timestamp="1588703247192">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="/console_9" timestamp="1588703671461">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/console_8" timestamp="1588703122817">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_53.sql" timestamp="1588702903548">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dumpDataPreview" timestamp="1588702925942">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.eligibilities" timestamp="1588650555468">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_52.sql" timestamp="1588702204409">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="31" />
+      </file>
+      <file name="/console_52" timestamp="1588702177096">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_53" timestamp="1588702881944">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/sqls/dag_maintenance.sql" timestamp="1588703715248" />
       <file name="/eligibilities [PG_LOCALHOST]" timestamp="1588650555455">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/ms_type_starts" timestamp="1588631014840">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1588658443335">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/default" timestamp="1588636207542">
+      <file name="/console_61" timestamp="1588703681650">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/840cc14b-8cbb-4a25-8acb-fd08d9833930/console_8.sql" timestamp="1588703671458">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="18" column="20" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="18" column="19" />
       </file>
       <file name="/console_64" timestamp="1588639158415">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/eligibility_extract_may_4 [PG_LOCALHOST]" timestamp="1588636748383">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1588638168380">
-        <mark key="[" line="0" column="1" />
       </file>
       <file name="/console_65" timestamp="1588639173577">
         <mark key="[" line="0" column="0" />
@@ -84,37 +110,16 @@
       <file name="/Dummy.txt" timestamp="1588658443469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/frodo_tailfeathers.public.eligibility_extract_may_4" timestamp="1588636748397">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_64.sql" timestamp="1588639173574" />
-      <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.eligibilities" timestamp="1588650555468">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/frodo_tailfeathers.public.eligibilities" timestamp="1588636925214">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/foo.bar" timestamp="1588650555476">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_65.sql" timestamp="1588698124463">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_65.sql" timestamp="1588702900694">
         <mark key="'" line="25" column="8" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="22" column="53" />
-        <mark key="^" line="22" column="53" />
-        <mark key="." line="22" column="52" />
-      </file>
-      <file name="/console_51" timestamp="1588636018956">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.tmp.20200504_162017_crossserve_results" timestamp="1588635991875">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_51.sql" timestamp="1588638091807">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="90" />
-        <mark key="^" line="4" column="90" />
-        <mark key="." line="4" column="89" />
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="8" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="12" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -222,44 +227,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0VMRUNUIHBpZCwKICAgICAgIG5vdygpIC0gcGdfc3RhdF9hY3Rpdml0eS5xdWVyeV9zdGFydCBBUyBkdXJhdGlvbiwKICAgICAgIHF1ZXJ5LAogICAgICAgc3RhdGUKRlJPTSBwZ19zdGF0X2FjdGl2aXR5CldIRVJFIChub3coKSAtIHBnX3N0YXRfYWN0aXZpdHkucXVlcnlfc3RhcnQpID4gSU5URVJWQUwgJzUgbWludXRlcycKICBBTkQgc3RhdGUgPSAnYWN0aXZlJzsK</text>
+      <register name="&quot;" type="4">
+        <text>crossserve_results</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U0VMRUNUICogIA==</text>
+        <text>crossserve_results</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIHhzLm1lbWJlcl9pZCwgZWxpZy5zdWJzY3JpYmVyX2lkZW50aWZpZXIK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB0bXAuY3Jvc3NzZXJ2ZV9yZXN1bHRzIHdoZXJlIGFsdF9jb3N0IGlzIG51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUIHBpZCwKICAgICAgIG5vdygpIC0gcGdfc3RhdF9hY3Rpdml0eS5xdWVyeV9zdGFydCBBUyBkdXJhdGlvbiwKICAgICAgIHF1ZXJ5LAogICAgICAgc3RhdGUKRlJPTSBwZ19zdGF0X2FjdGl2aXR5CldIRVJFIChub3coKSAtIHBnX3N0YXRfYWN0aXZpdHkucXVlcnlfc3RhcnQpID4gSU5URVJWQUwgJzUgbWludXRlcycKICBBTkQgc3RhdGUgPSAnYWN0aXZlJzsK</text>
+        <text encoding="base64">U0VMRUNUIGNvbWJpbmVkX21lbWJlcl9pZApGUk9NIHRtcC5jcm9zc3NlcnZlX3Jlc3VsdHNfMjAyMDA1MDRfMTYyMDE3CldIRVJFIGNvbWJpbmVkX21lbWJlcl9pZCBJUyBOT1QgTlVMTDsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text>truncate table ffruyjgpaadoolcodrfm.eligibilities;</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gZmZydXlqZ3BhYWRvb2xjb2RyZm0uZWxpZ2liaWxpdGllcyA7ClNFTEVDVCBtaW4odXBkYXRlZF9hdCksIG1heCh1cGRhdGVkX2F0KQpGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmVsaWdpYmlsaXRpZXM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgZWxpZ2liaWxpdGllc19wcm9kdWN0X2NhdGVnb3J5X2NvZGVfaW5kZXgKICAgIE9OIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAocHJvZHVjdF9jYXRlZ29yeV9jb2RlKTsKCkNSRUFURSBJTkRFWCBJRiBOT1QgRVhJU1RTIGlkeF9ncm91cF9pZAogICAgT04gdG1wLmVsaWdpYmlsaXR5X2V4dHJhY3RfMjAyMDA0MjExODE4IChncm91cF9pZGVudGlmaWVyKTsKCgoKQ1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgaW5kZXhfZWxpZ2liaWxpdGllc19vbl9zdWJzY3JpYmVyX2lkZW50aWZpZXJfZWxpZ2liaWxpdGllcwogICAgT04gdG1wLmVsaWdpYmlsaXR5X2V4dHJhY3RfMjAyMDA0MjExODE4IChzdWJzY3JpYmVyX2lkZW50aWZpZXIpOwoKQ1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgaW5kZXhfZWxpZ2liaWxpdGllc191c2VyX21hdGNoX2VsaWdpYmlsaXRpZXMKICAgIE9OIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAocGVyc29uX2xhc3RfbmFtZSwgc3Vic2NyaWJlcl9pZGVudGlmaWVyLCBncm91cF9pZGVudGlmaWVyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwZXJzb25fZmlyc3RfbmFtZSwgcGVyc29uX2RhdGVfb2ZfYmlydGgsIHBlcnNvbl9nZW5kZXJfY29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVtYmVyX3N1ZmZpeF9pZGVudGlmaWVyKTsKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Q1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgZWxpZ2liaWxpdGllc19jb21iaW5lZF9tZW1iZXJfaWRfaW5kZXgKICAgIE9OIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAoY29tYmluZWRfbWVtYmVyX2lkKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">RlJPTSB0bXAuZWxpZ2liaWxpdHlfZXh0cmFjdF8yMDIwMDQyMTE4MTg7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">U0VMRUNUIGNvdW50KERJU1RJTkNUIHN1YnNjcmliZXJfaWRlbnRpZmllcikK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CW9uIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAodXNlcl9pZCk7Cg==</text>
+        <text encoding="base64">LS0gZGJDRld0anBWdDJUd0tzODhpUWVCMDF3LmZmcnV5amdwYWFkb29sY29kcmZtCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmNyZWF0ZSBpbmRleCBpZiBub3QgZXhpc3RzIGluZGV4X2VsaWdpYmlsaXRpZXNfb25fY29tYmluZWRfbWVtYmVyX2lkX2VsaWdpYmlsaXRpZXMKCW9uIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAoc3Vic2NyaWJlcl9pZGVudGlmaWVyKTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNyZWF0ZSBpbmRleCBpZiBub3QgZXhpc3RzIGluZGV4X2NvbWJpbmVkX21lbWJlcl9pZF9wcm9kdWN0X2NvZGVfaXNfbGF0ZXN0X2VsaWdpYmlsaXRpZXMKCW9uIHRtcC5lbGlnaWJpbGl0eV9leHRyYWN0XzIwMjAwNDIxMTgxOCAoY29tYmluZWRfbWVtYmVyX2lkLCBwcm9kdWN0X2NhdGVnb3J5X2NvZGUpOw==</text>
+        <text encoding="base64">ZGVsZXRlCkZST00gZmZydXlqZ3BhYWRvb2xjb2RyZm0uZWxpZ2liaWxpdGllcwpXSEVSRSBkYXRlX3BhcnQoJ3llYXInLCB1cGRhdGVkX2F0KSA9IDIwMTg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogZnJvbSBm</text>
+        <text encoding="base64">U0VMRUNUIHBpZCwKICAgICAgIG5vdygpIC0gcGdfc3RhdF9hY3Rpdml0eS5xdWVyeV9zdGFydCBBUyBkdXJhdGlvbiwKICAgICAgIHF1ZXJ5LAogICAgICAgc3RhdGUKRlJPTSBwZ19zdGF0X2FjdGl2aXR5CldIRVJFIChub3coKSAtIHBnX3N0YXRfYWN0aXZpdHkucXVlcnlfc3RhcnQpID4gSU5URVJWQUwgJzUgbWludXRlcycKICBBTkQgc3RhdGUgPSAnYWN0aXZlJzsK</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

@@ -65,7 +65,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_66.sql" timestamp="1588808184483">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/840cc14b-8cbb-4a25-8acb-fd08d9833930/console_9.sql" timestamp="1588969575611" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/840cc14b-8cbb-4a25-8acb-fd08d9833930/console_9.sql" timestamp="1588973798621" />
       <file name="/console_9" timestamp="1588969552886">
         <mark key="[" line="0" column="0" />
       </file>
@@ -93,11 +93,12 @@
       <file name="/frodo_tailfeathers.crossserve.treatments_counts_costs" timestamp="1588808184196">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/840cc14b-8cbb-4a25-8acb-fd08d9833930/console_10.sql" timestamp="1588970335775">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="83" />
-        <mark key="^" line="12" column="83" />
-        <mark key="." line="12" column="82" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/840cc14b-8cbb-4a25-8acb-fd08d9833930/console_10.sql" timestamp="1588974147888">
+        <mark key="'" line="10" column="61" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/console_50" timestamp="1588969552678">
         <mark key="[" line="0" column="0" />
@@ -119,7 +120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="0" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="6" column="74" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="0" column="13" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="228" column="47" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/ORIGINAL_Pricing Magic v5.sql" />
@@ -219,15 +219,16 @@
       <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/ms_type_switch.sql" />
       <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_50.sql" />
       <jump line="25" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_65.sql" />
+      <jump line="10" column="61" filename="$APPLICATION_CONFIG_DIR$/consoles/db/840cc14b-8cbb-4a25-8acb-fd08d9833930/console_10.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>crossserve_results</text>
+        <text>select</text>
       </register>
       <register name="-" type="4">
-        <text>crossserve_results</text>
+        <text>select</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -236,31 +237,31 @@
         <text encoding="base64">c2VsZWN0ICogZnJvbSB0bXAuY3Jvc3NzZXJ2ZV9yZXN1bHRzIHdoZXJlIGFsdF9jb3N0IGlzIG51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUIGNvbWJpbmVkX21lbWJlcl9pZApGUk9NIHRtcC5jcm9zc3NlcnZlX3Jlc3VsdHNfMjAyMDA1MDRfMTYyMDE3CldIRVJFIGNvbWJpbmVkX21lbWJlcl9pZCBJUyBOT1QgTlVMTDsKCg==</text>
+        <text>delete from public.dag_run where dag_id = 'crossserve_export' and state = 'failed';</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gZmZydXlqZ3BhYWRvb2xjb2RyZm0uZWxpZ2liaWxpdGllcyA7ClNFTEVDVCBtaW4odXBkYXRlZF9hdCksIG1heCh1cGRhdGVkX2F0KQpGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmVsaWdpYmlsaXRpZXM7Cg==</text>
+        <text encoding="base64">U0VMRUNUIGNvbWJpbmVkX21lbWJlcl9pZApGUk9NIHRtcC5jcm9zc3NlcnZlX3Jlc3VsdHNfMjAyMDA1MDRfMTYyMDE3CldIRVJFIGNvbWJpbmVkX21lbWJlcl9pZCBJUyBOT1QgTlVMTDsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gZmZydXlqZ3BhYWRvb2xjb2RyZm0uZWxpZ2liaWxpdGllcyA7ClNFTEVDVCBtaW4odXBkYXRlZF9hdCksIG1heCh1cGRhdGVkX2F0KQpGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmVsaWdpYmlsaXRpZXM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RlJPTSB0bXAuZWxpZ2liaWxpdHlfZXh0cmFjdF8yMDIwMDQyMTE4MTg7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">U0VMRUNUIGNvdW50KERJU1RJTkNUIHN1YnNjcmliZXJfaWRlbnRpZmllcikK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LS0gZGJDRld0anBWdDJUd0tzODhpUWVCMDF3LmZmcnV5amdwYWFkb29sY29kcmZtCgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">RlJPTSB0bXAuZWxpZ2liaWxpdHlfZXh0cmFjdF8yMDIwMDQyMTE4MTg7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">U0VMRUNUIGNvdW50KERJU1RJTkNUIHN1YnNjcmliZXJfaWRlbnRpZmllcikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LS0gZGJDRld0anBWdDJUd0tzODhpUWVCMDF3LmZmcnV5amdwYWFkb29sY29kcmZtCgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVsZXRlCkZST00gZmZydXlqZ3BhYWRvb2xjb2RyZm0uZWxpZ2liaWxpdGllcwpXSEVSRSBkYXRlX3BhcnQoJ3llYXInLCB1cGRhdGVkX2F0KSA9IDIwMTg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUIHBpZCwKICAgICAgIG5vdygpIC0gcGdfc3RhdF9hY3Rpdml0eS5xdWVyeV9zdGFydCBBUyBkdXJhdGlvbiwKICAgICAgIHF1ZXJ5LAogICAgICAgc3RhdGUKRlJPTSBwZ19zdGF0X2FjdGl2aXR5CldIRVJFIChub3coKSAtIHBnX3N0YXRfYWN0aXZpdHkucXVlcnlfc3RhcnQpID4gSU5URVJWQUwgJzUgbWludXRlcycKICBBTkQgc3RhdGUgPSAnYWN0aXZlJzsK</text>
+        <text encoding="base64">ZGVsZXRlCkZST00gZmZydXlqZ3BhYWRvb2xjb2RyZm0uZWxpZ2liaWxpdGllcwpXSEVSRSBkYXRlX3BhcnQoJ3llYXInLCB1cGRhdGVkX2F0KSA9IDIwMTg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

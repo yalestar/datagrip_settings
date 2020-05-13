@@ -53,7 +53,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_70.sql" timestamp="1589411466568" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_70.sql" timestamp="1589412110169">
+        <mark key="[" line="10" column="65" />
+        <mark key="]" line="13" column="42" />
+        <mark key="^" line="13" column="42" />
+        <mark key="." line="13" column="41" />
+      </file>
       <file name="/eligibility_extract.202011061232 [PG_LOCALHOST]" timestamp="1589411466432">
         <mark key="[" line="0" column="0" />
       </file>

@@ -53,13 +53,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/latest_claims_treatments_freqs [PG_LOCALHOST]" timestamp="1589492722003">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/frodo_tailfeathers.crossserve.latest_claims_treatments_freqs" timestamp="1589492722012">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.crossserve.crossserve_results" timestamp="1589490806945">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/crossserve_results [REPORTING_TUNNEL]" timestamp="1589490806933">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1589490214623">
+      <file name="/a.sql" timestamp="1589492533294">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/crossserve_campaign_oppos [REPORTING_TUNNEL]" timestamp="1589482280008">
@@ -68,16 +74,13 @@
       <file name="/default" timestamp="1589484916367">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_71.sql" timestamp="1589482229279">
-        <mark key="[" line="5" column="56" />
-      </file>
       <file name="/Dummy.txt" timestamp="1589490222699">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/frodo_tailfeathers.crossserve.crossserve_results" timestamp="1589490816246">
+      <file name="/frodo_tailfeathers.crossserve.crossserve_results" timestamp="1589492593481">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/crossserve_results [PG_LOCALHOST]" timestamp="1589490816237">
+      <file name="/crossserve_results [PG_LOCALHOST]" timestamp="1589492593472">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_72.sql" timestamp="1589490411618">
@@ -90,7 +93,7 @@
       <file name="/internal_crossserve_20200510_114549 [PG_LOCALHOST]" timestamp="1589484922181">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1589490816256">
+      <file name="/foo.bar" timestamp="1589492722022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_55.sql" timestamp="1589488951542">
@@ -99,13 +102,13 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="/console_70" timestamp="1589480040469">
+      <file name="/treatments_counts_costs [PG_LOCALHOST]" timestamp="1589492404199">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/frodo_tailfeathers.crossserve.treatments_counts_costs" timestamp="1589492404214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/frodo_tailfeathers.tmp.internal_crossserve_20200510_114549" timestamp="1589484922193">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_71" timestamp="1589481799279">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_72" timestamp="1589484129277">
@@ -114,7 +117,6 @@
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.crossserve.crossserve_campaign_oppos" timestamp="1589482280020">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/sqls/dag_maintenance.sql" timestamp="1589481808485" />
       <file name="/console_55" timestamp="1589482229286">
         <mark key="[" line="0" column="0" />
       </file>

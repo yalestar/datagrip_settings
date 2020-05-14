@@ -59,65 +59,65 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="41" />
       </file>
-      <file name="/eligibility_extract.202011061232 [PG_LOCALHOST]" timestamp="1589411466432">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/frodo_tailfeathers.tmp.eligibility_extract.202011061232" timestamp="1589411466466">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/frodo_tailfeathers.tmp.crossserve_results_20200504_162017" timestamp="1589480040300">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_54.sql" timestamp="1589402430618">
-        <mark key="'" line="0" column="27" />
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/crossserve_results_20200504_162017 [PG_LOCALHOST]" timestamp="1589480040295">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_67" timestamp="1589401861327">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_68" timestamp="1589401861287">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_69" timestamp="1589401861183">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1589412433621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1589480040302">
+      <file name="/crossserve_campaign_oppos [REPORTING_TUNNEL]" timestamp="1589482280008">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_16" timestamp="1589401861371">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/eligibility_extract_202004211818 [PG_LOCALHOST]" timestamp="1589405414147">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_70" timestamp="1589480040469">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/default" timestamp="1589405438983">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/frodo_tailfeathers.tmp.eligibility_extract_202004211818" timestamp="1589405414162">
+      <file name="/default" timestamp="1589484916367">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_61" timestamp="1589480040348">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/840cc14b-8cbb-4a25-8acb-fd08d9833930/console_8.sql" timestamp="1589402122157">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="14" column="26" />
-        <mark key="^" line="15" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_71.sql" timestamp="1589482229279">
+        <mark key="[" line="5" column="56" />
       </file>
-      <file name="/console_54" timestamp="1589402134005">
+      <file name="/Dummy.txt" timestamp="1589484908568">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_11" timestamp="1589401861122">
+      <file name="/frodo_tailfeathers.tmp.crossserve_results_20200504_162017" timestamp="1589480040300">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_72.sql" timestamp="1589484447784">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="17" column="74" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="/internal_crossserve_20200510_114549 [PG_LOCALHOST]" timestamp="1589484922181">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1589484922205">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_55.sql" timestamp="1589483841716">
+        <mark key="[" line="4" column="48" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="/console_70" timestamp="1589480040469">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/frodo_tailfeathers.tmp.internal_crossserve_20200510_114549" timestamp="1589484922193">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_71" timestamp="1589481799279">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_72" timestamp="1589484129277">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.crossserve.crossserve_campaign_oppos" timestamp="1589482280020">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/sqls/dag_maintenance.sql" timestamp="1589481808485" />
+      <file name="/console_55" timestamp="1589482229286">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -226,44 +226,46 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>TRUE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LS0gICAgICAgICAgICAgIEpPSU4gY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX2NhbXBhaWduX29wcG9zIGNjbyBPTiBjY28uY2FtcGFpZ25faWQgPSBjLmlkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>TRUE</text>
+        <text>ffruyjgpaadoolcodrfm.campaigns</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSB0bXAuY3Jvc3NzZXJ2ZV9yZXN1bHRzIHdoZXJlIGFsdF9jb3N0IGlzIG51bGw7Cg==</text>
+        <text>select count(*) from crossserve.crossserve_campaign_oppos ;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChGT1JNQVQgQ1NWICwgKQo=</text>
+        <text encoding="base64">LS0gICAgICAgICAgICAgIEpPSU4gY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX2NhbXBhaWduX29wcG9zIGNjbyBPTiBjY28uY2FtcGFpZ25faWQgPSBjLmlkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSB0bXAuY3Jvc3NzZXJ2ZV9yZXN1bHRzCldIRVJFIGFsdF9jb3N0IElTIE5VTEw7ClNFTEVDVCAqCkZST00gdG1wLmNyb3Nzc2VydmVfb3Bwb19lbGlnX3RyZWF0bWVudHNfYWx0cwpXSEVSRSBhbHRfY29zdCBJUyBOVUxMOwoKU0VMRUNUIGVsaWcuKiwKICAgICAgIG9wcG9zLm9wcF9pZCwKICAgICAgIG9wcG9zLm9yZ19pZCwKICAgICAgIG9wcG9zLmNvbWJpbmVkX21lbWJlcl9pZCBBUyBvX2NvbWJpbmVkX21lbWJlcl9pZCwKICAgICAgIHRyZWF0bWVudHMuKgpGUk9NIHRtcC5jcm9zc3NlcnZlX21lbWJlcl9sYXRlc3RfZWxpZyBlbGlnCiAgICAgICAgIEpPSU4gdG1wLmNyb3Nzc2VydmVfY2FtcGFpZ25fb3Bwb3Mgb3Bwb3MKICAgICAgICAgICAgICBPTiBvcHBvcy5jb21iaW5lZF9tZW1iZXJfaWQgPSBlbGlnLmNvbWJpbmVkX21lbWJlcl9pZAogICAgICAgICBKT0lOIHRtcC5jYW1wYWlnbnNfdGFyZ2V0c19hbmRfYWx0ZXJuYXRpdmVzIHRyZWF0bWVudHMKICAgICAgICAgICAgICBPTiBvcHBvcy5jYW1wYWlnbl9pZCA9IHRyZWF0bWVudHMuY2FtcGFpZ25faWQKV0hFUkUgYWx0X2Nvc3QgSVMgTk9UIE5VTEwKICBBTkQgY29zdCBJUyBOT1QgTlVMTDsK</text>
+        <text>select campaign_id, count(campaign_id)
+from crossserve.crossserve_campaign_oppos
+GROUP BY campaign_id order by 2 desc;</text>
       </register>
       <register name="3" type="2">
-        <text>delete from public.dag_run where dag_id = 'crossserve_export' and state = 'failed';</text>
+        <text encoding="base64">ICAgIChGT1JNQVQgQ1NWICwgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUIGNvbWJpbmVkX21lbWJlcl9pZApGUk9NIHRtcC5jcm9zc3NlcnZlX3Jlc3VsdHNfMjAyMDA1MDRfMTYyMDE3CldIRVJFIGNvbWJpbmVkX21lbWJlcl9pZCBJUyBOT1QgTlVMTDsKCg==</text>
+        <text encoding="base64">U0VMRUNUICoKRlJPTSB0bXAuY3Jvc3NzZXJ2ZV9yZXN1bHRzCldIRVJFIGFsdF9jb3N0IElTIE5VTEw7ClNFTEVDVCAqCkZST00gdG1wLmNyb3Nzc2VydmVfb3Bwb19lbGlnX3RyZWF0bWVudHNfYWx0cwpXSEVSRSBhbHRfY29zdCBJUyBOVUxMOwoKU0VMRUNUIGVsaWcuKiwKICAgICAgIG9wcG9zLm9wcF9pZCwKICAgICAgIG9wcG9zLm9yZ19pZCwKICAgICAgIG9wcG9zLmNvbWJpbmVkX21lbWJlcl9pZCBBUyBvX2NvbWJpbmVkX21lbWJlcl9pZCwKICAgICAgIHRyZWF0bWVudHMuKgpGUk9NIHRtcC5jcm9zc3NlcnZlX21lbWJlcl9sYXRlc3RfZWxpZyBlbGlnCiAgICAgICAgIEpPSU4gdG1wLmNyb3Nzc2VydmVfY2FtcGFpZ25fb3Bwb3Mgb3Bwb3MKICAgICAgICAgICAgICBPTiBvcHBvcy5jb21iaW5lZF9tZW1iZXJfaWQgPSBlbGlnLmNvbWJpbmVkX21lbWJlcl9pZAogICAgICAgICBKT0lOIHRtcC5jYW1wYWlnbnNfdGFyZ2V0c19hbmRfYWx0ZXJuYXRpdmVzIHRyZWF0bWVudHMKICAgICAgICAgICAgICBPTiBvcHBvcy5jYW1wYWlnbl9pZCA9IHRyZWF0bWVudHMuY2FtcGFpZ25faWQKV0hFUkUgYWx0X2Nvc3QgSVMgTk9UIE5VTEwKICBBTkQgY29zdCBJUyBOT1QgTlVMTDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gZmZydXlqZ3BhYWRvb2xjb2RyZm0uZWxpZ2liaWxpdGllcyA7ClNFTEVDVCBtaW4odXBkYXRlZF9hdCksIG1heCh1cGRhdGVkX2F0KQpGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmVsaWdpYmlsaXRpZXM7Cg==</text>
+        <text>delete from public.dag_run where dag_id = 'crossserve_export' and state = 'failed';</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUIGNvbWJpbmVkX21lbWJlcl9pZApGUk9NIHRtcC5jcm9zc3NlcnZlX3Jlc3VsdHNfMjAyMDA1MDRfMTYyMDE3CldIRVJFIGNvbWJpbmVkX21lbWJlcl9pZCBJUyBOT1QgTlVMTDsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RlJPTSB0bXAuZWxpZ2liaWxpdHlfZXh0cmFjdF8yMDIwMDQyMTE4MTg7Cg==</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gZmZydXlqZ3BhYWRvb2xjb2RyZm0uZWxpZ2liaWxpdGllcyA7ClNFTEVDVCBtaW4odXBkYXRlZF9hdCksIG1heCh1cGRhdGVkX2F0KQpGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmVsaWdpYmlsaXRpZXM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUIGNvdW50KERJU1RJTkNUIHN1YnNjcmliZXJfaWRlbnRpZmllcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0gZGJDRld0anBWdDJUd0tzODhpUWVCMDF3LmZmcnV5amdwYWFkb29sY29kcmZtCgo=</text>
+        <text encoding="base64">RlJPTSB0bXAuZWxpZ2liaWxpdHlfZXh0cmFjdF8yMDIwMDQyMTE4MTg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

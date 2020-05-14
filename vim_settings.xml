@@ -53,16 +53,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_70.sql" timestamp="1589412428771">
-        <mark key="[" line="10" column="65" />
-        <mark key="]" line="13" column="42" />
-        <mark key="^" line="13" column="42" />
-        <mark key="." line="13" column="41" />
-      </file>
-      <file name="/crossserve_results_20200504_162017 [PG_LOCALHOST]" timestamp="1589480040295">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.crossserve.crossserve_results" timestamp="1589490806945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1589412433621">
+      <file name="/crossserve_results [REPORTING_TUNNEL]" timestamp="1589490806933">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1589490214623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/crossserve_campaign_oppos [REPORTING_TUNNEL]" timestamp="1589482280008">
@@ -71,35 +68,36 @@
       <file name="/default" timestamp="1589484916367">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_61" timestamp="1589480040348">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_71.sql" timestamp="1589482229279">
         <mark key="[" line="5" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589484908568">
+      <file name="/Dummy.txt" timestamp="1589490222699">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/frodo_tailfeathers.tmp.crossserve_results_20200504_162017" timestamp="1589480040300">
+      <file name="/frodo_tailfeathers.crossserve.crossserve_results" timestamp="1589490816246">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_72.sql" timestamp="1589484447784">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="17" column="74" />
-        <mark key="." line="13" column="0" />
+      <file name="/crossserve_results [PG_LOCALHOST]" timestamp="1589490816237">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_72.sql" timestamp="1589490411618">
+        <mark key="'" line="19" column="25" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="/internal_crossserve_20200510_114549 [PG_LOCALHOST]" timestamp="1589484922181">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1589484922205">
+      <file name="/foo.bar" timestamp="1589490816256">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_55.sql" timestamp="1589483841716">
-        <mark key="[" line="4" column="48" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_55.sql" timestamp="1589488951542">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="32" />
       </file>
       <file name="/console_70" timestamp="1589480040469">
         <mark key="[" line="0" column="0" />
@@ -122,8 +120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="13" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
-      <jump line="228" column="47" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/ORIGINAL_Pricing Magic v5.sql" />
       <jump line="121" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_14.sql" />
       <jump line="79" column="38" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_14.sql" />
       <jump line="114" column="6" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
@@ -222,12 +218,14 @@
       <jump line="25" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_65.sql" />
       <jump line="10" column="61" filename="$APPLICATION_CONFIG_DIR$/consoles/db/840cc14b-8cbb-4a25-8acb-fd08d9833930/console_10.sql" />
       <jump line="0" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_54.sql" />
+      <jump line="24" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_72.sql" />
+      <jump line="19" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_72.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS0gICAgICAgICAgICAgIEpPSU4gY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX2NhbXBhaWduX29wcG9zIGNjbyBPTiBjY28uY2FtcGFpZ25faWQgPSBjLmlkCg==</text>
+        <text encoding="base64">YWx0ZXIgdGFibGUgY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX3Jlc3VsdHMgb3duZXIgdG8gInU4U3h2NFNkeGhISWtNNzRGeWRweHRRIjsK</text>
       </register>
       <register name="-" type="4">
         <text>ffruyjgpaadoolcodrfm.campaigns</text>
@@ -239,33 +237,66 @@
         <text>select count(*) from crossserve.crossserve_campaign_oppos ;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0gICAgICAgICAgICAgIEpPSU4gY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX2NhbXBhaWduX29wcG9zIGNjbyBPTiBjY28uY2FtcGFpZ25faWQgPSBjLmlkCg==</text>
+        <text encoding="base64">YWx0ZXIgdGFibGUgY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX3Jlc3VsdHMgb3duZXIgdG8gInU4U3h2NFNkeGhISWtNNzRGeWRweHRRIjsK</text>
       </register>
       <register name="2" type="2">
+        <text>WITH campaign_cheapest_alts AS (
+    SELECT t.id AS treatment_id,
+           cts.campaign_id,
+           t.primary_name,
+           t.cost,
+           rank() OVER (
+               PARTITION BY cts.campaign_id
+               ORDER BY cost
+               ) AS rank
+    FROM ffruyjgpaadoolcodrfm.treatments t
+             JOIN ffruyjgpaadoolcodrfm.campaign_treatments cts ON t.id = cts.treatment_id
+             JOIN ffruyjgpaadoolcodrfm.campaigns c ON c.id = cts.campaign_id
+             JOIN ffruyjgpaadoolcodrfm.campaign_categories cats ON c.campaign_category_id = cats.id
+--              JOIN crossserve.crossserve_campaign_oppos cco ON cco.campaign_id = c.id
+    WHERE cts.treatment_type = 1
+      AND c.visible_state = 2
+      AND cats.key = 'switch'
+    and c.id in ( select distinct campaign_id from crossserve.crossserve_campaign_oppos)
+    )
+SELECT treatment_id AS alt_treatment_id,
+       campaign_id,
+       primary_name AS alt_treatment,
+       cost AS alt_cost
+FROM campaign_cheapest_alts
+WHERE rank = 1;</text>
+      </register>
+      <register name="3" type="2">
+        <text>SELECT count(*)
+FROM crossserve.campaigns_cheapest_alternatives;
+
+SELECT count(DISTINCT campaign_id)
+FROM crossserve.campaigns_cheapest_alternatives;
+
+SELECT campaign_id, count(campaign_id)
+FROM crossserve.campaigns_cheapest_alternatives
+GROUP BY campaign_id
+ORDER BY 2 DESC;</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LS0gICAgICAgICAgICAgIEpPSU4gY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX2NhbXBhaWduX29wcG9zIGNjbyBPTiBjY28uY2FtcGFpZ25faWQgPSBjLmlkCg==</text>
+      </register>
+      <register name="5" type="2">
         <text>select campaign_id, count(campaign_id)
 from crossserve.crossserve_campaign_oppos
 GROUP BY campaign_id order by 2 desc;</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIChGT1JNQVQgQ1NWICwgKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">U0VMRUNUICoKRlJPTSB0bXAuY3Jvc3NzZXJ2ZV9yZXN1bHRzCldIRVJFIGFsdF9jb3N0IElTIE5VTEw7ClNFTEVDVCAqCkZST00gdG1wLmNyb3Nzc2VydmVfb3Bwb19lbGlnX3RyZWF0bWVudHNfYWx0cwpXSEVSRSBhbHRfY29zdCBJUyBOVUxMOwoKU0VMRUNUIGVsaWcuKiwKICAgICAgIG9wcG9zLm9wcF9pZCwKICAgICAgIG9wcG9zLm9yZ19pZCwKICAgICAgIG9wcG9zLmNvbWJpbmVkX21lbWJlcl9pZCBBUyBvX2NvbWJpbmVkX21lbWJlcl9pZCwKICAgICAgIHRyZWF0bWVudHMuKgpGUk9NIHRtcC5jcm9zc3NlcnZlX21lbWJlcl9sYXRlc3RfZWxpZyBlbGlnCiAgICAgICAgIEpPSU4gdG1wLmNyb3Nzc2VydmVfY2FtcGFpZ25fb3Bwb3Mgb3Bwb3MKICAgICAgICAgICAgICBPTiBvcHBvcy5jb21iaW5lZF9tZW1iZXJfaWQgPSBlbGlnLmNvbWJpbmVkX21lbWJlcl9pZAogICAgICAgICBKT0lOIHRtcC5jYW1wYWlnbnNfdGFyZ2V0c19hbmRfYWx0ZXJuYXRpdmVzIHRyZWF0bWVudHMKICAgICAgICAgICAgICBPTiBvcHBvcy5jYW1wYWlnbl9pZCA9IHRyZWF0bWVudHMuY2FtcGFpZ25faWQKV0hFUkUgYWx0X2Nvc3QgSVMgTk9UIE5VTEwKICBBTkQgY29zdCBJUyBOT1QgTlVMTDsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text>delete from public.dag_run where dag_id = 'crossserve_export' and state = 'failed';</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUIGNvbWJpbmVkX21lbWJlcl9pZApGUk9NIHRtcC5jcm9zc3NlcnZlX3Jlc3VsdHNfMjAyMDA1MDRfMTYyMDE3CldIRVJFIGNvbWJpbmVkX21lbWJlcl9pZCBJUyBOT1QgTlVMTDsKCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gZmZydXlqZ3BhYWRvb2xjb2RyZm0uZWxpZ2liaWxpdGllcyA7ClNFTEVDVCBtaW4odXBkYXRlZF9hdCksIG1heCh1cGRhdGVkX2F0KQpGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmVsaWdpYmlsaXRpZXM7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">RlJPTSB0bXAuZWxpZ2liaWxpdHlfZXh0cmFjdF8yMDIwMDQyMTE4MTg7Cg==</text>
+        <text encoding="base64">U0VMRUNUIGNvbWJpbmVkX21lbWJlcl9pZApGUk9NIHRtcC5jcm9zc3NlcnZlX3Jlc3VsdHNfMjAyMDA1MDRfMTYyMDE3CldIRVJFIGNvbWJpbmVkX21lbWJlcl9pZCBJUyBOT1QgTlVMTDsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

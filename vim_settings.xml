@@ -71,7 +71,7 @@
       <file name="/default" timestamp="1589484916367">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589490222699">
+      <file name="/Dummy.txt" timestamp="1589564557177">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/frodo_tailfeathers.crossserve.crossserve_results" timestamp="1589492593481">
@@ -111,8 +111,11 @@
       <file name="/console_72" timestamp="1589484129277">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_73.sql" timestamp="1589493967711">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_73.sql" timestamp="1589564533512">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+        <mark key="." line="3" column="42" />
       </file>
       <file name="/console_73" timestamp="1589493967142">
         <mark key="[" line="0" column="0" />
@@ -226,17 +229,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX3Jlc3VsdHMgb3duZXIgdG8gInU4U3h2NFNkeGhISWtNNzRGeWRweHRRIjsK</text>
+      <register name="&quot;" type="4">
+        <text>member_id</text>
       </register>
       <register name="-" type="4">
-        <text>ffruyjgpaadoolcodrfm.campaigns</text>
+        <text>member_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text>select count(*) from crossserve.crossserve_campaign_oppos ;</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KGRpc3RpbmN0IG1lbWJlcl9pZCkgZnJvbSBjcm9zc3NlcnZlLmNyb3Nzc2VydmVfcmVzdWx0cyA7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YWx0ZXIgdGFibGUgY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX3Jlc3VsdHMgb3duZXIgdG8gInU4U3h2NFNkeGhISWtNNzRGeWRweHRRIjsK</text>

@@ -96,11 +96,11 @@
       <file name="/foo.bar" timestamp="1589492722022">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_55.sql" timestamp="1589568874624">
-        <mark key="[" line="31" column="32" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="29" column="54" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_55.sql" timestamp="1589571526807">
+        <mark key="[" line="49" column="6" />
+        <mark key="]" line="49" column="6" />
+        <mark key="." line="49" column="6" />
+        <mark key="^" line="48" column="47" />
       </file>
       <file name="/treatments_counts_costs [PG_LOCALHOST]" timestamp="1589492404199">
         <mark key="[" line="0" column="0" />
@@ -230,11 +230,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>combined_member_id</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -243,25 +243,29 @@
         <text encoding="base64">c2VsZWN0IGNvdW50KGRpc3RpbmN0IG1lbWJlcl9pZCkgZnJvbSBjcm9zc3NlcnZlLmNyb3Nzc2VydmVfcmVzdWx0cyA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text>JOIN ffruyjgpaadoolcodrfm.crossserve_member_latest_elig elig
+              ON elig.subscriber_identifier = claims.plan_member_identifier</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgSU4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>(
       SELECT DISTINCT combined_member_id
         FROM {{ params.crossserve_schema }}.crossserve_campaign_oppos
         WHERE combined_member_id IS NOT NULL
     )</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBBTkQgby5vcmdhbml6YXRpb25faWQgSU4gKHt7IHBhcmFtcy5vcmdfaWRzIH19KQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">YWx0ZXIgdGFibGUgY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX3Jlc3VsdHMgb3duZXIgdG8gInU4U3h2NFNkeGhISWtNNzRGeWRweHRRIjsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text>WITH campaign_cheapest_alts AS (
     SELECT t.id AS treatment_id,
            cts.campaign_id,
@@ -288,7 +292,7 @@ SELECT treatment_id AS alt_treatment_id,
 FROM campaign_cheapest_alts
 WHERE rank = 1;</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text>SELECT count(*)
 FROM crossserve.campaigns_cheapest_alternatives;
 
@@ -300,13 +304,8 @@ FROM crossserve.campaigns_cheapest_alternatives
 GROUP BY campaign_id
 ORDER BY 2 DESC;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LS0gICAgICAgICAgICAgIEpPSU4gY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX2NhbXBhaWduX29wcG9zIGNjbyBPTiBjY28uY2FtcGFpZ25faWQgPSBjLmlkCg==</text>
-      </register>
       <register name="9" type="2">
-        <text>select campaign_id, count(campaign_id)
-from crossserve.crossserve_campaign_oppos
-GROUP BY campaign_id order by 2 desc;</text>
+        <text encoding="base64">LS0gICAgICAgICAgICAgIEpPSU4gY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX2NhbXBhaWduX29wcG9zIGNjbyBPTiBjY28uY2FtcGFpZ25faWQgPSBjLmlkCg==</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

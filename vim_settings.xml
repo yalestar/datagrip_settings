@@ -96,11 +96,11 @@
       <file name="/foo.bar" timestamp="1589492722022">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_55.sql" timestamp="1589568759679">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="16" column="28" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_55.sql" timestamp="1589568874624">
+        <mark key="[" line="31" column="32" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="29" column="54" />
       </file>
       <file name="/treatments_counts_costs [PG_LOCALHOST]" timestamp="1589492404199">
         <mark key="[" line="0" column="0" />
@@ -231,10 +231,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBBTkQgby5vcmdhbml6YXRpb25faWQgSU4gKHt7IHBhcmFtcy5vcmdfaWRzIH19KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>}}.</text>
+        <text>combined_member_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -243,12 +243,25 @@
         <text encoding="base64">c2VsZWN0IGNvdW50KGRpc3RpbmN0IG1lbWJlcl9pZCkgZnJvbSBjcm9zc3NlcnZlLmNyb3Nzc2VydmVfcmVzdWx0cyA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBBTkQgby5vcmdhbml6YXRpb25faWQgSU4gKHt7IHBhcmFtcy5vcmdfaWRzIH19KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgSU4K</text>
+      </register>
+      <register name="3" type="4">
+        <text>(
+      SELECT DISTINCT combined_member_id
+        FROM {{ params.crossserve_schema }}.crossserve_campaign_oppos
+        WHERE combined_member_id IS NOT NULL
+    )</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBBTkQgby5vcmdhbml6YXRpb25faWQgSU4gKHt7IHBhcmFtcy5vcmdfaWRzIH19KQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">YWx0ZXIgdGFibGUgY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX3Jlc3VsdHMgb3duZXIgdG8gInU4U3h2NFNkeGhISWtNNzRGeWRweHRRIjsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text>WITH campaign_cheapest_alts AS (
     SELECT t.id AS treatment_id,
            cts.campaign_id,
@@ -275,7 +288,7 @@ SELECT treatment_id AS alt_treatment_id,
 FROM campaign_cheapest_alts
 WHERE rank = 1;</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text>SELECT count(*)
 FROM crossserve.campaigns_cheapest_alternatives;
 
@@ -287,22 +300,13 @@ FROM crossserve.campaigns_cheapest_alternatives
 GROUP BY campaign_id
 ORDER BY 2 DESC;</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">LS0gICAgICAgICAgICAgIEpPSU4gY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX2NhbXBhaWduX29wcG9zIGNjbyBPTiBjY28uY2FtcGFpZ25faWQgPSBjLmlkCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text>select campaign_id, count(campaign_id)
 from crossserve.crossserve_campaign_oppos
 GROUP BY campaign_id order by 2 desc;</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIChGT1JNQVQgQ1NWICwgKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSB0bXAuY3Jvc3NzZXJ2ZV9yZXN1bHRzCldIRVJFIGFsdF9jb3N0IElTIE5VTEw7ClNFTEVDVCAqCkZST00gdG1wLmNyb3Nzc2VydmVfb3Bwb19lbGlnX3RyZWF0bWVudHNfYWx0cwpXSEVSRSBhbHRfY29zdCBJUyBOVUxMOwoKU0VMRUNUIGVsaWcuKiwKICAgICAgIG9wcG9zLm9wcF9pZCwKICAgICAgIG9wcG9zLm9yZ19pZCwKICAgICAgIG9wcG9zLmNvbWJpbmVkX21lbWJlcl9pZCBBUyBvX2NvbWJpbmVkX21lbWJlcl9pZCwKICAgICAgIHRyZWF0bWVudHMuKgpGUk9NIHRtcC5jcm9zc3NlcnZlX21lbWJlcl9sYXRlc3RfZWxpZyBlbGlnCiAgICAgICAgIEpPSU4gdG1wLmNyb3Nzc2VydmVfY2FtcGFpZ25fb3Bwb3Mgb3Bwb3MKICAgICAgICAgICAgICBPTiBvcHBvcy5jb21iaW5lZF9tZW1iZXJfaWQgPSBlbGlnLmNvbWJpbmVkX21lbWJlcl9pZAogICAgICAgICBKT0lOIHRtcC5jYW1wYWlnbnNfdGFyZ2V0c19hbmRfYWx0ZXJuYXRpdmVzIHRyZWF0bWVudHMKICAgICAgICAgICAgICBPTiBvcHBvcy5jYW1wYWlnbl9pZCA9IHRyZWF0bWVudHMuY2FtcGFpZ25faWQKV0hFUkUgYWx0X2Nvc3QgSVMgTk9UIE5VTEwKICBBTkQgY29zdCBJUyBOT1QgTlVMTDsK</text>
-      </register>
-      <register name="9" type="2">
-        <text>delete from public.dag_run where dag_id = 'crossserve_export' and state = 'failed';</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

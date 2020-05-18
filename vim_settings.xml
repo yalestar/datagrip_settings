@@ -53,10 +53,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1589565611897">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/latest_claims_treatments_freqs [PG_LOCALHOST]" timestamp="1589492722003">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/frodo_tailfeathers.crossserve.latest_claims_treatments_freqs" timestamp="1589492722012">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/frodo_tailfeathers.crossserve.crossserve_results" timestamp="1589492593481">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/crossserve_results [PG_LOCALHOST]" timestamp="1589492593472">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.crossserve.crossserve_results" timestamp="1589490806945">
@@ -68,39 +77,14 @@
       <file name="/a.sql" timestamp="1589494438424">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/default" timestamp="1589565563924">
+      <file name="/foo.bar" timestamp="1589823072425">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1589568590932">
-        <mark key="[" line="0" column="13" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589565611897">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/frodo_tailfeathers.crossserve.crossserve_results" timestamp="1589492593481">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/crossserve_results [PG_LOCALHOST]" timestamp="1589492593472">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_72.sql" timestamp="1589490411618">
-        <mark key="'" line="19" column="25" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="23" column="0" />
-      </file>
-      <file name="/internal_crossserve_20200510_114549 [PG_LOCALHOST]" timestamp="1589484922181">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1589492722022">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_55.sql" timestamp="1589571526807">
-        <mark key="[" line="49" column="6" />
-        <mark key="]" line="49" column="6" />
-        <mark key="." line="49" column="6" />
-        <mark key="^" line="48" column="47" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_55.sql" timestamp="1589571588774">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="47" column="3" />
       </file>
       <file name="/treatments_counts_costs [PG_LOCALHOST]" timestamp="1589492404199">
         <mark key="[" line="0" column="0" />
@@ -108,10 +92,13 @@
       <file name="/frodo_tailfeathers.crossserve.treatments_counts_costs" timestamp="1589492404214">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/frodo_tailfeathers.tmp.internal_crossserve_20200510_114549" timestamp="1589484922193">
+      <file name="/crossserve_campaign_oppos [REPORTING_TUNNEL]" timestamp="1589823072418">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_72" timestamp="1589484129277">
+      <file name="/default" timestamp="1589565563924">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_71" timestamp="1589823072467">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_73.sql" timestamp="1589565453636">
@@ -121,7 +108,16 @@
         <mark key="^" line="7" column="60" />
         <mark key="." line="7" column="59" />
       </file>
-      <file name="/console_73" timestamp="1589493967142">
+      <file name="/console_73" timestamp="1589823072571">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1589568590932">
+        <mark key="[" line="0" column="13" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.crossserve.crossserve_campaign_oppos" timestamp="1589823072423">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_55" timestamp="1589823072620">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -230,11 +226,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -243,29 +239,32 @@
         <text encoding="base64">c2VsZWN0IGNvdW50KGRpc3RpbmN0IG1lbWJlcl9pZCkgZnJvbSBjcm9zc3NlcnZlLmNyb3Nzc2VydmVfcmVzdWx0cyA7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text>JOIN ffruyjgpaadoolcodrfm.crossserve_member_latest_elig elig
               ON elig.subscriber_identifier = claims.plan_member_identifier</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgSU4K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>(
       SELECT DISTINCT combined_member_id
         FROM {{ params.crossserve_schema }}.crossserve_campaign_oppos
         WHERE combined_member_id IS NOT NULL
     )</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBBTkQgby5vcmdhbml6YXRpb25faWQgSU4gKHt7IHBhcmFtcy5vcmdfaWRzIH19KQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">YWx0ZXIgdGFibGUgY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX3Jlc3VsdHMgb3duZXIgdG8gInU4U3h2NFNkeGhISWtNNzRGeWRweHRRIjsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text>WITH campaign_cheapest_alts AS (
     SELECT t.id AS treatment_id,
            cts.campaign_id,
@@ -292,7 +291,7 @@ SELECT treatment_id AS alt_treatment_id,
 FROM campaign_cheapest_alts
 WHERE rank = 1;</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text>SELECT count(*)
 FROM crossserve.campaigns_cheapest_alternatives;
 
@@ -303,9 +302,6 @@ SELECT campaign_id, count(campaign_id)
 FROM crossserve.campaigns_cheapest_alternatives
 GROUP BY campaign_id
 ORDER BY 2 DESC;</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">LS0gICAgICAgICAgICAgIEpPSU4gY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX2NhbXBhaWduX29wcG9zIGNjbyBPTiBjY28uY2FtcGFpZ25faWQgPSBjLmlkCg==</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

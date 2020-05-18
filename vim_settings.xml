@@ -80,11 +80,11 @@
       <file name="/foo.bar" timestamp="1589823072425">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_55.sql" timestamp="1589571588774">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="47" column="3" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_55.sql" timestamp="1589830292337">
+        <mark key="[" line="2" column="44" />
+        <mark key="]" line="2" column="44" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="44" />
       </file>
       <file name="/treatments_counts_costs [PG_LOCALHOST]" timestamp="1589492404199">
         <mark key="[" line="0" column="0" />
@@ -226,45 +226,48 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>crossserve_results</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>crossserve_results</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KGRpc3RpbmN0IG1lbWJlcl9pZCkgZnJvbSBjcm9zc3NlcnZlLmNyb3Nzc2VydmVfcmVzdWx0cyA7Cg==</text>
+        <text encoding="base64">c2VsZWN0IGRpc3RpbmN0IGNhbXBhaWduX2lkIGZyb20gY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX3Jlc3VsdHM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUIGMuaWQsIGMudGl0bGUKRlJPTSBmZnJ1eWpncGFhZG9vbGNvZHJmbS5vcHBvcnR1bml0aWVzIG8KICAgICAgICAgSk9JTiBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jYW1wYWlnbnMgYyBPTiBvLmNhbXBhaWduX2lkID0gYy5pZApXSEVSRSBvLm1lbWJlcl9pZCA9ICcxNzAwMzQwOTgnOwoKClNFTEVDVCBvLmlkIEFTIG9wcF9pZCwKICAgICAgIG8ub3JnYW5pemF0aW9uX2lkIEFTIG9yZ19pZCwKICAgICAgIG8ubWVtYmVyX2lkLAogICAgICAgby5jb21iaW5lZF9tZW1iZXJfaWQsCiAgICAgICBjLmlkIEFTICJjYW1wYWlnbl9pZCIsCiAgICAgICBjLm5hbWUsCiAgICAgICBjLmNhbXBhaWduX3R5cGUsCiAgICAgICBjLnRpdGxlCkZST00gZmZydXlqZ3BhYWRvb2xjb2RyZm0ub3Bwb3J0dW5pdGllcyBvCiAgICAgICAgIEpPSU4gZmZydXlqZ3BhYWRvb2xjb2RyZm0uY2FtcGFpZ25zIGMgT04gYy5pZCA9IG8uY2FtcGFpZ25faWQKICAgICAgICAgSk9JTiBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jYW1wYWlnbl9jYXRlZ29yaWVzIGNhdHMgT04gYy5jYW1wYWlnbl9jYXRlZ29yeV9pZCA9IGNhdHMuaWQKV0hFUkUgY2F0cy5rZXkgPSAnc3dpdGNoJwogIEFORCBvLm1lbWJlcl9pZCA9ICcxNzAwMzQwOTgnCiAgQU5EIGMudmlzaWJsZV9zdGF0ZSA9IDI7CgotLSBzdGVwIDI6IGdldCB0aGF0IG1lbWJlcidzIGVsaWdpYmlsaXRpZXM6ClNFTEVDVCBzdWJzY3JpYmVyX2lkZW50aWZpZXIsCiAgICAgICBjb21iaW5lZF9tZW1iZXJfaWQsCiAgICAgICBwcm9kdWN0X2lkZW50aWZpZXIsCiAgICAgICBwZXJzb25fdHlwZV9jb2RlLAogICAgICAgbWVtYmVyX3N1ZmZpeF9pZGVudGlmaWVyLAogICAgICAgdXBkYXRlZF9hdApGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmVsaWdpYmlsaXRpZXMKV0hFUkUgZWxpZ2liaWxpdGllcy5zdWJzY3JpYmVyX2lkZW50aWZpZXIgPSAnMTcwMDM0MDk4JwogIEFORCBwcm9kdWN0X2NhdGVnb3J5X2NvZGUgPSAnUicKICBBTkQgcGVyc29uX3R5cGVfY29kZSAhPSAnQVNPQScKT1JERVIgQlkgdXBkYXRlZF9hdCBERVNDCkxJTUlUIDE7CgotLSBzdGVwIDM6IGdldCB0aGF0IG1lbWJlcidzIGNsYWltcyBmb3IgdGhlIHBhc3QgeWVhcjoKU0VMRUNUIGNsYWltcy5wbGFuX21lbWJlcl9pZGVudGlmaWVyLAogICAgICAgY2xhaW1zLnN1YnNjcmliZXJfaWRlbnRpZmllciwKICAgICAgIGNsYWltcy5iZW5lZml0X2NvZGUsCiAgICAgICBjbGFpbXMucHJlc2NyaXB0aW9uX3F1YW50aXR5LAogICAgICAgY2xhaW1zLmFsbG93ZWRfY29zdCwKICAgICAgIGNsYWltcy5kYXlzX3N1cHBseV9jb3VudCwKICAgICAgIGNsYWltcy5kYXRlX2ZpbGxlZCwKICAgICAgIGNsYWltcy5yeG5jdWksCiAgICAgICBjbGFpbXMuYWRqdXN0bWVudF9kZWxldGVfY29kZQpGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmNsYWltcwpXSEVSRSBjbGFpbXMuc3Vic2NyaWJlcl9pZGVudGlmaWVyID0gJzE3MDAzNDA5OCcKICBBTkQgY2xhaW1zLmRhdGVfZmlsbGVkID4gY3VycmVudF9kYXRlIC0gSU5URVJWQUwgJzEgeWVhcic7</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text>JOIN ffruyjgpaadoolcodrfm.crossserve_member_latest_elig elig
               ON elig.subscriber_identifier = claims.plan_member_identifier</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgSU4K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>(
       SELECT DISTINCT combined_member_id
         FROM {{ params.crossserve_schema }}.crossserve_campaign_oppos
         WHERE combined_member_id IS NOT NULL
     )</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBBTkQgby5vcmdhbml6YXRpb25faWQgSU4gKHt7IHBhcmFtcy5vcmdfaWRzIH19KQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">YWx0ZXIgdGFibGUgY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX3Jlc3VsdHMgb3duZXIgdG8gInU4U3h2NFNkeGhISWtNNzRGeWRweHRRIjsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text>WITH campaign_cheapest_alts AS (
     SELECT t.id AS treatment_id,
            cts.campaign_id,
@@ -290,18 +293,6 @@ SELECT treatment_id AS alt_treatment_id,
        cost AS alt_cost
 FROM campaign_cheapest_alts
 WHERE rank = 1;</text>
-      </register>
-      <register name="9" type="2">
-        <text>SELECT count(*)
-FROM crossserve.campaigns_cheapest_alternatives;
-
-SELECT count(DISTINCT campaign_id)
-FROM crossserve.campaigns_cheapest_alternatives;
-
-SELECT campaign_id, count(campaign_id)
-FROM crossserve.campaigns_cheapest_alternatives
-GROUP BY campaign_id
-ORDER BY 2 DESC;</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

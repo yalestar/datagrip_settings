@@ -71,8 +71,11 @@
       <file name="/frodo_tailfeathers.tmp.eligibility_extract_current" timestamp="1590008840749">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_57.sql" timestamp="1590010954340">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_57.sql" timestamp="1590011793856">
+        <mark key="[" line="2" column="69" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="57" />
+        <mark key="." line="2" column="24" />
       </file>
       <file name="/default" timestamp="1589932552105">
         <mark key="[" line="0" column="0" />
@@ -223,10 +226,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>crossserve_results</text>
+        <text>vp_campaign_conv_trend_op_floodg</text>
       </register>
       <register name="-" type="4">
-        <text>crossserve_results</text>
+        <text>vp_campaign_conv_trend_op_floodg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>

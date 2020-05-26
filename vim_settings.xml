@@ -56,7 +56,7 @@
       <file name="/eligibilities_current [PG_LOCALHOST]" timestamp="1590521717638">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590522324840">
+      <file name="/Dummy.txt" timestamp="1590524387513">
         <mark key="[" line="0" column="1" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.reporting.org_month_filler" timestamp="1590521717652">
@@ -86,7 +86,7 @@
       <file name="/frodo_tailfeathers.tmp.eligibilities_current" timestamp="1590521717642">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1590522986943">
+      <file name="/a.sql" timestamp="1590524479621">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1590522290947">
@@ -101,11 +101,11 @@
         <mark key="^" line="5" column="69" />
         <mark key="." line="5" column="68" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_74.sql" timestamp="1590523452275">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="14" />
-        <mark key="^" line="0" column="15" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_74.sql" timestamp="1590523538291">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+        <mark key="^" line="0" column="43" />
       </file>
       <file name="/default" timestamp="1590522301326">
         <mark key="[" line="0" column="0" />
@@ -116,8 +116,8 @@
       <file name="/console_74" timestamp="1590523421189">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1590522323916">
-        <mark key="[" line="0" column="0" />
+      <file name="/dummy.sql" timestamp="1590524390113">
+        <mark key="[" line="0" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -226,16 +226,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>persons_id_seq</text>
+        <text>(pg_get_serial_sequence('tmp.eligibility_extract_current', 'id'));</text>
       </register>
       <register name="-" type="4">
-        <text>persons_id_seq</text>
+        <text>(pg_get_serial_sequence('tmp.eligibility_extract_current', 'id'));</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGRpc3RpbmN0IGNhbXBhaWduX2lkIGZyb20gY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX3Jlc3VsdHM7Cg==</text>
+        <text>SELECT currval(pg_get_serial_sequence('tmp.eligibility_extract_current', 'id'));</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">U0VMRUNUIGMuaWQsIGMudGl0bGUKRlJPTSBmZnJ1eWpncGFhZG9vbGNvZHJmbS5vcHBvcnR1bml0aWVzIG8KICAgICAgICAgSk9JTiBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jYW1wYWlnbnMgYyBPTiBvLmNhbXBhaWduX2lkID0gYy5pZApXSEVSRSBvLm1lbWJlcl9pZCA9ICcxNzAwMzQwOTgnOwoKClNFTEVDVCBvLmlkIEFTIG9wcF9pZCwKICAgICAgIG8ub3JnYW5pemF0aW9uX2lkIEFTIG9yZ19pZCwKICAgICAgIG8ubWVtYmVyX2lkLAogICAgICAgby5jb21iaW5lZF9tZW1iZXJfaWQsCiAgICAgICBjLmlkIEFTICJjYW1wYWlnbl9pZCIsCiAgICAgICBjLm5hbWUsCiAgICAgICBjLmNhbXBhaWduX3R5cGUsCiAgICAgICBjLnRpdGxlCkZST00gZmZydXlqZ3BhYWRvb2xjb2RyZm0ub3Bwb3J0dW5pdGllcyBvCiAgICAgICAgIEpPSU4gZmZydXlqZ3BhYWRvb2xjb2RyZm0uY2FtcGFpZ25zIGMgT04gYy5pZCA9IG8uY2FtcGFpZ25faWQKICAgICAgICAgSk9JTiBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jYW1wYWlnbl9jYXRlZ29yaWVzIGNhdHMgT04gYy5jYW1wYWlnbl9jYXRlZ29yeV9pZCA9IGNhdHMuaWQKV0hFUkUgY2F0cy5rZXkgPSAnc3dpdGNoJwogIEFORCBvLm1lbWJlcl9pZCA9ICcxNzAwMzQwOTgnCiAgQU5EIGMudmlzaWJsZV9zdGF0ZSA9IDI7CgotLSBzdGVwIDI6IGdldCB0aGF0IG1lbWJlcidzIGVsaWdpYmlsaXRpZXM6ClNFTEVDVCBzdWJzY3JpYmVyX2lkZW50aWZpZXIsCiAgICAgICBjb21iaW5lZF9tZW1iZXJfaWQsCiAgICAgICBwcm9kdWN0X2lkZW50aWZpZXIsCiAgICAgICBwZXJzb25fdHlwZV9jb2RlLAogICAgICAgbWVtYmVyX3N1ZmZpeF9pZGVudGlmaWVyLAogICAgICAgdXBkYXRlZF9hdApGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmVsaWdpYmlsaXRpZXMKV0hFUkUgZWxpZ2liaWxpdGllcy5zdWJzY3JpYmVyX2lkZW50aWZpZXIgPSAnMTcwMDM0MDk4JwogIEFORCBwcm9kdWN0X2NhdGVnb3J5X2NvZGUgPSAnUicKICBBTkQgcGVyc29uX3R5cGVfY29kZSAhPSAnQVNPQScKT1JERVIgQlkgdXBkYXRlZF9hdCBERVNDCkxJTUlUIDE7CgotLSBzdGVwIDM6IGdldCB0aGF0IG1lbWJlcidzIGNsYWltcyBmb3IgdGhlIHBhc3QgeWVhcjoKU0VMRUNUIGNsYWltcy5wbGFuX21lbWJlcl9pZGVudGlmaWVyLAogICAgICAgY2xhaW1zLnN1YnNjcmliZXJfaWRlbnRpZmllciwKICAgICAgIGNsYWltcy5iZW5lZml0X2NvZGUsCiAgICAgICBjbGFpbXMucHJlc2NyaXB0aW9uX3F1YW50aXR5LAogICAgICAgY2xhaW1zLmFsbG93ZWRfY29zdCwKICAgICAgIGNsYWltcy5kYXlzX3N1cHBseV9jb3VudCwKICAgICAgIGNsYWltcy5kYXRlX2ZpbGxlZCwKICAgICAgIGNsYWltcy5yeG5jdWksCiAgICAgICBjbGFpbXMuYWRqdXN0bWVudF9kZWxldGVfY29kZQpGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmNsYWltcwpXSEVSRSBjbGFpbXMuc3Vic2NyaWJlcl9pZGVudGlmaWVyID0gJzE3MDAzNDA5OCcKICBBTkQgY2xhaW1zLmRhdGVfZmlsbGVkID4gY3VycmVudF9kYXRlIC0gSU5URVJWQUwgJzEgeWVhcic7</text>

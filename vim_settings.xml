@@ -53,28 +53,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_75.sql" timestamp="1590784009331">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="0" column="46" />
-        <mark key="^" line="0" column="39" />
-        <mark key="." line="0" column="46" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_75.sql" timestamp="1590792726250">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="43" />
+        <mark key="." line="1" column="42" />
+        <mark key="^" line="1" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590778571980">
+      <file name="/Dummy.txt" timestamp="1590792671483">
         <mark key="i" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="/Regence_F6_2017_ACA [PG_LOCALHOST]" timestamp="1590777704350">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Regence_F6_2017_ACA [REPORTING_TUNNEL]" timestamp="1590783990848">
+      <file name="/Regence_F6_2017_ACA [REPORTING_TUNNEL]" timestamp="1590791403292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/formulary_lines_1 [PG_LOCALHOST]" timestamp="1590778004494">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/frodo_tailfeathers.tmp.Regence_F6_2017_ACA" timestamp="1590777704351">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_58.sql" timestamp="1590783921706">
@@ -82,6 +76,12 @@
         <mark key="]" line="4" column="62" />
         <mark key="^" line="4" column="62" />
         <mark key="." line="4" column="61" />
+      </file>
+      <file name="/eligibility_extract_current [PG_LOCALHOST]" timestamp="1590791431890">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/eligibility_extract.202004211818 [PG_LOCALHOST]" timestamp="1590792639941">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/frodo_tailfeathers.public.formulary_lines" timestamp="1590777963367">
         <mark key="[" line="0" column="0" />
@@ -92,40 +92,38 @@
       <file name="/frodo_tailfeathers.public.formulary_lines_1" timestamp="1590778004506">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_58" timestamp="1590783990904">
+      <file name="/console_58" timestamp="1590791403359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1590778609411">
+      <file name="/a.sql" timestamp="1590792671307">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1590783990854">
+      <file name="/foo.bar" timestamp="1590792639967">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/airflow_metadata.public.xcom" timestamp="1590777704348">
+      <file name="/frodo_tailfeathers.tmp.eligibility_extract_current" timestamp="1590791431907">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/default" timestamp="1590778366746">
+      <file name="/frodo_tailfeathers.tmp.eligibility_extract.202004211818" timestamp="1590792639955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.tmp.Regence_F6_2017_ACA" timestamp="1590783990853">
+      <file name="/default" timestamp="1590791508690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_74" timestamp="1590777704470">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.tmp.Regence_F6_2017_ACA" timestamp="1590791403297">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_75" timestamp="1590784001525">
+      <file name="/console_75" timestamp="1590791403458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1590778568826">
-        <mark key="[" line="0" column="0" />
+      <file name="/dummy.sql" timestamp="1590791605021">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="/dumpDataPreview" timestamp="1590784297335">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_14.sql" />
-      <jump line="79" column="38" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_14.sql" />
       <jump line="114" column="6" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="16" column="38" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="181" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_14.sql" />
@@ -224,77 +222,55 @@
       <jump line="0" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_54.sql" />
       <jump line="24" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_72.sql" />
       <jump line="19" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_72.sql" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_75.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_75.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>formulary_tier</text>
+        <text>_current</text>
       </register>
       <register name="-" type="4">
-        <text>formulary_tier</text>
+        <text>_current</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text>SELECT currval(pg_get_serial_sequence('tmp.eligibility_extract_current', 'id'));</text>
+        <text encoding="base64">RlJPTSB0bXAuZWxpZ2liaWxpdHlfZXh0cmFjdF9jdXJyZW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUIGMuaWQsIGMudGl0bGUKRlJPTSBmZnJ1eWpncGFhZG9vbGNvZHJmbS5vcHBvcnR1bml0aWVzIG8KICAgICAgICAgSk9JTiBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jYW1wYWlnbnMgYyBPTiBvLmNhbXBhaWduX2lkID0gYy5pZApXSEVSRSBvLm1lbWJlcl9pZCA9ICcxNzAwMzQwOTgnOwoKClNFTEVDVCBvLmlkIEFTIG9wcF9pZCwKICAgICAgIG8ub3JnYW5pemF0aW9uX2lkIEFTIG9yZ19pZCwKICAgICAgIG8ubWVtYmVyX2lkLAogICAgICAgby5jb21iaW5lZF9tZW1iZXJfaWQsCiAgICAgICBjLmlkIEFTICJjYW1wYWlnbl9pZCIsCiAgICAgICBjLm5hbWUsCiAgICAgICBjLmNhbXBhaWduX3R5cGUsCiAgICAgICBjLnRpdGxlCkZST00gZmZydXlqZ3BhYWRvb2xjb2RyZm0ub3Bwb3J0dW5pdGllcyBvCiAgICAgICAgIEpPSU4gZmZydXlqZ3BhYWRvb2xjb2RyZm0uY2FtcGFpZ25zIGMgT04gYy5pZCA9IG8uY2FtcGFpZ25faWQKICAgICAgICAgSk9JTiBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jYW1wYWlnbl9jYXRlZ29yaWVzIGNhdHMgT04gYy5jYW1wYWlnbl9jYXRlZ29yeV9pZCA9IGNhdHMuaWQKV0hFUkUgY2F0cy5rZXkgPSAnc3dpdGNoJwogIEFORCBvLm1lbWJlcl9pZCA9ICcxNzAwMzQwOTgnCiAgQU5EIGMudmlzaWJsZV9zdGF0ZSA9IDI7CgotLSBzdGVwIDI6IGdldCB0aGF0IG1lbWJlcidzIGVsaWdpYmlsaXRpZXM6ClNFTEVDVCBzdWJzY3JpYmVyX2lkZW50aWZpZXIsCiAgICAgICBjb21iaW5lZF9tZW1iZXJfaWQsCiAgICAgICBwcm9kdWN0X2lkZW50aWZpZXIsCiAgICAgICBwZXJzb25fdHlwZV9jb2RlLAogICAgICAgbWVtYmVyX3N1ZmZpeF9pZGVudGlmaWVyLAogICAgICAgdXBkYXRlZF9hdApGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmVsaWdpYmlsaXRpZXMKV0hFUkUgZWxpZ2liaWxpdGllcy5zdWJzY3JpYmVyX2lkZW50aWZpZXIgPSAnMTcwMDM0MDk4JwogIEFORCBwcm9kdWN0X2NhdGVnb3J5X2NvZGUgPSAnUicKICBBTkQgcGVyc29uX3R5cGVfY29kZSAhPSAnQVNPQScKT1JERVIgQlkgdXBkYXRlZF9hdCBERVNDCkxJTUlUIDE7CgotLSBzdGVwIDM6IGdldCB0aGF0IG1lbWJlcidzIGNsYWltcyBmb3IgdGhlIHBhc3QgeWVhcjoKU0VMRUNUIGNsYWltcy5wbGFuX21lbWJlcl9pZGVudGlmaWVyLAogICAgICAgY2xhaW1zLnN1YnNjcmliZXJfaWRlbnRpZmllciwKICAgICAgIGNsYWltcy5iZW5lZml0X2NvZGUsCiAgICAgICBjbGFpbXMucHJlc2NyaXB0aW9uX3F1YW50aXR5LAogICAgICAgY2xhaW1zLmFsbG93ZWRfY29zdCwKICAgICAgIGNsYWltcy5kYXlzX3N1cHBseV9jb3VudCwKICAgICAgIGNsYWltcy5kYXRlX2ZpbGxlZCwKICAgICAgIGNsYWltcy5yeG5jdWksCiAgICAgICBjbGFpbXMuYWRqdXN0bWVudF9kZWxldGVfY29kZQpGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmNsYWltcwpXSEVSRSBjbGFpbXMuc3Vic2NyaWJlcl9pZGVudGlmaWVyID0gJzE3MDAzNDA5OCcKICBBTkQgY2xhaW1zLmRhdGVfZmlsbGVkID4gY3VycmVudF9kYXRlIC0gSU5URVJWQUwgJzEgeWVhcic7</text>
+        <text encoding="base64">RlJPTSB0bXAuIlJlZ2VuY2VfRjZfMjAxN19BQ0EiCldIRVJFICJGb3JtdWxhcnkgVGllciIgSU4gKDUsIDYpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUICoK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">U0VMRUNUIGMuaWQsIGMudGl0bGUKRlJPTSBmZnJ1eWpncGFhZG9vbGNvZHJmbS5vcHBvcnR1bml0aWVzIG8KICAgICAgICAgSk9JTiBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jYW1wYWlnbnMgYyBPTiBvLmNhbXBhaWduX2lkID0gYy5pZApXSEVSRSBvLm1lbWJlcl9pZCA9ICcxNzAwMzQwOTgnOwoKClNFTEVDVCBvLmlkIEFTIG9wcF9pZCwKICAgICAgIG8ub3JnYW5pemF0aW9uX2lkIEFTIG9yZ19pZCwKICAgICAgIG8ubWVtYmVyX2lkLAogICAgICAgby5jb21iaW5lZF9tZW1iZXJfaWQsCiAgICAgICBjLmlkIEFTICJjYW1wYWlnbl9pZCIsCiAgICAgICBjLm5hbWUsCiAgICAgICBjLmNhbXBhaWduX3R5cGUsCiAgICAgICBjLnRpdGxlCkZST00gZmZydXlqZ3BhYWRvb2xjb2RyZm0ub3Bwb3J0dW5pdGllcyBvCiAgICAgICAgIEpPSU4gZmZydXlqZ3BhYWRvb2xjb2RyZm0uY2FtcGFpZ25zIGMgT04gYy5pZCA9IG8uY2FtcGFpZ25faWQKICAgICAgICAgSk9JTiBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jYW1wYWlnbl9jYXRlZ29yaWVzIGNhdHMgT04gYy5jYW1wYWlnbl9jYXRlZ29yeV9pZCA9IGNhdHMuaWQKV0hFUkUgY2F0cy5rZXkgPSAnc3dpdGNoJwogIEFORCBvLm1lbWJlcl9pZCA9ICcxNzAwMzQwOTgnCiAgQU5EIGMudmlzaWJsZV9zdGF0ZSA9IDI7CgotLSBzdGVwIDI6IGdldCB0aGF0IG1lbWJlcidzIGVsaWdpYmlsaXRpZXM6ClNFTEVDVCBzdWJzY3JpYmVyX2lkZW50aWZpZXIsCiAgICAgICBjb21iaW5lZF9tZW1iZXJfaWQsCiAgICAgICBwcm9kdWN0X2lkZW50aWZpZXIsCiAgICAgICBwZXJzb25fdHlwZV9jb2RlLAogICAgICAgbWVtYmVyX3N1ZmZpeF9pZGVudGlmaWVyLAogICAgICAgdXBkYXRlZF9hdApGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmVsaWdpYmlsaXRpZXMKV0hFUkUgZWxpZ2liaWxpdGllcy5zdWJzY3JpYmVyX2lkZW50aWZpZXIgPSAnMTcwMDM0MDk4JwogIEFORCBwcm9kdWN0X2NhdGVnb3J5X2NvZGUgPSAnUicKICBBTkQgcGVyc29uX3R5cGVfY29kZSAhPSAnQVNPQScKT1JERVIgQlkgdXBkYXRlZF9hdCBERVNDCkxJTUlUIDE7CgotLSBzdGVwIDM6IGdldCB0aGF0IG1lbWJlcidzIGNsYWltcyBmb3IgdGhlIHBhc3QgeWVhcjoKU0VMRUNUIGNsYWltcy5wbGFuX21lbWJlcl9pZGVudGlmaWVyLAogICAgICAgY2xhaW1zLnN1YnNjcmliZXJfaWRlbnRpZmllciwKICAgICAgIGNsYWltcy5iZW5lZml0X2NvZGUsCiAgICAgICBjbGFpbXMucHJlc2NyaXB0aW9uX3F1YW50aXR5LAogICAgICAgY2xhaW1zLmFsbG93ZWRfY29zdCwKICAgICAgIGNsYWltcy5kYXlzX3N1cHBseV9jb3VudCwKICAgICAgIGNsYWltcy5kYXRlX2ZpbGxlZCwKICAgICAgIGNsYWltcy5yeG5jdWksCiAgICAgICBjbGFpbXMuYWRqdXN0bWVudF9kZWxldGVfY29kZQpGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmNsYWltcwpXSEVSRSBjbGFpbXMuc3Vic2NyaWJlcl9pZGVudGlmaWVyID0gJzE3MDAzNDA5OCcKICBBTkQgY2xhaW1zLmRhdGVfZmlsbGVkID4gY3VycmVudF9kYXRlIC0gSU5URVJWQUwgJzEgeWVhcic7</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text>JOIN ffruyjgpaadoolcodrfm.crossserve_member_latest_elig elig
               ON elig.subscriber_identifier = claims.plan_member_identifier</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgSU4K</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>(
       SELECT DISTINCT combined_member_id
         FROM {{ params.crossserve_schema }}.crossserve_campaign_oppos
         WHERE combined_member_id IS NOT NULL
     )</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBBTkQgby5vcmdhbml6YXRpb25faWQgSU4gKHt7IHBhcmFtcy5vcmdfaWRzIH19KQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX3Jlc3VsdHMgb3duZXIgdG8gInU4U3h2NFNkeGhISWtNNzRGeWRweHRRIjsK</text>
-      </register>
       <register name="9" type="2">
-        <text>WITH campaign_cheapest_alts AS (
-    SELECT t.id AS treatment_id,
-           cts.campaign_id,
-           t.primary_name,
-           t.cost,
-           rank() OVER (
-               PARTITION BY cts.campaign_id
-               ORDER BY cost
-               ) AS rank
-    FROM ffruyjgpaadoolcodrfm.treatments t
-             JOIN ffruyjgpaadoolcodrfm.campaign_treatments cts ON t.id = cts.treatment_id
-             JOIN ffruyjgpaadoolcodrfm.campaigns c ON c.id = cts.campaign_id
-             JOIN ffruyjgpaadoolcodrfm.campaign_categories cats ON c.campaign_category_id = cats.id
---              JOIN crossserve.crossserve_campaign_oppos cco ON cco.campaign_id = c.id
-    WHERE cts.treatment_type = 1
-      AND c.visible_state = 2
-      AND cats.key = 'switch'
-    and c.id in ( select distinct campaign_id from crossserve.crossserve_campaign_oppos)
-    )
-SELECT treatment_id AS alt_treatment_id,
-       campaign_id,
-       primary_name AS alt_treatment,
-       cost AS alt_cost
-FROM campaign_cheapest_alts
-WHERE rank = 1;</text>
+        <text encoding="base64">ICBBTkQgby5vcmdhbml6YXRpb25faWQgSU4gKHt7IHBhcmFtcy5vcmdfaWRzIH19KQo=</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

@@ -53,13 +53,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/eligibilities_current [PG_LOCALHOST]" timestamp="1590777704329">
+      <file name="/Dummy.txt" timestamp="1590778571980">
+        <mark key="i" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590777978387">
-        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="/Regence_F6_2017_ACA [PG_LOCALHOST]" timestamp="1590777704350">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Regence_F6_2017_ACA [REPORTING_TUNNEL]" timestamp="1590778237509">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/formulary_lines_1 [PG_LOCALHOST]" timestamp="1590778004494">
@@ -70,6 +73,12 @@
       </file>
       <file name="/xcom [PG_LOCALHOST]" timestamp="1590777704347">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_58.sql" timestamp="1590778630403">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="16" />
       </file>
       <file name="/eligibility_extract_current [PG_LOCALHOST]" timestamp="1590777704344">
         <mark key="[" line="0" column="0" />
@@ -83,38 +92,32 @@
       <file name="/frodo_tailfeathers.public.formulary_lines_1" timestamp="1590778004506">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_57" timestamp="1590521717993">
+      <file name="/console_58" timestamp="1590778325303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/frodo_tailfeathers.tmp.eligibilities_current" timestamp="1590777704336">
+      <file name="/a.sql" timestamp="1590778609411">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1590777834563">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1590778004518">
+      <file name="/foo.bar" timestamp="1590778237515">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/frodo_tailfeathers.tmp.eligibility_extract_current" timestamp="1590777704346">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_74.sql" timestamp="1590523538291">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="14" />
-        <mark key="." line="1" column="14" />
-        <mark key="^" line="0" column="43" />
-      </file>
       <file name="/airflow_metadata.public.xcom" timestamp="1590777704348">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/default" timestamp="1590777865362">
+      <file name="/default" timestamp="1590778366746">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.tmp.Regence_F6_2017_ACA" timestamp="1590778237514">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_74" timestamp="1590777704470">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1590706645889">
-        <mark key="[" line="0" column="1" />
+      <file name="/dummy.sql" timestamp="1590778568826">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -223,10 +226,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>(pg_get_serial_sequence('tmp.eligibility_extract_current', 'id'));</text>
+        <text>Pro</text>
       </register>
       <register name="-" type="4">
-        <text>(pg_get_serial_sequence('tmp.eligibility_extract_current', 'id'));</text>
+        <text>Pro</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>

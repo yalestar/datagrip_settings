@@ -53,6 +53,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_75.sql" timestamp="1590784009331">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="46" />
+      </file>
       <file name="/Dummy.txt" timestamp="1590778571980">
         <mark key="i" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -62,7 +68,7 @@
       <file name="/Regence_F6_2017_ACA [PG_LOCALHOST]" timestamp="1590777704350">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Regence_F6_2017_ACA [REPORTING_TUNNEL]" timestamp="1590778237509">
+      <file name="/Regence_F6_2017_ACA [REPORTING_TUNNEL]" timestamp="1590783990848">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/formulary_lines_1 [PG_LOCALHOST]" timestamp="1590778004494">
@@ -71,17 +77,11 @@
       <file name="/frodo_tailfeathers.tmp.Regence_F6_2017_ACA" timestamp="1590777704351">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/xcom [PG_LOCALHOST]" timestamp="1590777704347">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_58.sql" timestamp="1590778630403">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="16" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="16" />
-      </file>
-      <file name="/eligibility_extract_current [PG_LOCALHOST]" timestamp="1590777704344">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_58.sql" timestamp="1590783921706">
+        <mark key="[" line="2" column="67" />
+        <mark key="]" line="4" column="62" />
+        <mark key="^" line="4" column="62" />
+        <mark key="." line="4" column="61" />
       </file>
       <file name="/frodo_tailfeathers.public.formulary_lines" timestamp="1590777963367">
         <mark key="[" line="0" column="0" />
@@ -92,16 +92,13 @@
       <file name="/frodo_tailfeathers.public.formulary_lines_1" timestamp="1590778004506">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_58" timestamp="1590778325303">
+      <file name="/console_58" timestamp="1590783990904">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1590778609411">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1590778237515">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/frodo_tailfeathers.tmp.eligibility_extract_current" timestamp="1590777704346">
+      <file name="/foo.bar" timestamp="1590783990854">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/airflow_metadata.public.xcom" timestamp="1590777704348">
@@ -110,13 +107,19 @@
       <file name="/default" timestamp="1590778366746">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.tmp.Regence_F6_2017_ACA" timestamp="1590778237514">
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.tmp.Regence_F6_2017_ACA" timestamp="1590783990853">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_74" timestamp="1590777704470">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/console_75" timestamp="1590784001525">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1590778568826">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dumpDataPreview" timestamp="1590784297335">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -226,10 +229,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Pro</text>
+        <text>formulary_tier</text>
       </register>
       <register name="-" type="4">
-        <text>Pro</text>
+        <text>formulary_tier</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>

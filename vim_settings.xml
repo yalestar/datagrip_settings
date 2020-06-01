@@ -60,7 +60,7 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="10" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590794931312">
+      <file name="/Dummy.txt" timestamp="1591052568776">
         <mark key="i" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -84,7 +84,7 @@
       <file name="/console_58" timestamp="1590791403359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1591044679956">
+      <file name="/a.sql" timestamp="1591052549013">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1591050845414">
@@ -99,13 +99,13 @@
       <file name="/frodo_tailfeathers.public.eliduke" timestamp="1591050845408">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_76.sql" timestamp="1591051132375">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="5" column="28" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_76.sql" timestamp="1591052655359">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
         <mark key="^" line="5" column="28" />
-        <mark key="." line="5" column="27" />
+        <mark key="." line="2" column="7" />
       </file>
-      <file name="/default" timestamp="1591040735024">
+      <file name="/default" timestamp="1591052552184">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.tmp.Regence_F6_2017_ACA" timestamp="1590791403297">
@@ -233,10 +233,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGlzdGluY3QoaW1wb3J0X3R5cGUpIA==</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGlzdGluY3QoaW1wb3J0X3R5cGUpIA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>

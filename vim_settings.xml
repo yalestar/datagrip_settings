@@ -53,41 +53,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_59.sql" timestamp="1591127280198">
-        <mark key="[" line="14" column="87" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="12" column="14" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1591056713420">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/frodo_tailfeathers.tmp.eligibility_extract_current" timestamp="1591050845413">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_76.sql" timestamp="1591052655359">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="5" column="28" />
-        <mark key="." line="2" column="7" />
-      </file>
-      <file name="/default" timestamp="1591052552184">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/frodo_tailfeathers.public.elig_extract_current" timestamp="1591116709713">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_products" timestamp="1591126600080">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591052568776">
+      <file name="/Dummy.txt" timestamp="1591131040716">
         <mark key="i" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_77.sql" timestamp="1591124767204">
-        <mark key="[" line="8" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_59.sql" timestamp="1591131894358">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="4" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_77.sql" timestamp="1591131063707">
+        <mark key="[" line="11" column="56" />
         <mark key="]" line="6" column="6" />
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="5" />
@@ -95,40 +74,56 @@
       <file name="/frodo_tailfeathers.public.dooki" timestamp="1591055171420">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/campaign_clinical_lists [REPORTING_TUNNEL]" timestamp="1591126585399">
+      <file name="/campaign_clinical_lists [REPORTING_TUNNEL]" timestamp="1591130143612">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/campaign_products [REPORTING_TUNNEL]" timestamp="1591126600064">
+      <file name="/campaign_products [REPORTING_TUNNEL]" timestamp="1591130143621">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/little_frodo.tmp.campaign_treatments_ndcs_20190826" timestamp="1591131052298">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dooki [PG_LOCALHOST]" timestamp="1591055171395">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1591126600098">
+      <file name="/a.sql" timestamp="1591056713420">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_59" timestamp="1591125829680">
+      <file name="/foo.bar" timestamp="1591131052312">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/elig_extract_current [PG_LOCALHOST]" timestamp="1591116709708">
+      <file name="/console_59" timestamp="1591130143919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_clinical_lists" timestamp="1591126585413">
+      <file name="/campaign_treatments_ndcs_20190826 [PG_LOCALHOST]" timestamp="1591131052280">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_75" timestamp="1591050845500">
+      <file name="/default" timestamp="1591131047755">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_76" timestamp="1591050867547">
+      <file name="/frodo_tailfeathers.public.elig_extract_current" timestamp="1591130143601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_77" timestamp="1591116846848">
+      <file name="/elig_extract_current [PG_LOCALHOST]" timestamp="1591130143591">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_clinical_lists" timestamp="1591130143616">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_products" timestamp="1591130143624">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1591131042982">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="/dumpDataPreview" timestamp="1591131983539">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_77" timestamp="1591130143704">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="6" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
-      <jump line="16" column="38" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="181" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_14.sql" />
       <jump line="119" column="6" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="0" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_14.sql" />
@@ -227,15 +222,17 @@
       <jump line="19" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_72.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_75.sql" />
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_75.sql" />
+      <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_59.sql" />
+      <jump line="13" column="100" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_59.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFORCBjbGwuY29kaW5nX3R5cGUgPSAnTkRDJzsK</text>
+        <text encoding="base64">ICAgICAgIHQuY2xpbmljYWxfbGlzdF9pZCwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGVmdCA=</text>
+        <text>coding_string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -244,32 +241,35 @@
         <text encoding="base64">c2VsZWN0IGRpc3RpbmN0KGltcG9ydF90eXBlKSBmcm9tIGZmcnV5amdwYWFkb29sY29kcmZtLmltcG9ydF9sb2FkczsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFORCBjbGwuY29kaW5nX3R5cGUgPSAnTkRDJzsK</text>
+        <text encoding="base64">ICAgICAgIHQuY2xpbmljYWxfbGlzdF9pZCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIE9OIHQuY2xpbmljYWxfbGlzdF9pZCA9IGNsbC5jbGluaWNhbF9saXN0X2lkIEFORCBjbGwuY29kaW5nX3R5cGUgPSAnTkRDJzsK</text>
       </register>
       <register name="3" type="2">
-        <text>WHERE ct.treatment_id = 178</text>
+        <text encoding="base64">ICAgICAgICAgTEVGVCBKT0lOIGNsaW5pY2FsX2xpc3RfbGluZXMgY2xsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RlJPTSB0bXAuIlJlZ2VuY2VfRjZfMjAxN19BQ0EiCldIRVJFICJGb3JtdWxhcnkgVGllciIgSU4gKDUsIDYpOwo=</text>
+        <text encoding="base64">U0VMRUNUIGNvdW50KERJU1RJTkNUIGNhbXBhaWduX2lkKQpGUk9NICgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">U0VMRUNUIGNvdW50KERJU1RJTkNUIGNhbXBhaWduX2lkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUIGMuaWQsIGMudGl0bGUKRlJPTSBmZnJ1eWpncGFhZG9vbGNvZHJmbS5vcHBvcnR1bml0aWVzIG8KICAgICAgICAgSk9JTiBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jYW1wYWlnbnMgYyBPTiBvLmNhbXBhaWduX2lkID0gYy5pZApXSEVSRSBvLm1lbWJlcl9pZCA9ICcxNzAwMzQwOTgnOwoKClNFTEVDVCBvLmlkIEFTIG9wcF9pZCwKICAgICAgIG8ub3JnYW5pemF0aW9uX2lkIEFTIG9yZ19pZCwKICAgICAgIG8ubWVtYmVyX2lkLAogICAgICAgby5jb21iaW5lZF9tZW1iZXJfaWQsCiAgICAgICBjLmlkIEFTICJjYW1wYWlnbl9pZCIsCiAgICAgICBjLm5hbWUsCiAgICAgICBjLmNhbXBhaWduX3R5cGUsCiAgICAgICBjLnRpdGxlCkZST00gZmZydXlqZ3BhYWRvb2xjb2RyZm0ub3Bwb3J0dW5pdGllcyBvCiAgICAgICAgIEpPSU4gZmZydXlqZ3BhYWRvb2xjb2RyZm0uY2FtcGFpZ25zIGMgT04gYy5pZCA9IG8uY2FtcGFpZ25faWQKICAgICAgICAgSk9JTiBmZnJ1eWpncGFhZG9vbGNvZHJmbS5jYW1wYWlnbl9jYXRlZ29yaWVzIGNhdHMgT04gYy5jYW1wYWlnbl9jYXRlZ29yeV9pZCA9IGNhdHMuaWQKV0hFUkUgY2F0cy5rZXkgPSAnc3dpdGNoJwogIEFORCBvLm1lbWJlcl9pZCA9ICcxNzAwMzQwOTgnCiAgQU5EIGMudmlzaWJsZV9zdGF0ZSA9IDI7CgotLSBzdGVwIDI6IGdldCB0aGF0IG1lbWJlcidzIGVsaWdpYmlsaXRpZXM6ClNFTEVDVCBzdWJzY3JpYmVyX2lkZW50aWZpZXIsCiAgICAgICBjb21iaW5lZF9tZW1iZXJfaWQsCiAgICAgICBwcm9kdWN0X2lkZW50aWZpZXIsCiAgICAgICBwZXJzb25fdHlwZV9jb2RlLAogICAgICAgbWVtYmVyX3N1ZmZpeF9pZGVudGlmaWVyLAogICAgICAgdXBkYXRlZF9hdApGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmVsaWdpYmlsaXRpZXMKV0hFUkUgZWxpZ2liaWxpdGllcy5zdWJzY3JpYmVyX2lkZW50aWZpZXIgPSAnMTcwMDM0MDk4JwogIEFORCBwcm9kdWN0X2NhdGVnb3J5X2NvZGUgPSAnUicKICBBTkQgcGVyc29uX3R5cGVfY29kZSAhPSAnQVNPQScKT1JERVIgQlkgdXBkYXRlZF9hdCBERVNDCkxJTUlUIDE7CgotLSBzdGVwIDM6IGdldCB0aGF0IG1lbWJlcidzIGNsYWltcyBmb3IgdGhlIHBhc3QgeWVhcjoKU0VMRUNUIGNsYWltcy5wbGFuX21lbWJlcl9pZGVudGlmaWVyLAogICAgICAgY2xhaW1zLnN1YnNjcmliZXJfaWRlbnRpZmllciwKICAgICAgIGNsYWltcy5iZW5lZml0X2NvZGUsCiAgICAgICBjbGFpbXMucHJlc2NyaXB0aW9uX3F1YW50aXR5LAogICAgICAgY2xhaW1zLmFsbG93ZWRfY29zdCwKICAgICAgIGNsYWltcy5kYXlzX3N1cHBseV9jb3VudCwKICAgICAgIGNsYWltcy5kYXRlX2ZpbGxlZCwKICAgICAgIGNsYWltcy5yeG5jdWksCiAgICAgICBjbGFpbXMuYWRqdXN0bWVudF9kZWxldGVfY29kZQpGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmNsYWltcwpXSEVSRSBjbGFpbXMuc3Vic2NyaWJlcl9pZGVudGlmaWVyID0gJzE3MDAzNDA5OCcKICBBTkQgY2xhaW1zLmRhdGVfZmlsbGVkID4gY3VycmVudF9kYXRlIC0gSU5URVJWQUwgJzEgeWVhcic7</text>
+        <text encoding="base64">ClNFTEVDVCAqCkZST00gY2xpbmljYWxfbGlzdF9saW5lcwpXSEVSRSBjb2RpbmdfdHlwZSA9ICdOREMnCkxJTUlUIDEwMDsKClNFTEVDVCBESVNUSU5DVCBjb2RpbmdfdHlwZQpGUk9NIGNsaW5pY2FsX2xpc3RfbGluZXM7ClNFTEVDVCAqCkZST00gY2xpbmljYWxfbGlzdF9uZGNzCkxJTUlUIDEwMDsKClNFTEVDVCAqCkZST00gdHJlYXRtZW50cwpXSEVSRSBpZCA9IDE3ODsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUICoKRlJPTSBjbGluaWNhbF9saXN0cwpXSEVSRSBpZCA9IDE1MDsK</text>
       </register>
       <register name="8" type="2">
-        <text>JOIN ffruyjgpaadoolcodrfm.crossserve_member_latest_elig elig
-              ON elig.subscriber_identifier = claims.plan_member_identifier</text>
+        <text>SELECT *
+FROM campaigns
+WHERE id = 3;
+
+select count(*) from clinical_list_lines ;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEFORCBjbGwuY29kaW5nX3R5cGUgPSAnTkRDJzsK</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

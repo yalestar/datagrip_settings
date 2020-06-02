@@ -62,13 +62,13 @@
       <file name="/little_frodo.tmp.campaign_treatments_ndcs_20190826" timestamp="1591131052298">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1591056713420">
+      <file name="/a.sql" timestamp="1591138399115">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_79.sql" timestamp="1591135726266">
+        <mark key="^" line="7" column="24" />
       </file>
       <file name="/default" timestamp="1591131047755">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/frodo_tailfeathers.public.elig_extract_current" timestamp="1591130143601">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_products" timestamp="1591130143624">
@@ -101,6 +101,9 @@
       <file name="/console_78" timestamp="1591135540524">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/console_79" timestamp="1591135693417">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/foo.bar" timestamp="1591131052312">
         <mark key="[" line="0" column="0" />
       </file>
@@ -110,11 +113,11 @@
       <file name="/campaign_treatments_ndcs_20190826 [PG_LOCALHOST]" timestamp="1591131052280">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_78.sql" timestamp="1591135545948">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_78.sql" timestamp="1591135592131">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/elig_extract_current [PG_LOCALHOST]" timestamp="1591130143591">
-        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="/dbCFWtjpVt2TwKs88iQeB01w.ffruyjgpaadoolcodrfm.campaign_clinical_lists" timestamp="1591130143616">
         <mark key="[" line="0" column="0" />
@@ -228,11 +231,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIHQuY2xpbmljYWxfbGlzdF9pZCwK</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>coding_string</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>

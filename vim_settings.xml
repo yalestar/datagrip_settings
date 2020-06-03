@@ -95,11 +95,11 @@
       <file name="/console_59" timestamp="1591130143919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_79.sql" timestamp="1591141546981">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="49" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_79.sql" timestamp="1591223903922">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="7" />
         <mark key="^" line="2" column="49" />
-        <mark key="." line="2" column="48" />
+        <mark key="." line="8" column="7" />
       </file>
       <file name="/campaign_treatments_ndcs_20190826 [PG_LOCALHOST]" timestamp="1591131052280">
         <mark key="[" line="0" column="0" />

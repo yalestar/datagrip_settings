@@ -116,7 +116,7 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_80.sql" timestamp="1591308366800">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_80.sql" timestamp="1591309566295">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="1" column="55" />
@@ -238,10 +238,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>dinka_tribesman</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>dinka_tribesman</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>

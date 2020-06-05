@@ -77,11 +77,11 @@
       <file name="/dinka_tribesman [PG_LOCALHOST]" timestamp="1591381197282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_81.sql" timestamp="1591389560492">
-        <mark key="[" line="11" column="50" />
-        <mark key="]" line="11" column="61" />
-        <mark key="^" line="11" column="61" />
-        <mark key="." line="11" column="60" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_81.sql" timestamp="1591393490560">
+        <mark key="[" line="13" column="62" />
+        <mark key="]" line="13" column="63" />
+        <mark key="^" line="13" column="63" />
+        <mark key="." line="13" column="62" />
       </file>
       <file name="/frodo_tailfeathers.crossserve.treatments_frequencies_cuis" timestamp="1591383285665">
         <mark key="[" line="0" column="0" />
@@ -92,7 +92,7 @@
       <file name="/console_79" timestamp="1591381197442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1591314039326">
+      <file name="/a.sql" timestamp="1591389626219">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1591383285678">
@@ -102,6 +102,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_81" timestamp="1591381558373">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/default" timestamp="1591389627732">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/treatments_frequencies_cuis [PG_LOCALHOST]" timestamp="1591383285652">
@@ -117,9 +120,6 @@
         <mark key="." line="0" column="13" />
       </file>
       <file name="/frodo_tailfeathers.public.premade_table" timestamp="1591381197291">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1591308313879">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -229,10 +229,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZWxpZyA=</text>
+        <text>, results.elig_type,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWxpZyA=</text>
+        <text>, results.elig_type,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>

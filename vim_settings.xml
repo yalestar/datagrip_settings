@@ -77,11 +77,11 @@
       <file name="/dinka_tribesman [PG_LOCALHOST]" timestamp="1591381197282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_81.sql" timestamp="1591383728689">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="5" column="54" />
-        <mark key="." line="7" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_81.sql" timestamp="1591384340796">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="54" />
+        <mark key="^" line="9" column="54" />
+        <mark key="." line="9" column="53" />
       </file>
       <file name="/frodo_tailfeathers.crossserve.treatments_frequencies_cuis" timestamp="1591383285665">
         <mark key="[" line="0" column="0" />
@@ -228,17 +228,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>-- fill frequency from treatments_frequencies_cuis but join on what?</text>
+      <register name="&quot;" type="4">
+        <text>crossserve_results</text>
       </register>
       <register name="-" type="4">
-        <text>dinka_tribesman</text>
+        <text>crossserve_results</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGRpc3RpbmN0KGltcG9ydF90eXBlKSBmcm9tIGZmcnV5amdwYWFkb29sY29kcmZtLmltcG9ydF9sb2FkczsK</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX3Jlc3VsdHMgOwo=</text>
       </register>
       <register name="1" type="2">
         <text>-- fill frequency from treatments_frequencies_cuis but join on what?</text>

@@ -68,12 +68,12 @@
       <file name="/console_80" timestamp="1591381197505">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_81.sql" timestamp="1591825302821">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_81.sql" timestamp="1591830845969">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="56" />
-        <mark key="]" line="7" column="57" />
-        <mark key="." line="7" column="57" />
-        <mark key="^" line="7" column="59" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="15" />
       </file>
       <file name="/frodo_tailfeathers.crossserve.treatments_frequencies_cuis" timestamp="1591811101458">
         <mark key="[" line="0" column="0" />
@@ -226,34 +226,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>SELECT count(*)
-FROM crossserve.crossserve_member_elig
-WHERE user_id IS NOT NULL;
-
--- ADD campaign_id', 'user_id', 'fill_frequency'
--- all the normal fields from crossserve_results table
--- user_id from crossserve_member_elig
-
-select count(*) from crossserve.crossserve_results ;
-select  * from crossserve.crossserve_results ;
-select count(*) from crossserve.crossserve_member_elig ;
-select count(*) from crossserve.crossserve_member_latest_elig;
-
-SELECT results.id, results.campaign_id, results.fill_frequency,
-       elig.user_id
-FROM crossserve.crossserve_results results
-         JOIN crossserve.crossserve_member_latest_elig elig
-on elig.combined_member_id = concat(results.member_id, results.suffix)</text>
+      <register name="&quot;" type="4">
+        <text>from</text>
       </register>
       <register name="-" type="4">
-        <text>, results.elig_type,</text>
+        <text>from</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX21lbWJlcl9lbGlnIDsK</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVwb3J0aW5nLmVsaWdpYmlsaXR5X2V4dHJhY3RzX2N1cnJlbnQgOwo=</text>
       </register>
       <register name="1" type="2">
         <text>SELECT count(*)

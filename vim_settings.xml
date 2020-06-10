@@ -53,27 +53,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/console_80" timestamp="1591381197505">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/frodo_tailfeathers.crossserve.crossserve_results_internal" timestamp="1591400457567">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1591394758140">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/premade_table [PG_LOCALHOST]" timestamp="1591381197290">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_81" timestamp="1591381558373">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/default" timestamp="1591389627732">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/crossserve_results_internal [PG_LOCALHOST]" timestamp="1591400457554">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/frodo_tailfeathers.reporting.eligibility_extracts_currant" timestamp="1591381197293">
         <mark key="[" line="0" column="0" />
       </file>
@@ -83,19 +62,24 @@
       <file name="/frodo_tailfeathers.public.dinka_tribesman" timestamp="1591381197287">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/crossserve_member_elig [PG_LOCALHOST]" timestamp="1591382644440">
+      <file name="/crossserve_member_elig [PG_LOCALHOST]" timestamp="1591811101459">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_80" timestamp="1591381197505">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dinka_tribesman [PG_LOCALHOST]" timestamp="1591381197282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_81.sql" timestamp="1591400446191">
-        <mark key="[" line="13" column="62" />
-        <mark key="]" line="13" column="63" />
-        <mark key="^" line="13" column="63" />
-        <mark key="." line="13" column="62" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_81.sql" timestamp="1591811123611">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="/frodo_tailfeathers.crossserve.treatments_frequencies_cuis" timestamp="1591383285665">
+      <file name="/frodo_tailfeathers.crossserve.treatments_frequencies_cuis" timestamp="1591811101458">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/frodo_tailfeathers.crossserve.crossserve_results_internal" timestamp="1591811101454">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_78" timestamp="1591381197329">
@@ -104,16 +88,31 @@
       <file name="/console_79" timestamp="1591381197442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1591400457577">
+      <file name="/a.sql" timestamp="1591394758140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/treatments_frequencies_cuis [PG_LOCALHOST]" timestamp="1591383285652">
+      <file name="/foo.bar" timestamp="1591811101461">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/frodo_tailfeathers.crossserve.crossserve_member_elig" timestamp="1591382644458">
+      <file name="/premade_table [PG_LOCALHOST]" timestamp="1591381197290">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_81" timestamp="1591811101503">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/default" timestamp="1591389627732">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/treatments_frequencies_cuis [PG_LOCALHOST]" timestamp="1591811101456">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/frodo_tailfeathers.crossserve.crossserve_member_elig" timestamp="1591811101460">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/frodo_tailfeathers.public.premade_table" timestamp="1591381197291">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/crossserve_results_internal [PG_LOCALHOST]" timestamp="1591811101449">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -222,8 +221,25 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>, results.elig_type,</text>
+      <register name="&quot;" type="2">
+        <text>SELECT count(*)
+FROM crossserve.crossserve_member_elig
+WHERE user_id IS NOT NULL;
+
+-- ADD campaign_id', 'user_id', 'fill_frequency'
+-- all the normal fields from crossserve_results table
+-- user_id from crossserve_member_elig
+
+select count(*) from crossserve.crossserve_results ;
+select  * from crossserve.crossserve_results ;
+select count(*) from crossserve.crossserve_member_elig ;
+select count(*) from crossserve.crossserve_member_latest_elig;
+
+SELECT results.id, results.campaign_id, results.fill_frequency,
+       elig.user_id
+FROM crossserve.crossserve_results results
+         JOIN crossserve.crossserve_member_latest_elig elig
+on elig.combined_member_id = concat(results.member_id, results.suffix)</text>
       </register>
       <register name="-" type="4">
         <text>, results.elig_type,</text>
@@ -235,35 +251,48 @@
         <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gY3Jvc3NzZXJ2ZS5jcm9zc3NlcnZlX21lbWJlcl9lbGlnIDsK</text>
       </register>
       <register name="1" type="2">
-        <text>-- fill frequency from treatments_frequencies_cuis but join on what?</text>
+        <text>SELECT count(*)
+FROM crossserve.crossserve_member_elig
+WHERE user_id IS NOT NULL;
+
+-- ADD campaign_id', 'user_id', 'fill_frequency'
+-- all the normal fields from crossserve_results table
+-- user_id from crossserve_member_elig
+
+select count(*) from crossserve.crossserve_results ;
+select  * from crossserve.crossserve_results ;
+select count(*) from crossserve.crossserve_member_elig ;
+select count(*) from crossserve.crossserve_member_latest_elig;
+
+SELECT results.id, results.campaign_id, results.fill_frequency,
+       elig.user_id
+FROM crossserve.crossserve_results results
+         JOIN crossserve.crossserve_member_latest_elig elig
+on elig.combined_member_id = concat(results.member_id, results.suffix)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIHQuY2xpbmljYWxfbGlzdF9pZCwK</text>
+        <text>-- fill frequency from treatments_frequencies_cuis but join on what?</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIE9OIHQuY2xpbmljYWxfbGlzdF9pZCA9IGNsbC5jbGluaWNhbF9saXN0X2lkIEFORCBjbGwuY29kaW5nX3R5cGUgPSAnTkRDJzsK</text>
+        <text encoding="base64">ICAgICAgIHQuY2xpbmljYWxfbGlzdF9pZCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgTEVGVCBKT0lOIGNsaW5pY2FsX2xpc3RfbGluZXMgY2xsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIE9OIHQuY2xpbmljYWxfbGlzdF9pZCA9IGNsbC5jbGluaWNhbF9saXN0X2lkIEFORCBjbGwuY29kaW5nX3R5cGUgPSAnTkRDJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VMRUNUIGNvdW50KERJU1RJTkNUIGNhbXBhaWduX2lkKQpGUk9NICgK</text>
+        <text encoding="base64">ICAgICAgICAgTEVGVCBKT0lOIGNsaW5pY2FsX2xpc3RfbGluZXMgY2xsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUIGNvdW50KERJU1RJTkNUIGNhbXBhaWduX2lkKQo=</text>
+        <text encoding="base64">U0VMRUNUIGNvdW50KERJU1RJTkNUIGNhbXBhaWduX2lkKQpGUk9NICgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ClNFTEVDVCAqCkZST00gY2xpbmljYWxfbGlzdF9saW5lcwpXSEVSRSBjb2RpbmdfdHlwZSA9ICdOREMnCkxJTUlUIDEwMDsKClNFTEVDVCBESVNUSU5DVCBjb2RpbmdfdHlwZQpGUk9NIGNsaW5pY2FsX2xpc3RfbGluZXM7ClNFTEVDVCAqCkZST00gY2xpbmljYWxfbGlzdF9uZGNzCkxJTUlUIDEwMDsKClNFTEVDVCAqCkZST00gdHJlYXRtZW50cwpXSEVSRSBpZCA9IDE3ODsK</text>
+        <text encoding="base64">U0VMRUNUIGNvdW50KERJU1RJTkNUIGNhbXBhaWduX2lkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSBjbGluaWNhbF9saXN0cwpXSEVSRSBpZCA9IDE1MDsK</text>
+        <text encoding="base64">ClNFTEVDVCAqCkZST00gY2xpbmljYWxfbGlzdF9saW5lcwpXSEVSRSBjb2RpbmdfdHlwZSA9ICdOREMnCkxJTUlUIDEwMDsKClNFTEVDVCBESVNUSU5DVCBjb2RpbmdfdHlwZQpGUk9NIGNsaW5pY2FsX2xpc3RfbGluZXM7ClNFTEVDVCAqCkZST00gY2xpbmljYWxfbGlzdF9uZGNzCkxJTUlUIDEwMDsKClNFTEVDVCAqCkZST00gdHJlYXRtZW50cwpXSEVSRSBpZCA9IDE3ODsK</text>
       </register>
       <register name="9" type="2">
-        <text>SELECT *
-FROM campaigns
-WHERE id = 3;
-
-select count(*) from clinical_list_lines ;</text>
+        <text encoding="base64">U0VMRUNUICoKRlJPTSBjbGluaWNhbF9saXN0cwpXSEVSRSBpZCA9IDE1MDsK</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

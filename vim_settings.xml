@@ -114,11 +114,11 @@
       <file name="/eligibility_extracts_current [PG_LOCALHOST]" timestamp="1591833142517">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_82.sql" timestamp="1591833147759">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="0" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_82.sql" timestamp="1591850801763">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
         <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="17" />
+        <mark key="." line="12" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -226,8 +226,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>from</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LS0gZGVsZXRlIGZyb20gcHVibGljLmRhZyB3aGVyZSBkYWdfaWQgPSAnZWxpZ2liaWxpdGllc19pbXBvcnRlcic7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>from</text>
@@ -239,6 +239,9 @@
         <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVwb3J0aW5nLmVsaWdpYmlsaXR5X2V4dHJhY3RzX2N1cnJlbnQgOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">LS0gZGVsZXRlIGZyb20gcHVibGljLmRhZyB3aGVyZSBkYWdfaWQgPSAnZWxpZ2liaWxpdGllc19pbXBvcnRlcic7Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text>SELECT count(*)
 FROM crossserve.crossserve_member_elig
 WHERE user_id IS NOT NULL;
@@ -258,29 +261,26 @@ FROM crossserve.crossserve_results results
          JOIN crossserve.crossserve_member_latest_elig elig
 on elig.combined_member_id = concat(results.member_id, results.suffix)</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text>-- fill frequency from treatments_frequencies_cuis but join on what?</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgIHQuY2xpbmljYWxfbGlzdF9pZCwK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIE9OIHQuY2xpbmljYWxfbGlzdF9pZCA9IGNsbC5jbGluaWNhbF9saXN0X2lkIEFORCBjbGwuY29kaW5nX3R5cGUgPSAnTkRDJzsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgTEVGVCBKT0lOIGNsaW5pY2FsX2xpc3RfbGluZXMgY2xsCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">U0VMRUNUIGNvdW50KERJU1RJTkNUIGNhbXBhaWduX2lkKQpGUk9NICgK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">U0VMRUNUIGNvdW50KERJU1RJTkNUIGNhbXBhaWduX2lkKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ClNFTEVDVCAqCkZST00gY2xpbmljYWxfbGlzdF9saW5lcwpXSEVSRSBjb2RpbmdfdHlwZSA9ICdOREMnCkxJTUlUIDEwMDsKClNFTEVDVCBESVNUSU5DVCBjb2RpbmdfdHlwZQpGUk9NIGNsaW5pY2FsX2xpc3RfbGluZXM7ClNFTEVDVCAqCkZST00gY2xpbmljYWxfbGlzdF9uZGNzCkxJTUlUIDEwMDsKClNFTEVDVCAqCkZST00gdHJlYXRtZW50cwpXSEVSRSBpZCA9IDE3ODsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSBjbGluaWNhbF9saXN0cwpXSEVSRSBpZCA9IDE1MDsK</text>
+        <text encoding="base64">ClNFTEVDVCAqCkZST00gY2xpbmljYWxfbGlzdF9saW5lcwpXSEVSRSBjb2RpbmdfdHlwZSA9ICdOREMnCkxJTUlUIDEwMDsKClNFTEVDVCBESVNUSU5DVCBjb2RpbmdfdHlwZQpGUk9NIGNsaW5pY2FsX2xpc3RfbGluZXM7ClNFTEVDVCAqCkZST00gY2xpbmljYWxfbGlzdF9uZGNzCkxJTUlUIDEwMDsKClNFTEVDVCAqCkZST00gdHJlYXRtZW50cwpXSEVSRSBpZCA9IDE3ODsK</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

@@ -53,76 +53,71 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/frodo_tailfeathers.reporting.eligibility_extracts_currant" timestamp="1591919035582">
+      <file name="/task_fail [PG_LOCALHOST]" timestamp="1591990648888">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/eligibility_extracts_currant [PG_LOCALHOST]" timestamp="1591919035580">
+      <file name="/task_reschedule [PG_LOCALHOST]" timestamp="1591990708836">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/crossserve_member_elig [PG_LOCALHOST]" timestamp="1591811101459">
+      <file name="/dag_run [PG_LOCALHOST]" timestamp="1591990680409">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/frodo_tailfeathers.reporting.eligibility_extracts_current" timestamp="1591919035577">
+      <file name="/a.sql" timestamp="1591990719206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_80" timestamp="1591381197505">
+      <file name="/import_error [PG_LOCALHOST]" timestamp="1591990579555">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_81.sql" timestamp="1591854762548">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="15" column="4" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="4" />
-      </file>
-      <file name="/frodo_tailfeathers.crossserve.treatments_frequencies_cuis" timestamp="1591811101458">
+      <file name="/airflow_metadata.public.dag_pickle" timestamp="1591990577202">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/frodo_tailfeathers.crossserve.crossserve_results_internal" timestamp="1591811101454">
+      <file name="/default" timestamp="1591990628907">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_78" timestamp="1591381197329">
+      <file name="/dag [PG_LOCALHOST]" timestamp="1591990682699">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_79" timestamp="1591381197442">
+      <file name="/dag_pickle [PG_LOCALHOST]" timestamp="1591990577189">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1591825544034">
+      <file name="/airflow_metadata.public.task_instance" timestamp="1591990710702">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1591919035583">
+      <file name="/job [PG_LOCALHOST]" timestamp="1591990665777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_81" timestamp="1591919035644">
+      <file name="/airflow_metadata.public.task_reschedule" timestamp="1591990708848">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/default" timestamp="1591824485259">
+      <file name="/airflow_metadata.public.dag_run" timestamp="1591990680421">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/treatments_frequencies_cuis [PG_LOCALHOST]" timestamp="1591811101456">
+      <file name="/airflow_metadata.public.task_fail" timestamp="1591990648899">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_82" timestamp="1591919035768">
+      <file name="/foo.bar" timestamp="1591990710713">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/frodo_tailfeathers.crossserve.crossserve_member_elig" timestamp="1591811101460">
+      <file name="/airflow_metadata.public.dag" timestamp="1591990682710">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/crossserve_results_internal [PG_LOCALHOST]" timestamp="1591811101449">
+      <file name="/airflow_metadata.public.import_error" timestamp="1591990579567">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/eligibility_extracts_current [PG_LOCALHOST]" timestamp="1591919035572">
+      <file name="/airflow_metadata.public.job" timestamp="1591990665791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_82.sql" timestamp="1591850801763">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="12" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_82.sql" timestamp="1591991150458">
+        <mark key="'" line="7" column="23" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/task_instance [PG_LOCALHOST]" timestamp="1591990710691">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="6" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="0" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_14.sql" />
       <jump line="103" column="12" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="65" column="53" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
@@ -222,12 +217,13 @@
       <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_59.sql" />
       <jump line="13" column="100" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_59.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_81.sql" />
+      <jump line="9" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_82.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS0gZGVsZXRlIGZyb20gcHVibGljLmRhZyB3aGVyZSBkYWdfaWQgPSAnZWxpZ2liaWxpdGllc19pbXBvcnRlcic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>from</text>
@@ -239,9 +235,15 @@
         <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVwb3J0aW5nLmVsaWdpYmlsaXR5X2V4dHJhY3RzX2N1cnJlbnQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0gZGVsZXRlIGZyb20gcHVibGljLmRhZyB3aGVyZSBkYWdfaWQgPSAnZWxpZ2liaWxpdGllc19pbXBvcnRlcic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">LS0gc2VsZWN0ICogZnJvbSB4Y29tOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LS0gZGVsZXRlIGZyb20gcHVibGljLmRhZyB3aGVyZSBkYWdfaWQgPSAnZWxpZ2liaWxpdGllc19pbXBvcnRlcic7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text>SELECT count(*)
 FROM crossserve.crossserve_member_elig
 WHERE user_id IS NOT NULL;
@@ -261,26 +263,20 @@ FROM crossserve.crossserve_results results
          JOIN crossserve.crossserve_member_latest_elig elig
 on elig.combined_member_id = concat(results.member_id, results.suffix)</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text>-- fill frequency from treatments_frequencies_cuis but join on what?</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgIHQuY2xpbmljYWxfbGlzdF9pZCwK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIE9OIHQuY2xpbmljYWxfbGlzdF9pZCA9IGNsbC5jbGluaWNhbF9saXN0X2lkIEFORCBjbGwuY29kaW5nX3R5cGUgPSAnTkRDJzsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgTEVGVCBKT0lOIGNsaW5pY2FsX2xpc3RfbGluZXMgY2xsCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUIGNvdW50KERJU1RJTkNUIGNhbXBhaWduX2lkKQpGUk9NICgK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUIGNvdW50KERJU1RJTkNUIGNhbXBhaWduX2lkKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ClNFTEVDVCAqCkZST00gY2xpbmljYWxfbGlzdF9saW5lcwpXSEVSRSBjb2RpbmdfdHlwZSA9ICdOREMnCkxJTUlUIDEwMDsKClNFTEVDVCBESVNUSU5DVCBjb2RpbmdfdHlwZQpGUk9NIGNsaW5pY2FsX2xpc3RfbGluZXM7ClNFTEVDVCAqCkZST00gY2xpbmljYWxfbGlzdF9uZGNzCkxJTUlUIDEwMDsKClNFTEVDVCAqCkZST00gdHJlYXRtZW50cwpXSEVSRSBpZCA9IDE3ODsK</text>
+        <text encoding="base64">U0VMRUNUIGNvdW50KERJU1RJTkNUIGNhbXBhaWduX2lkKQpGUk9NICgK</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

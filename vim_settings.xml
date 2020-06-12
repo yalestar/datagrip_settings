@@ -62,13 +62,10 @@
       <file name="/dag_run [PG_LOCALHOST]" timestamp="1591990680409">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1591990719206">
+      <file name="/a.sql" timestamp="1591992652964">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/import_error [PG_LOCALHOST]" timestamp="1591990579555">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/airflow_metadata.public.dag_pickle" timestamp="1591990577202">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/default" timestamp="1591990628907">
@@ -77,10 +74,10 @@
       <file name="/dag [PG_LOCALHOST]" timestamp="1591990682699">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dag_pickle [PG_LOCALHOST]" timestamp="1591990577189">
+      <file name="/airflow_metadata.public.task_instance" timestamp="1591990710702">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/airflow_metadata.public.task_instance" timestamp="1591990710702">
+      <file name="/frodo_tailfeathers.treatment_cost_calculator.condition_rxncuis" timestamp="1591992757765">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/job [PG_LOCALHOST]" timestamp="1591990665777">
@@ -95,7 +92,7 @@
       <file name="/airflow_metadata.public.task_fail" timestamp="1591990648899">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1591990710713">
+      <file name="/foo.bar" timestamp="1591992757782">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/airflow_metadata.public.dag" timestamp="1591990682710">
@@ -107,11 +104,14 @@
       <file name="/airflow_metadata.public.job" timestamp="1591990665791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_82.sql" timestamp="1591991150458">
-        <mark key="'" line="7" column="23" />
+      <file name="/condition_rxncuis [PG_LOCALHOST]" timestamp="1591992757751">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_82.sql" timestamp="1591993165956">
+        <mark key="'" line="7" column="23" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/task_instance [PG_LOCALHOST]" timestamp="1591990710691">
         <mark key="[" line="0" column="0" />
@@ -223,7 +223,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gcHVibGljLnhjb20gd2hlcmUgZGFnX2lkID0gJyB0cmVhdG1lbnRfY29zdF9jYWxjdWxhdG9yJzsK</text>
       </register>
       <register name="-" type="4">
         <text>from</text>
@@ -235,15 +235,24 @@
         <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVwb3J0aW5nLmVsaWdpYmlsaXR5X2V4dHJhY3RzX2N1cnJlbnQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gcHVibGljLnhjb20gd2hlcmUgZGFnX2lkID0gJyB0cmVhdG1lbnRfY29zdF9jYWxjdWxhdG9yJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gc2VsZWN0ICogZnJvbSB4Y29tOwo=</text>
+        <text encoding="base64">LS0gdXBkYXRlIGRhZyBzZXQgaXNfcGF1c2VkID0gdHJ1ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0gZGVsZXRlIGZyb20gcHVibGljLmRhZyB3aGVyZSBkYWdfaWQgPSAnZWxpZ2liaWxpdGllc19pbXBvcnRlcic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LS0gc2VsZWN0ICogZnJvbSB4Y29tOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LS0gZGVsZXRlIGZyb20gcHVibGljLmRhZyB3aGVyZSBkYWdfaWQgPSAnZWxpZ2liaWxpdGllc19pbXBvcnRlcic7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text>SELECT count(*)
 FROM crossserve.crossserve_member_elig
 WHERE user_id IS NOT NULL;
@@ -263,20 +272,11 @@ FROM crossserve.crossserve_results results
          JOIN crossserve.crossserve_member_latest_elig elig
 on elig.combined_member_id = concat(results.member_id, results.suffix)</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text>-- fill frequency from treatments_frequencies_cuis but join on what?</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHQuY2xpbmljYWxfbGlzdF9pZCwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIE9OIHQuY2xpbmljYWxfbGlzdF9pZCA9IGNsbC5jbGluaWNhbF9saXN0X2lkIEFORCBjbGwuY29kaW5nX3R5cGUgPSAnTkRDJzsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgTEVGVCBKT0lOIGNsaW5pY2FsX2xpc3RfbGluZXMgY2xsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUIGNvdW50KERJU1RJTkNUIGNhbXBhaWduX2lkKQpGUk9NICgK</text>
+        <text encoding="base64">ICAgICAgIHQuY2xpbmljYWxfbGlzdF9pZCwK</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

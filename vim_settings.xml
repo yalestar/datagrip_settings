@@ -71,7 +71,7 @@
       <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.clinical_package_maps" timestamp="1591998153329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_3" timestamp="1592029994210">
+      <file name="/console_3" timestamp="1592110057710">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1591992652964">
@@ -83,10 +83,10 @@
       <file name="/clinical_list_lines [PG_LOCALHOST]" timestamp="1591998156630">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_81" timestamp="1592029993982">
+      <file name="/console_81" timestamp="1592110057438">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_82" timestamp="1592029994154">
+      <file name="/console_82" timestamp="1592110057645">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_83" timestamp="1591998063235">
@@ -104,11 +104,10 @@
       <file name="/airflow_metadata.public.task_instance" timestamp="1591990710702">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_82.sql" timestamp="1592011099843">
-        <mark key="'" line="7" column="23" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_82.sql" timestamp="1592110694945">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/task_instance [PG_LOCALHOST]" timestamp="1591990710691">
         <mark key="[" line="0" column="0" />
@@ -220,10 +219,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>and</text>
+        <text>where dag_id = ' eligibilities_importer'</text>
       </register>
       <register name="-" type="4">
-        <text>and</text>
+        <text>where dag_id = ' eligibilities_importer'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>

@@ -89,10 +89,16 @@
       <file name="/console_82" timestamp="1592110057645">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_84.sql" timestamp="1592110975166">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="/console_83" timestamp="1591998063235">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_50" timestamp="1591998046479">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_84" timestamp="1592110876681">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/condition_rxncuis [PG_LOCALHOST]" timestamp="1591992757751">
@@ -104,18 +110,12 @@
       <file name="/airflow_metadata.public.task_instance" timestamp="1591990710702">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_82.sql" timestamp="1592110694945">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_82.sql" timestamp="1592110869593" />
       <file name="/task_instance [PG_LOCALHOST]" timestamp="1591990710691">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/31a659fa-f0b3-4381-8c18-fdbbe8d14e45/console_14.sql" />
-      <jump line="103" column="12" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="65" column="53" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="127" column="117" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="120" column="6" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
@@ -214,6 +214,8 @@
       <jump line="13" column="100" filename="$APPLICATION_CONFIG_DIR$/consoles/db/97431d33-9915-45d4-b74c-b7949cffe952/console_59.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_81.sql" />
       <jump line="9" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_82.sql" />
+      <jump line="0" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_84.sql" />
+      <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_84.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">

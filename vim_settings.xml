@@ -83,13 +83,13 @@
       <file name="/clinical_list_lines [PG_LOCALHOST]" timestamp="1591998156630">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_81" timestamp="1592110057438">
+      <file name="/console_81" timestamp="1592193392586">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_82" timestamp="1592110057645">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_84.sql" timestamp="1592115583773">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_84.sql" timestamp="1592115641216">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="9" column="63" />
         <mark key="]" line="9" column="63" />
@@ -102,7 +102,7 @@
       <file name="/console_50" timestamp="1591998046479">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_84" timestamp="1592110876681">
+      <file name="/console_84" timestamp="1592193392799">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/condition_rxncuis [PG_LOCALHOST]" timestamp="1591992757751">
@@ -114,7 +114,6 @@
       <file name="/airflow_metadata.public.task_instance" timestamp="1591990710702">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_82.sql" timestamp="1592110869593" />
       <file name="/task_instance [PG_LOCALHOST]" timestamp="1591990710691">
         <mark key="[" line="0" column="0" />
       </file>

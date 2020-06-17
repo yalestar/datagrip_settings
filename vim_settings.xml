@@ -59,9 +59,6 @@
       <file name="/eligibilities [PG_LOCALHOST]" timestamp="1592254929998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.clinical_package_maps" timestamp="1591998153329">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/a.sql" timestamp="1592345868196">
         <mark key="[" line="0" column="0" />
       </file>
@@ -93,6 +90,9 @@
       <file name="/Dummy.txt" timestamp="1592334407050">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/frodo_tailfeathers.reporting.eligibility_extracts_current" timestamp="1592412418886">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.clinical_list_lines" timestamp="1591998156640">
         <mark key="[" line="0" column="0" />
       </file>
@@ -108,13 +108,13 @@
       <file name="/console_3" timestamp="1592110057710">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1592346276142">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/clinical_list_lines [PG_LOCALHOST]" timestamp="1591998156630">
+      <file name="/foo.bar" timestamp="1592412418904">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/import_loads [PG_LOCALHOST]" timestamp="1592346276109">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/eligibility_extracts_current [PG_LOCALHOST]" timestamp="1592412418861">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>

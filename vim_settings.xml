@@ -59,7 +59,7 @@
       <file name="/eligibilities [PG_LOCALHOST]" timestamp="1592254929998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1592345868196">
+      <file name="/a.sql" timestamp="1592525389390">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.import_loads" timestamp="1592346276128">
@@ -71,12 +71,12 @@
       <file name="/console_82" timestamp="1592110057645">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_84.sql" timestamp="1592518563449">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_84.sql" timestamp="1592524911822">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="63" />
-        <mark key="]" line="9" column="63" />
-        <mark key="^" line="9" column="63" />
-        <mark key="." line="9" column="62" />
+        <mark key="[" line="1" column="63" />
+        <mark key="]" line="1" column="63" />
+        <mark key="^" line="1" column="63" />
+        <mark key="." line="1" column="62" />
       </file>
       <file name="/default" timestamp="1592334035108">
         <mark key="[" line="0" column="0" />
@@ -87,23 +87,23 @@
       <file name="/dumpDataPreview" timestamp="1592346451049">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592334407050">
+      <file name="/dummy.sql" timestamp="1592525389404">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592525389414">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/frodo_tailfeathers.reporting.eligibility_extracts_current" timestamp="1592429741278">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.clinical_list_lines" timestamp="1591998156640">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.eligibilities" timestamp="1592254930031">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_81.sql" timestamp="1592438322306">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="17" />
-        <mark key="." line="14" column="16" />
-        <mark key="^" line="14" column="17" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_81.sql" timestamp="1592525537945">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="53" />
       </file>
       <file name="/console_3" timestamp="1592110057710">
         <mark key="[" line="0" column="0" />
@@ -223,11 +223,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IDA0OjU1OjQ2LjAwMDAwMA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDA0OjU1OjQ2LjAwMDAwMA==</text>
+        <text>table</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -236,24 +236,27 @@
         <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVwb3J0aW5nLmVsaWdpYmlsaXR5X2V4dHJhY3RzX2N1cnJlbnQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gcHVibGljLnhjb20gd2hlcmUgZGFnX2lkID0gJyB0cmVhdG1lbnRfY29zdF9jYWxjdWxhdG9yJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gdXBkYXRlIGRhZyBzZXQgaXNfcGF1c2VkID0gdHJ1ZTsK</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gcHVibGljLnhjb20gd2hlcmUgZGFnX2lkID0gJyB0cmVhdG1lbnRfY29zdF9jYWxjdWxhdG9yJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gdXBkYXRlIGRhZyBzZXQgaXNfcGF1c2VkID0gdHJ1ZTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gc2VsZWN0ICogZnJvbSB4Y29tOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0gZGVsZXRlIGZyb20gcHVibGljLmRhZyB3aGVyZSBkYWdfaWQgPSAnZWxpZ2liaWxpdGllc19pbXBvcnRlcic7Cg==</text>
+        <text encoding="base64">LS0gc2VsZWN0ICogZnJvbSB4Y29tOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">LS0gZGVsZXRlIGZyb20gcHVibGljLmRhZyB3aGVyZSBkYWdfaWQgPSAnZWxpZ2liaWxpdGllc19pbXBvcnRlcic7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text>SELECT count(*)
 FROM crossserve.crossserve_member_elig
 WHERE user_id IS NOT NULL;
@@ -273,11 +276,8 @@ FROM crossserve.crossserve_results results
          JOIN crossserve.crossserve_member_latest_elig elig
 on elig.combined_member_id = concat(results.member_id, results.suffix)</text>
       </register>
-      <register name="8" type="2">
-        <text>-- fill frequency from treatments_frequencies_cuis but join on what?</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHQuY2xpbmljYWxfbGlzdF9pZCwK</text>
+        <text>-- fill frequency from treatments_frequencies_cuis but join on what?</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

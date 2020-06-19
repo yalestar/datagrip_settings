@@ -99,8 +99,11 @@
       <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.eligibilities" timestamp="1592254930031">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_85.sql" timestamp="1592591410904">
-        <mark key="^" line="12" column="38" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_85.sql" timestamp="1592592117867">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="15" column="41" />
+        <mark key="^" line="15" column="41" />
+        <mark key="." line="15" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_81.sql" timestamp="1592591344090">
         <mark key="[" line="19" column="52" />
@@ -223,11 +226,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -236,9 +239,12 @@
         <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVwb3J0aW5nLmVsaWdpYmlsaXR5X2V4dHJhY3RzX2N1cnJlbnQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHN1YnN0cmluZyhmaWxlX25hbWUsIDI3LCAyKSBBUyBleHRyYWN0X2RheQpGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmZha2VfaW1wb3J0X2xvYWRzCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text>-- CREATE TABLE ffruyjgpaadoolcodrfm.fake_import_loads AS
 -- SELECT *
 -- FROM ffruyjgpaadoolcodrfm.import_loads
@@ -248,26 +254,23 @@
 -- create table reporting.fake_eligibility_extracts_current AS
 --     select * from reporting.eligibility_extracts_current;</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">LS0gR2V0IE5leHQgSUQgZnJvbSB0YWJsZQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gU2V0IE5leHQgSUQgVmFsdWUgdG8gTUFYIElECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gU2V0IE5leHQgSUQgVmFsdWUgdG8gTUFYIElECg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gcHVibGljLnhjb20gd2hlcmUgZGFnX2lkID0gJyB0cmVhdG1lbnRfY29zdF9jYWxjdWxhdG9yJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0gdXBkYXRlIGRhZyBzZXQgaXNfcGF1c2VkID0gdHJ1ZTsK</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gcHVibGljLnhjb20gd2hlcmUgZGFnX2lkID0gJyB0cmVhdG1lbnRfY29zdF9jYWxjdWxhdG9yJzsK</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

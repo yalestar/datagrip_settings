@@ -68,9 +68,6 @@
       <file name="/console_81" timestamp="1592193392586">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_82" timestamp="1592110057645">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_84.sql" timestamp="1592527557528">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="1" column="63" />
@@ -82,6 +79,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_84" timestamp="1592193392799">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_85" timestamp="1592591011091">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dumpDataPreview" timestamp="1592346451049">
@@ -99,14 +99,14 @@
       <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.eligibilities" timestamp="1592254930031">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_81.sql" timestamp="1592527241418">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_85.sql" timestamp="1592591410904">
+        <mark key="^" line="12" column="38" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_81.sql" timestamp="1592591344090">
         <mark key="[" line="19" column="52" />
         <mark key="]" line="18" column="17" />
         <mark key="." line="18" column="16" />
         <mark key="^" line="18" column="17" />
-      </file>
-      <file name="/console_3" timestamp="1592110057710">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1592525676146">
         <mark key="[" line="0" column="0" />
@@ -223,8 +223,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -236,31 +236,38 @@
         <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVwb3J0aW5nLmVsaWdpYmlsaXR5X2V4dHJhY3RzX2N1cnJlbnQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0gR2V0IE5leHQgSUQgZnJvbSB0YWJsZQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text>-- CREATE TABLE ffruyjgpaadoolcodrfm.fake_import_loads AS
+-- SELECT *
+-- FROM ffruyjgpaadoolcodrfm.import_loads
+-- WHERE import_type = 'eligibility'
+--   AND record_count IS NOT NULL;
+--
+-- create table reporting.fake_eligibility_extracts_current AS
+--     select * from reporting.eligibility_extracts_current;</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0gU2V0IE5leHQgSUQgVmFsdWUgdG8gTUFYIElECg==</text>
+        <text encoding="base64">LS0gR2V0IE5leHQgSUQgZnJvbSB0YWJsZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gU2V0IE5leHQgSUQgVmFsdWUgdG8gTUFYIElECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gcHVibGljLnhjb20gd2hlcmUgZGFnX2lkID0gJyB0cmVhdG1lbnRfY29zdF9jYWxjdWxhdG9yJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gdXBkYXRlIGRhZyBzZXQgaXNfcGF1c2VkID0gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gcHVibGljLnhjb20gd2hlcmUgZGFnX2lkID0gJyB0cmVhdG1lbnRfY29zdF9jYWxjdWxhdG9yJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gdXBkYXRlIGRhZyBzZXQgaXNfcGF1c2VkID0gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>13</text>

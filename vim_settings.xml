@@ -236,17 +236,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gcHVibGljLmRhZ19zdGF0cyB3aGVyZSBkYWdfaWQgPSAnZWxpZ2liaWxpdGllc19pbXBvcnRlcic7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>xcom</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>xcom</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVwb3J0aW5nLmVsaWdpYmlsaXR5X2V4dHJhY3RzX2N1cnJlbnQgOwo=</text>
+        <text>delete from public.xcom where dag_id = 'ding_dang';</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGVsZXRlIGZyb20gcHVibGljLmRhZ19zdGF0cyB3aGVyZSBkYWdfaWQgPSAnZWxpZ2liaWxpdGllc19pbXBvcnRlcic7Cg==</text>

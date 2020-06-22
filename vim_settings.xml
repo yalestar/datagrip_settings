@@ -54,77 +54,60 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/airflow_metadata_dev.public.dag" timestamp="1592853383658">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/840cc14b-8cbb-4a25-8acb-fd08d9833930/console_12.sql" timestamp="1592863132981">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="1592" column="0" />
+        <mark key="]" line="1592" column="0" />
+        <mark key="." line="1592" column="0" />
+      </file>
+      <file name="/dev_tester" timestamp="1592863262255">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/airflow_metadata_dev.public.ab_permission" timestamp="1592853375773">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9e3f4b0-f834-435b-9a31-7cd256a8b82e/dev_tester.sql" timestamp="1592863276152" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/FAKENEWS.sql" timestamp="1592862411681" />
+      <file name="/dbnJrn8DYI3JiSxI9hMYtdKbA.arlnmdehmvpkeyxtxdov.import_loads" timestamp="1592862490650">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1592525586214">
+      <file name="/a.sql" timestamp="1592863185245">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/FAKENEWS" timestamp="1592853089758">
+      <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.import_loads" timestamp="1592862587462">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/frodo_tailfeathers.ffruyjgpaadoolcodrfm.import_loads" timestamp="1592525676137">
+      <file name="/default" timestamp="1592862564918">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_84.sql" timestamp="1592853150562">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="11" column="45" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="/default" timestamp="1592855715035">
+      <file name="/import_loads [DEV_REPORTING_TUNNEL]" timestamp="1592862490636">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_84" timestamp="1592853089824">
+      <file name="/dumpDataPreview" timestamp="1592862679150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_85" timestamp="1592591011091">
+      <file name="/Dummy.txt" timestamp="1592863185295">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9e3f4b0-f834-435b-9a31-7cd256a8b82e/console_4.sql" timestamp="1592853397706">
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="1" column="22" />
-        <mark key="." line="1" column="21" />
-        <mark key="^" line="1" column="22" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592855712913">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9e3f4b0-f834-435b-9a31-7cd256a8b82e/console_5.sql" timestamp="1592862457955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ab_permission [DEV_AIRFLOW_METADATA]" timestamp="1592853375757">
+      <file name="/console_5" timestamp="1592862424089">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dag [DEV_AIRFLOW_METADATA]" timestamp="1592853383642">
+      <file name="/console_12" timestamp="1592862556987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_85.sql" timestamp="1592592273148">
-        <mark key="[" line="15" column="36" />
-        <mark key="]" line="15" column="37" />
-        <mark key="^" line="15" column="41" />
-        <mark key="." line="15" column="37" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_81.sql" timestamp="1592591344090">
-        <mark key="[" line="19" column="52" />
-        <mark key="]" line="18" column="17" />
-        <mark key="." line="18" column="16" />
-        <mark key="^" line="18" column="17" />
-      </file>
-      <file name="/import_loads_tester" timestamp="1592853089460">
+      <file name="/console_13" timestamp="1592863269621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1592853383672">
+      <file name="/foo.bar" timestamp="1592862587474">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_4" timestamp="1592853145286">
+      <file name="/console_4" timestamp="1592861913148">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/import_loads [PG_LOCALHOST]" timestamp="1592525676124">
+      <file name="/import_loads [PG_LOCALHOST]" timestamp="1592862587440">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/import_loads_tester.sql" timestamp="1592602958557">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/import_loads_tester.sql" timestamp="1592862434345">
         <mark key="[" line="18" column="103" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="0" />
@@ -132,7 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="6" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="91" column="38" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_scratchy.sql" />
       <jump line="126" column="9" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_conversion.sql" />
       <jump line="401" column="0" filename="$USER_HOME$/dev/pricing_porting_pandas_postgres/sql/pg_conversion.sql" />
@@ -232,12 +214,23 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_84.sql" />
       <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_84.sql" />
       <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_84.sql" />
+      <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/840cc14b-8cbb-4a25-8acb-fd08d9833930/console_12.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>xcom</text>
+      <register name="&quot;" type="2">
+        <text>INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1581, null, 'claims', '2020-06-17 05:45:23.000000', '2020-06-17 06:08:58.000000', 'rx_claim_extract.202006161434.txt', 24954, null, '2020-06-17 05:45:23.000000', '2020-06-17 06:08:58.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1582, null, 'claims', '2020-06-18 05:45:23.000000', '2020-06-18 06:19:39.000000', 'rx_claim_extract.202006171434.txt', 34058, null, '2020-06-18 05:45:23.000000', '2020-06-18 06:19:39.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1583, 866, 'rx_norm', '2020-06-18 08:30:31.000000', '2020-06-18 08:30:41.000000', '2020-06-18-083031-RxNorm_weekly_06172020.zip', 23664, 75, '2020-06-18 08:30:31.000000', '2020-06-18 08:30:41.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1584, null, 'claims', '2020-06-19 05:45:23.000000', '2020-06-19 07:00:56.000000', 'rx_claim_extract.202006181435.txt', 83076, null, '2020-06-19 05:45:23.000000', '2020-06-19 07:00:56.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1585, null, 'claims', '2020-06-20 05:45:23.000000', '2020-06-20 06:55:04.000000', 'rx_claim_extract.202006191434.txt', 77627, null, '2020-06-20 05:45:23.000000', '2020-06-20 06:55:04.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1586, 868, 'snomed_core', '2020-06-21 03:41:47.000000', '2020-06-21 03:41:48.000000', '2020-06-21-034147-SNOMEDCT_CORE_SUBSET_202005.zip', 6536, null, '2020-06-21 03:41:47.000000', '2020-06-21 03:41:48.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1587, 870, 'snomed_full', '2020-06-21 03:50:27.000000', '2020-06-21 04:04:59.000000', '2020-06-21-035025-SnomedCT_InternationalRF2_PRODUCTION_20200309T120000Z.zip', 9151381, null, '2020-06-21 03:50:27.000000', '2020-06-21 04:04:59.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1588, 869, 'ncpdp', '2020-06-21 04:09:08.000000', '2020-06-21 04:11:41.000000', '2020-06-21-034721-NCPDP_v3.1_Monthly_Master_20200601.zip', 881856, null, '2020-06-21 04:09:08.000000', '2020-06-21 04:11:41.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1589, 871, 'medispan', '2020-06-21 04:12:19.000000', '2020-06-21 04:13:41.000000', '2020-06-21-040838-RXNORMD.00.20200617.zip', 2021812, null, '2020-06-21 04:12:19.000000', '2020-06-21 04:13:41.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1590, null, 'claims', '2020-06-21 05:45:24.000000', '2020-06-21 06:35:05.000000', 'rx_claim_extract.202006201434.txt', 55364, null, '2020-06-21 05:45:24.000000', '2020-06-21 06:35:05.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1591, null, 'claims', '2020-06-22 05:45:23.000000', '2020-06-22 06:09:52.000000', 'rx_claim_extract.202006211434.txt', 26302, null, '2020-06-22 05:45:23.000000', '2020-06-22 06:09:52.000000');</text>
       </register>
       <register name="-" type="4">
         <text>xcom</text>
@@ -249,18 +242,31 @@
         <text>delete from public.xcom where dag_id = 'ding_dang';</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gcHVibGljLmRhZ19zdGF0cyB3aGVyZSBkYWdfaWQgPSAnZWxpZ2liaWxpdGllc19pbXBvcnRlcic7Cg==</text>
+        <text>INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1581, null, 'claims', '2020-06-17 05:45:23.000000', '2020-06-17 06:08:58.000000', 'rx_claim_extract.202006161434.txt', 24954, null, '2020-06-17 05:45:23.000000', '2020-06-17 06:08:58.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1582, null, 'claims', '2020-06-18 05:45:23.000000', '2020-06-18 06:19:39.000000', 'rx_claim_extract.202006171434.txt', 34058, null, '2020-06-18 05:45:23.000000', '2020-06-18 06:19:39.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1583, 866, 'rx_norm', '2020-06-18 08:30:31.000000', '2020-06-18 08:30:41.000000', '2020-06-18-083031-RxNorm_weekly_06172020.zip', 23664, 75, '2020-06-18 08:30:31.000000', '2020-06-18 08:30:41.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1584, null, 'claims', '2020-06-19 05:45:23.000000', '2020-06-19 07:00:56.000000', 'rx_claim_extract.202006181435.txt', 83076, null, '2020-06-19 05:45:23.000000', '2020-06-19 07:00:56.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1585, null, 'claims', '2020-06-20 05:45:23.000000', '2020-06-20 06:55:04.000000', 'rx_claim_extract.202006191434.txt', 77627, null, '2020-06-20 05:45:23.000000', '2020-06-20 06:55:04.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1586, 868, 'snomed_core', '2020-06-21 03:41:47.000000', '2020-06-21 03:41:48.000000', '2020-06-21-034147-SNOMEDCT_CORE_SUBSET_202005.zip', 6536, null, '2020-06-21 03:41:47.000000', '2020-06-21 03:41:48.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1587, 870, 'snomed_full', '2020-06-21 03:50:27.000000', '2020-06-21 04:04:59.000000', '2020-06-21-035025-SnomedCT_InternationalRF2_PRODUCTION_20200309T120000Z.zip', 9151381, null, '2020-06-21 03:50:27.000000', '2020-06-21 04:04:59.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1588, 869, 'ncpdp', '2020-06-21 04:09:08.000000', '2020-06-21 04:11:41.000000', '2020-06-21-034721-NCPDP_v3.1_Monthly_Master_20200601.zip', 881856, null, '2020-06-21 04:09:08.000000', '2020-06-21 04:11:41.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1589, 871, 'medispan', '2020-06-21 04:12:19.000000', '2020-06-21 04:13:41.000000', '2020-06-21-040838-RXNORMD.00.20200617.zip', 2021812, null, '2020-06-21 04:12:19.000000', '2020-06-21 04:13:41.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1590, null, 'claims', '2020-06-21 05:45:24.000000', '2020-06-21 06:35:05.000000', 'rx_claim_extract.202006201434.txt', 55364, null, '2020-06-21 05:45:24.000000', '2020-06-21 06:35:05.000000');
+INSERT INTO arlnmdehmvpkeyxtxdov.import_loads (id, import_id, import_type, started_at, finished_at, file_name, record_count, rxn_sat_period_id, created_at, updated_at) VALUES (1591, null, 'claims', '2020-06-22 05:45:23.000000', '2020-06-22 06:09:52.000000', 'rx_claim_extract.202006211434.txt', 26302, null, '2020-06-22 05:45:23.000000', '2020-06-22 06:09:52.000000');</text>
       </register>
       <register name="2" type="2">
-        <text>delete from public.xcom where key = 'dummyKey'</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gcHVibGljLmRhZ19zdGF0cyB3aGVyZSBkYWdfaWQgPSAnZWxpZ2liaWxpdGllc19pbXBvcnRlcic7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHN1YnN0cmluZyhmaWxlX25hbWUsIDI3LCAyKSBBUyBleHRyYWN0X2RheQpGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmZha2VfaW1wb3J0X2xvYWRzCg==</text>
+        <text>delete from public.xcom where key = 'dummyKey'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHN1YnN0cmluZyhmaWxlX25hbWUsIDI3LCAyKSBBUyBleHRyYWN0X2RheQpGUk9NIGZmcnV5amdwYWFkb29sY29kcmZtLmZha2VfaW1wb3J0X2xvYWRzCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text>-- CREATE TABLE ffruyjgpaadoolcodrfm.fake_import_loads AS
 -- SELECT *
 -- FROM ffruyjgpaadoolcodrfm.import_loads
@@ -270,17 +276,14 @@
 -- create table reporting.fake_eligibility_extracts_current AS
 --     select * from reporting.eligibility_extracts_current;</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">LS0gR2V0IE5leHQgSUQgZnJvbSB0YWJsZQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0gU2V0IE5leHQgSUQgVmFsdWUgdG8gTUFYIElECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gU2V0IE5leHQgSUQgVmFsdWUgdG8gTUFYIElECg==</text>
       </register>
       <register name=":" type="4">
         <text>11</text>

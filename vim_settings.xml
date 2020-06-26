@@ -54,28 +54,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592863185295">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/840cc14b-8cbb-4a25-8acb-fd08d9833930/console_12.sql" timestamp="1592863132981">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="1592" column="0" />
-        <mark key="]" line="1592" column="0" />
-        <mark key="." line="1592" column="0" />
-      </file>
-      <file name="/dev_tester" timestamp="1592863262255">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/campaigns" timestamp="1593196334767">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/campaigns [MYSQL_PROD_TUNNEL]" timestamp="1593196334748">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dag" timestamp="1593196086108">
+      <file name="/dag" timestamp="1593207618030">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/import_loads_tester" timestamp="1593196086202">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9e3f4b0-f834-435b-9a31-7cd256a8b82e/console_5.sql" timestamp="1593214463863">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/campaign_categories" timestamp="1593214463691">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/import_loads_tester" timestamp="1593207618079">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_5" timestamp="1593207765377">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_13" timestamp="1592863269621">
@@ -84,16 +81,19 @@
       <file name="/a.sql" timestamp="1592889292676">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1593196334784">
+      <file name="/foo.bar" timestamp="1593214463706">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/FAKENEWS" timestamp="1593196086302">
+      <file name="/FAKENEWS" timestamp="1593207618194">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_4" timestamp="1593196086413">
+      <file name="/console_4" timestamp="1593207618311">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/airflow_metadata.public.dag" timestamp="1593196017990">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/campaign_categories [REPORTING_TUNNEL]" timestamp="1593214463674">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/465b4a05-db46-4278-9a98-8f2d3db531d4/console_84.sql" timestamp="1592867220976">
@@ -106,13 +106,13 @@
       <file name="/default" timestamp="1592889254642">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dag [PG_LOCALHOST]" timestamp="1593196086103">
+      <file name="/dag [PG_LOCALHOST]" timestamp="1593207618025">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_84" timestamp="1593196086353">
+      <file name="/console_84" timestamp="1593207618246">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/devvy_tester" timestamp="1593196086516">
+      <file name="/devvy_tester" timestamp="1593207618367">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9e3f4b0-f834-435b-9a31-7cd256a8b82e/console_4.sql" timestamp="1592864372969">
@@ -120,9 +120,6 @@
         <mark key="]" line="1" column="22" />
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="22" />
-      </file>
-      <file name="/dumpDataPreview" timestamp="1592862679150">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>

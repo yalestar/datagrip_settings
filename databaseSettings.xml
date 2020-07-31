@@ -1,6 +1,7 @@
 <application>
   <component name="DatabaseSettings" version="4">
     <option name="page-size" value="1000" />
+    <option name="warn-unsafe-query" value="false" />
     <text-mode>
       <parameter-patterns>
         <parameter-pattern value="#(\w+)#" in-scripts="true" scope="XML" predefined="#name#" />

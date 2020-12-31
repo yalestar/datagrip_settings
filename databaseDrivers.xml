@@ -118,13 +118,17 @@
     <driver id="vertica">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="java.sql.Driver" name="athenerdriver" driver-class="com.simba.athena.jdbc42.Driver">
+    <driver id="java.sql.Driver" name="athenerdriver" driver-class="com.simba.athena.jdbc.Driver">
+      <url-template name="default" template="jdbc:awsathena://athena.[{host::us-west-1}].amazonaws.com[:{port::443}][\?&lt;;,{:identifier}={:param}&gt;]" />
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
       <option name="format-sources-on-sync" value="true" />
       <option name="send-app-info" value="true" />
       <option name="source-loading" value="USER_SOURCES" />
       <option name="schema-control" value="AUTOMATIC" />
+      <property name="AwsCredentialsProviderClass" value="com.simba.athena.amazonaws.auth.DefaultAWSCredentialsProviderChain" />
+      <property name="S3OutputLocation" value="s3://uberads-analysis-us-west-1/yjk/athena_reults/" />
+      <property name="AwsRegion" value="us-west-1" />
       <library>
         <url>file://$USER_HOME$/Downloads/AthenaJDBC42.jar</url>
       </library>

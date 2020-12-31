@@ -10,6 +10,8 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
@@ -51,10 +53,19 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
   <action id="ProblemsView.CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="ProblemsView.ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="SearchEverywhere.PrevTab" />
+  <action id="Switcher" />
 </keymap>
